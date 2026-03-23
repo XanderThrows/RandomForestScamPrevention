@@ -87,7 +87,7 @@ namespace ScamModelTrainer
         //get feature importance after training
         public void PrintFeatureImportance(ITransformer model, string[] featureNames)
         {
-            if (model.LastTransformer is Microsoft.ML.Trainers.FastForest.FastForestBinaryModelParameters treeModel)
+            /*if (model.LastTransformer is Microsoft.ML.Trainers.FastForest.FastForestBinaryModelParameters treeModel)
             {
                 var importances = treeModel.GetFeatureWeights();
                 for (int i = 0; i < featureNames.Length; i++)
@@ -96,7 +96,7 @@ namespace ScamModelTrainer
             else
             {
                 Console.WriteLine("Model does not support feature importance extraction.");
-            }
+            }*/
         }
     }
 
