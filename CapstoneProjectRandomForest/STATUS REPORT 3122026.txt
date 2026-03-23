@@ -1,0 +1,11 @@
+STATUS REPORT 3/12/2026:
+
+- Updated my capstone document to include more diagrams and explanations
+
+- Created Pseudo Code for Random Forest Algorithm
+
+- Created Data Spread
+
+Changes:
+
+- The only change is that I will be training the model before handing it into UI for faster performance.

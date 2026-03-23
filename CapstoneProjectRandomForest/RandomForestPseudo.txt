@@ -1,0 +1,115 @@
+// RandomForestPseudo
+// Train model offline
+// Use trained model in UI for fast predictions
+
+// Random Forest Classification Process
+// 1. Build many decision trees using random subsets of data
+// 2. Each tree uses random subsets of features
+// 3. Each tree learns patterns from training data
+// 4. Trees vote on prediction
+// 5. Combine votes to calculate probability
+// 6. Convert probability into risk level
+
+
+// Data Structure
+
+class TransactionData
+{
+    float TransactionAmount        // numeric
+    float AverageTransactionAmount // numeric
+    float CustomerLocation         // categorical -> encode numeric
+    float RecipientLocation        // categorical -> encode numeric
+    float TransactionType          // categorical -> encode numeric
+    float CurrencyType             // categorical -> encode numeric
+    float HourOfDay                // timestamp in da' ui
+    bool RiskLabel                 // 0 = safe, 1 = scam
+}
+
+// Load Dataset
+
+RFData = readCSV("randomforestdata.csv")
+
+// remove rows without labels
+RFData = removeRowsWhere(RFData.RiskLabel is null)
+
+// Feature Selection
+
+XData = RFData[
+    TransactionAmount,
+    AverageTransactionAmount,
+    CustomerLocation,
+    RecipientLocation,
+    TransactionType,
+    CurrencyType,
+    HourOfDay
+]
+
+YData = RFData.RiskLabel
+
+// model should learn
+// 1 = scam
+// 0 = safe
+
+// Convert Categorical Data
+
+// example encoding
+CustomerLocation:
+    America -> 0
+    Europe -> 1
+    Asia -> 2
+
+TransactionType:
+    OnlineTransfer -> 0
+    WireTransfer -> 1
+    POSPurchase -> 2
+
+
+// Split Dataset
+
+// 80% training
+// 20% testing
+
+(X_train, X_test, Y_train, Y_test) =
+    trainTestSplit(XData, YData, 0.8)
+
+// Create Random Forest
+
+RandomForestModel RF
+RF.numberOfTrees = 100
+
+// Train Model
+
+RF.train(X_train, Y_train)
+
+// Test Model
+
+predictions = RF.predict(X_test)
+
+accuracy = calculateAccuracy(predictions, Y_test)
+
+// Output Results
+
+print("Model Accuracy:", accuracy)
+
+// Example Prediction
+
+sampleTransaction = inputTransaction()
+
+probability = RF.predictProbability(sampleTransaction)
+
+// Convert probability to risk level
+
+if probability < 0.3
+    riskLevel = "Low Risk"
+else if probability < 0.7
+    riskLevel = "Medium Risk"
+else
+    riskLevel = "High Risk"
+
+print(probability, riskLevel)
+
+// Connect to UI
+
+UI -> sends transaction data
+Model -> returns probability + risk level
+UI -> displays result

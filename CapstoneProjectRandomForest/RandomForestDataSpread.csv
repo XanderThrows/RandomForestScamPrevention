@@ -1,0 +1,74 @@
+TransactionAmount,AverageTransactionAmount,CustomerLocation,RecipientLocation,TransactionType,CurrencyType,Timestamp,RiskLabel
+120.50,100.00,New York,London,Online Transfer,USD,2025-01-15 14:32:00,0
+4500.00,2000.00,Paris,Berlin,Wire Transfer,EUR,2025-03-02 09:15:00,1
+15.00,20.00,Tokyo,Osaka,POS Purchase,JPY,2025-02-12 17:48:00,0
+800.00,500.00,Sydney,Singapore,Internal Transfer,AUD,2025-01-22 11:05:00,0
+20000.00,15000.00,New York,Dubai,International Transfer,USD,2025-04-01 23:45:00,1
+75.00,60.00,London,London,Card Payment,GBP,2025-02-28 08:20:00,0
+600.00,500.00,Berlin,Paris,ATM Withdrawal,EUR,2025-03-18 10:12:00,0
+300.00,250.00,Sydney,New York,Wire Transfer,AUD,2025-05-05 16:00:00,1
+50.00,40.00,Tokyo,Tokyo,POS Purchase,JPY,2025-06-10 12:30:00,0
+1500.00,1200.00,Paris,Berlin,Online Transfer,EUR,2025-07-21 09:45:00,1
+220.00,200.00,London,New York,Deposit,GBP,2025-08-11 14:05:00,0
+9000.00,7500.00,New York,Sydney,Wire Transfer,USD,2025-09-02 10:20:00,1
+45.00,35.00,Tokyo,Tokyo,POS Purchase,JPY,2025-02-25 11:12:00,0
+1800.00,1400.00,Paris,Berlin,Card Payment,EUR,2025-03-30 15:50:00,1
+350.00,300.00,Sydney,Singapore,Internal Transfer,AUD,2025-04-12 09:33:00,0
+500.00,400.00,London,London,ATM Withdrawal,GBP,2025-05-18 16:22:00,0
+12000.00,10000.00,New York,Dubai,International Transfer,USD,2025-06-21 18:10:00,1
+75.00,60.00,Tokyo,Osaka,POS Purchase,JPY,2025-07-07 12:45:00,0
+2400.00,2000.00,Berlin,Paris,Online Transfer,EUR,2025-08-15 09:55:00,1
+650.00,500.00,Sydney,New York,Wire Transfer,AUD,2025-09-19 14:30:00,0
+85.00,70.00,London,London,Card Payment,GBP,2025-10-01 10:10:00,0
+1700.00,1500.00,Paris,Berlin,Online Transfer,EUR,2025-10-20 16:40:00,1
+400.00,350.00,Tokyo,Tokyo,ATM Withdrawal,JPY,2025-11-03 09:50:00,0
+950.00,800.00,New York,Sydney,Wire Transfer,USD,2025-11-22 12:30:00,1
+60.00,50.00,Sydney,Singapore,POS Purchase,AUD,2025-12-05 11:20:00,0
+1300.00,1200.00,Berlin,Paris,Online Transfer,EUR,2025-12-18 14:15:00,1
+250.00,200.00,London,London,Deposit,GBP,2025-01-05 09:45:00,0
+11000.00,9500.00,New York,Dubai,International Transfer,USD,2025-01-25 17:35:00,1
+55.00,45.00,Tokyo,Tokyo,POS Purchase,JPY,2025-02-08 13:25:00,0
+2000.00,1700.00,Paris,Berlin,Card Payment,EUR,2025-02-28 16:50:00,1
+450.00,400.00,Sydney,Singapore,Internal Transfer,AUD,2025-03-10 09:12:00,0
+700.00,600.00,London,London,ATM Withdrawal,GBP,2025-03-22 10:40:00,0
+18000.00,16000.00,New York,Dubai,International Transfer,USD,2025-04-11 18:05:00,1
+65.00,50.00,Tokyo,Osaka,POS Purchase,JPY,2025-04-27 12:30:00,0
+2600.00,2200.00,Berlin,Paris,Online Transfer,EUR,2025-05-13 14:45:00,1
+700.00,600.00,Sydney,New York,Wire Transfer,AUD,2025-05-29 09:15:00,0
+90.00,80.00,London,London,Card Payment,GBP,2025-06-12 15:10:00,0
+1900.00,1600.00,Paris,Berlin,Online Transfer,EUR,2025-06-28 11:40:00,1
+420.00,350.00,Tokyo,Tokyo,ATM Withdrawal,JPY,2025-07-15 10:25:00,0
+1000.00,900.00,New York,Sydney,Wire Transfer,USD,2025-07-30 14:20:00,1
+50.00,45.00,Sydney,Singapore,POS Purchase,AUD,2025-08-05 09:50:00,0
+1400.00,1200.00,Berlin,Paris,Online Transfer,EUR,2025-08-22 16:30:00,1
+300.00,250.00,London,London,Deposit,GBP,2025-09-09 11:10:00,0
+12000.00,10000.00,New York,Dubai,International Transfer,USD,2025-09-28 18:15:00,1
+70.00,60.00,Tokyo,Tokyo,POS Purchase,JPY,2025-10-05 12:05:00,0
+2100.00,1800.00,Paris,Berlin,Card Payment,EUR,2025-10-21 14:45:00,1
+500.00,400.00,Sydney,Singapore,Internal Transfer,AUD,2025-11-08 10:35:00,0
+800.00,700.00,London,London,ATM Withdrawal,GBP,2025-11-24 16:00:00,0
+15000.00,13000.00,New York,Dubai,International Transfer,USD,2025-12-12 18:20:00,1
+55.00,45.00,Tokyo,Osaka,POS Purchase,JPY,2025-12-28 13:10:00,0
+2700.00,2300.00,Berlin,Paris,Online Transfer,EUR,2025-01-15 09:20:00,1
+650.00,550.00,Sydney,New York,Wire Transfer,AUD,2025-01-30 14:45:00,0
+100.00,80.00,London,London,Card Payment,GBP,2025-02-10 11:30:00,0
+2000.00,1700.00,Paris,Berlin,Online Transfer,EUR,2025-02-25 16:10:00,1
+400.00,350.00,Tokyo,Tokyo,ATM Withdrawal,JPY,2025-03-12 10:05:00,0
+950.00,850.00,New York,Sydney,Wire Transfer,USD,2025-03-28 15:20:00,1
+65.00,55.00,Sydney,Singapore,POS Purchase,AUD,2025-04-14 12:30:00,0
+1300.00,1200.00,Berlin,Paris,Online Transfer,EUR,2025-04-30 14:50:00,1
+280.00,230.00,London,London,Deposit,GBP,2025-05-16 09:40:00,0
+11000.00,9500.00,New York,Dubai,International Transfer,USD,2025-06-01 17:15:00,1
+75.00,65.00,Tokyo,Tokyo,POS Purchase,JPY,2025-06-18 12:00:00,0
+2200.00,1900.00,Paris,Berlin,Card Payment,EUR,2025-07-04 14:45:00,1
+450.00,400.00,Sydney,Singapore,Internal Transfer,AUD,2025-07-20 10:25:00,0
+750.00,650.00,London,London,ATM Withdrawal,GBP,2025-08-06 16:15:00,0
+17000.00,15000.00,New York,Dubai,International Transfer,USD,2025-08-22 18:35:00,1
+60.00,50.00,Tokyo,Osaka,POS Purchase,JPY,2025-09-08 12:20:00,0
+2500.00,2200.00,Berlin,Paris,Online Transfer,EUR,2025-09-24 15:40:00,1
+700.00,600.00,Sydney,New York,Wire Transfer,AUD,2025-10-10 09:55:00,0
+95.00,85.00,London,London,Card Payment,GBP,2025-10-26 13:30:00,0
+1900.00,1600.00,Paris,Berlin,Online Transfer,EUR,2025-11-11 16:05:00,1
+430.00,360.00,Tokyo,Tokyo,ATM Withdrawal,JPY,2025-11-27 10:50:00,0
+1050.00,950.00,New York,Sydney,Wire Transfer,USD,2025-12-13 14:15:00,1
+55.00,45.00,Sydney,Singapore,POS Purchase,AUD,2025-12-29 11:25:00,0
