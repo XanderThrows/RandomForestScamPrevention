@@ -1,42 +1,134 @@
 ﻿using Microsoft.ML;
 using Microsoft.ML.Data;
+using Microsoft.ML.Trainers.FastTree;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
+//NAVI
 namespace ScamModelTrainer
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
 
-            var mlContext = new MLContext();
+            var randomSeed = new Random().Next();
+            var mlContext = new MLContext(seed: randomSeed);  //sometimes gives AUC error??
 
-            // Load Dataset
+            // Load Data
             var data = mlContext.Data.LoadFromTextFile<TransactionData>(
-            "RandomForestDataSpread.csv",
-            hasHeader: true,
-            separatorChar: ','
-            );
+                "RandomForestDataSpread.csv",
+                hasHeader: true,
+                separatorChar: ',');
 
-            //view data
-            var preview = data.Preview();
-            Console.WriteLine(preview);
+            // Clean and shuffle
+            var cleanData = data; //trusting my data
+            var shuffledData = mlContext.Data.ShuffleRows(cleanData);
+            var split = mlContext.Data.TrainTestSplit(shuffledData);  //testFraction: 0.2
+
+            // Pipeline
+            var dataPipeline = mlContext.Transforms.Categorical.OneHotEncoding("CustomerLocationVector", nameof(TransactionData.CustomerLocation))
+                .Append(mlContext.Transforms.Categorical.OneHotEncoding("RecipientLocationVector", nameof(TransactionData.RecipientLocation)))
+                .Append(mlContext.Transforms.Categorical.OneHotEncoding("TransactionTypeVector", nameof(TransactionData.TransactionType)))
+                .Append(mlContext.Transforms.Categorical.OneHotEncoding("CurrencyTypeVector", nameof(TransactionData.CurrencyType)))
+                .Append(mlContext.Transforms.Concatenate("Features",
+                    nameof(TransactionData.TransactionAmount),
+                    nameof(TransactionData.AverageTransactionAmount),
+                    "CustomerLocationVector",
+                    "RecipientLocationVector",
+                    "TransactionTypeVector",
+                    "CurrencyTypeVector"));
+
+            var trainer = mlContext.BinaryClassification.Trainers.FastForest(new FastForestBinaryTrainer.Options
+            {
+
+                LabelColumnName = nameof(TransactionData.RiskLabel),
+                FeatureColumnName = "Features",
+                NumberOfTrees = 200,   //200
+                NumberOfLeaves = 20,   //20
+                MinimumExampleCountPerLeaf = 10,  //10
+                FeatureFraction = 0.8
+            });
 
 
-            //clean data
+            var trainingPipeline = dataPipeline
+                .Append(trainer)
+                .Append(mlContext.BinaryClassification.Calibrators.Platt(
+                    labelColumnName: nameof(TransactionData.RiskLabel),
+                       scoreColumnName: "Score"));
 
-            //define features
 
-            //train RF using clean data and features
+            // Train model
+            Console.WriteLine("Training model...");
+            var model = trainingPipeline.Fit(split.TrainSet);
+            mlContext.Model.Save(model, split.TrainSet.Schema, "ScamRandomForest.zip");  //save it
+            Console.WriteLine("Model saved to ScamRandomForest.zip\n");
 
-            // After training
-            // featureSelector.PrintFeatureImportance(model, features);
+            var preview = model.Transform(data).Preview();
 
+            var metrics = mlContext.BinaryClassification.Evaluate(
+                            model.Transform(split.TestSet),
+                            labelColumnName: nameof(TransactionData.RiskLabel));
+            /*mlContext.BinaryClassification.EvaluateNonCalibrated(model.Transform(split.TestSet),
+                    labelColumnName: nameof(TransactionData.RiskLabel));*/
+
+            Console.WriteLine($"{metrics.ToString()} {preview}");
+
+            var allData = mlContext.Data.CreateEnumerable<TransactionData>(data, false).ToList();
+            Console.WriteLine($"Fraud: {allData.Count(x => x.RiskLabel)}");
+            Console.WriteLine($"Not Fraud: {allData.Count(x => !x.RiskLabel)}");
+
+            //Console.WriteLine("END");
+
+
+            // Evaluate Test Set
+            Console.WriteLine("--- Test Set Results ---");
+            var predictions = model.Transform(split.TestSet);
+            var predictedEnumerable = mlContext.Data.CreateEnumerable<Prediction>(predictions, reuseRowObject: false);
+
+            foreach (var p in predictedEnumerable)
+            {
+                Console.WriteLine($"Actual: {p.Label,-5} | Pred: {p.PredictedLabel,-5} | Prob: {p.Probability:P2}");
+            }
+
+            // Predict Single New Transaction
+            var predictionEngine = mlContext.Model.CreatePredictionEngine<TransactionData, Prediction>(model);
+            var newTransaction = new TransactionData
+            {
+                TransactionAmount = 20,   
+                AverageTransactionAmount = 500,   
+                CustomerLocation = "New York",
+                TransactionType = "subscription",
+                CurrencyType = "USD",
+                RecipientLocation = "New York"
+            };
+
+            var result = predictionEngine.Predict(newTransaction);
+            float finalProb = 1 / (1 + MathF.Exp(-result.Score));
+            float finalMargin = Math.Abs(finalProb - 0.5f) * 2;
+
+            Console.WriteLine("\n--- Sample Transaction Prediction ---");
+            Console.WriteLine($"Predicted Risk: {result.PredictedLabel}");
+            //Console.WriteLine($"Probability:    {finalProb:P2}");
+            Console.WriteLine($"Confidence:     {finalMargin:F2}");
+
+            if(result.Score > 0.6)
+            {
+                Console.WriteLine("Scam");
+            }
+            else if(result.Score < 0.4)
+            {
+                Console.WriteLine("Safe");
+            }
+            else
+            {
+                Console.WriteLine("Flag");
+            }
         }
     }
 
@@ -49,81 +141,37 @@ namespace ScamModelTrainer
         public float AverageTransactionAmount;  
 
         [LoadColumn(2)]
-        public float CustomerLocation;          // categorical -> encode numeric
+        public string CustomerLocation;          // categorical -> encode numeric
 
         [LoadColumn(3)]
-        public float RecipientLocation;         //edit: ignoring to avoid overfitting
+        public string RecipientLocation;         //edit: not ignoring 
 
         [LoadColumn(4)]
-        public float TransactionType;          // categorical -> encode numeric
+        public string TransactionType;          // categorical -> encode numeric
 
         [LoadColumn(5)]
-        public float CurrencyType;             // categorical -> encode numeric
+        public string CurrencyType;             // categorical -> encode numeric
 
-        [LoadColumn(6)]
-        public float HourOfDay;                
+        /*[LoadColumn(6)]
+        public string Timestamp;*/      //ignored, too complicated and overfitting
 
         [LoadColumn(7)]
-        public float RiskLabel;                // 0 = safe, 1 = scam
+        public bool RiskLabel;
     }
 
-    //picking important things
-    public class FeatureSelector
+    public class Prediction
     {
-        private readonly MLContext _mlContext;
+        [ColumnName("PredictedLabel")]
+        public bool PredictedLabel { get; set; }
 
-        public FeatureSelector(MLContext mlContext)
-        {
-            _mlContext = mlContext;
-        }
+        //added
+        [ColumnName("Probability")]
+        public float Probability { get; set; }
 
-        //returns filtered data with only valid labels
-        public IDataView FilterMissingLabels(IDataView data)
-        {
-            var filteredData = _mlContext.Data.FilterRowsByMissingValues(data, nameof(TransactionData.RiskLabel));
-            return filteredData;
-        }
+        [ColumnName("Score")]
+        public float Score { get; set; }
 
-        //get feature importance after training
-        public void PrintFeatureImportance(ITransformer model, string[] featureNames)
-        {
-            /*if (model.LastTransformer is Microsoft.ML.Trainers.FastForest.FastForestBinaryModelParameters treeModel)
-            {
-                var importances = treeModel.GetFeatureWeights();
-                for (int i = 0; i < featureNames.Length; i++)
-                    Console.WriteLine($"{featureNames[i]} importance: {importances[i]}");
-            }
-            else
-            {
-                Console.WriteLine("Model does not support feature importance extraction.");
-            }*/
-        }
+        [ColumnName("RiskLabel")]   
+        public bool Label { get; set; } 
     }
-
-    //converting categoral data
-    public class Preprocessor
-    {
-        private readonly MLContext _mlContext;
-
-        public Preprocessor(MLContext mlContext)
-        {
-            _mlContext = mlContext;
-        }
-
-        public IDataView ConvertCategorical(IDataView data)
-        {
-            //grouped encoding
-            var pipeline = _mlContext.Transforms.Conversion.MapValueToKey("CustomerRegion")
-                .Append(_mlContext.Transforms.Conversion.MapValueToKey("TransactionType"))
-                .Append(_mlContext.Transforms.Conversion.MapValueToKey("CurrencyType"));
-
-            return pipeline.Fit(data).Transform(data);
-        }
-
-        public IDataView FilterMissingLabels(IDataView data)
-        {
-            return _mlContext.Data.FilterRowsByMissingValues(data, nameof(TransactionData.RiskLabel));
-        }
-    }
-
 }

@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 public class RiskGuage : UserControl  
 {
-    private float riskValue = 0;
+    private float riskValue = 0;  //private
 
     public float RiskValue
     {
@@ -71,7 +71,13 @@ public class RiskGuage : UserControl
             // 
             this.Name = "RiskGuage";
             this.Size = new System.Drawing.Size(651, 591);
+            this.Load += new System.EventHandler(this.RiskGuage_Load);
             this.ResumeLayout(false);
+
+    }
+
+    private void RiskGuage_Load(object sender, EventArgs e)
+    {
 
     }
 }
