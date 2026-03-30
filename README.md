@@ -55,7 +55,7 @@ Displaying:
 - Risk visualizations (Risk gauge or guage if you cant spell like me.)
 - Recommended actions (Allow, Flag, Block)
 
-**ScamModelTrainer (Model Training Module) - **
+**ScamModelTrainer (Model Training Module) -**
 
 This is a console-based application
 Responsible for:
