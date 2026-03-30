@@ -6,6 +6,69 @@
 **Date:** 1/24/2026  
 
 ---
+## Dependencies & Setup Requirements
+
+- To successfully build and run this project, ensure the following dependencies and configurations are met:
+
+**Required Libraries**
+-Microsoft.ML – Core machine learning framework used for model creation and prediction
+-Microsoft.ML.FastTree (FastForest) – Used to implement the Random Forest algorithm
+
+**These can be installed via NuGet Package Manager in Visual Studio.**
+
+---
+
+## Platform Requirement
+**The project must be run in x64 architecture**
+In Visual Studio:
+- Go to Build → Configuration Manager
+- Set Active solution platform → x64
+
+**Failure to use x64 may result in runtime errors or model training issues.**
+
+---
+
+## Solution Dependency Setup
+**Ensure that:**
+**CapstoneProjectRandomForest.sln depends on ScamModelTrainer**
+- In Visual Studio:
+- Right-click solution → Project Dependencies
+- Set CapstoneProjectRandomForest to depend on ScamModelTrainer
+
+**This ensures the trained model is built before the UI attempts to use it.**
+
+---
+
+## Project Structure Overview
+
+**This project is divided into two main components:**
+
+**CapstoneProjectRandomForest (Main Application) -**
+
+This is the UI-based application
+Built using Windows Forms (Visual Studio)
+Integrates the trained AI model
+Responsible for:
+- Taking user input (transaction data and such)
+Displaying:
+- Risk score
+- Risk visualizations (Risk gauge or guage if you cant spell like me.)
+- Recommended actions (Allow, Flag, Block)
+
+**ScamModelTrainer (Model Training Module) - **
+
+This is a console-based application
+Responsible for:
+- Training the Random Forest model
+- Evaluating performance
+Displaying:
+- Accuracy
+- Confusion matrix
+- Prediction metrics
+
+Used during development to analyze learning behavior and improve the model
+
+---
 
 ## Project Overview
 
@@ -104,6 +167,13 @@ Random Forest is chosen because it:
 - Is interpretable and effective for small to medium datasets  
 
 Personal Note: This is the first time implementing a Random Forest, and it fits my interests in fraud detection and AI.
+
+---
+
+## Dataset
+
+**Where did it come from?**
+- The dataset of over 10,000 lines was synthetically generated using Mockaroo: https://mockaroo.com/
 
 ---
 

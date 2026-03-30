@@ -72,3 +72,2707 @@ TransactionAmount,AverageTransactionAmount,CustomerLocation,RecipientLocation,Tr
 430.00,360.00,Tokyo,Tokyo,ATM Withdrawal,JPY,2025-11-27 10:50:00,0
 1050.00,950.00,New York,Sydney,Wire Transfer,USD,2025-12-13 14:15:00,1
 55.00,45.00,Sydney,Singapore,POS Purchase,AUD,2025-12-29 11:25:00,0
+95.00,80.00,Los Angeles,Chicago,Card Payment,USD,2025-02-14 13:20:00,0
+5200.00,3000.00,San Francisco,Tokyo,Wire Transfer,USD,2025-03-03 10:10:00,1
+40.00,35.00,Mexico City,Mexico City,POS Purchase,MXN,2025-01-20 15:45:00,0
+780.00,600.00,Toronto,Vancouver,Online Transfer,CAD,2025-04-11 11:30:00,0
+15000.00,9000.00,Dubai,Mumbai,International Transfer,AED,2025-05-01 22:10:00,1
+68.00,60.00,Amsterdam,Brussels,Card Payment,EUR,2025-06-18 09:25:00,0
+2100.00,1500.00,Singapore,Hong Kong,Wire Transfer,SGD,2025-07-02 14:05:00,1
+25.00,20.00,Bangkok,Bangkok,POS Purchase,THB,2025-08-09 12:10:00,0
+890.00,700.00,Chicago,New York,Online Transfer,USD,2025-09-12 10:50:00,0
+13400.00,10000.00,Los Angeles,Dubai,International Transfer,USD,2025-10-03 18:30:00,1
+72.00,65.00,Rome,Milan,Card Payment,EUR,2025-11-07 13:40:00,0
+3100.00,2500.00,Frankfurt,Zurich,Wire Transfer,EUR,2025-12-01 09:55:00,1
+55.00,45.00,Seoul,Seoul,POS Purchase,KRW,2025-01-28 11:15:00,0
+980.00,850.00,Houston,Atlanta,Online Transfer,USD,2025-02-16 15:35:00,0
+17500.00,14000.00,New York,Singapore,International Transfer,USD,2025-03-22 21:45:00,1
+60.00,50.00,Istanbul,Istanbul,POS Purchase,TRY,2025-04-30 14:10:00,0
+2400.00,2000.00,Madrid,Lisbon,Online Transfer,EUR,2025-05-19 10:20:00,1
+85.00,70.00,Berlin,Vienna,Card Payment,EUR,2025-06-07 12:30:00,0
+670.00,550.00,Melbourne,Sydney,Internal Transfer,AUD,2025-07-25 09:40:00,0
+9200.00,8000.00,Toronto,London,Wire Transfer,CAD,2025-08-14 16:55:00,1
+48.00,40.00,Jakarta,Jakarta,POS Purchase,IDR,2025-09-05 11:05:00,0
+1250.00,1000.00,San Diego,Seattle,Online Transfer,USD,2025-10-18 13:15:00,0
+16000.00,13000.00,Paris,Dubai,International Transfer,EUR,2025-11-22 19:25:00,1
+90.00,75.00,Brussels,Amsterdam,Card Payment,EUR,2025-12-10 10:45:00,0
+110.00,90.00,Denver,Phoenix,Card Payment,USD,2025-01-12 12:10:00,0
+4800.00,2500.00,Chicago,London,Wire Transfer,USD,2025-02-05 09:40:00,1
+35.00,30.00,Lima,Lima,POS Purchase,PEN,2025-03-14 13:25:00,0
+920.00,700.00,Vancouver,Calgary,Online Transfer,CAD,2025-04-08 11:15:00,0
+14200.00,10000.00,Riyadh,Dubai,International Transfer,SAR,2025-05-27 20:30:00,1
+75.00,65.00,Barcelona,Valencia,Card Payment,EUR,2025-06-19 10:05:00,0
+2600.00,1800.00,Hong Kong,Singapore,Wire Transfer,HKD,2025-07-11 14:50:00,1
+28.00,25.00,Manila,Manila,POS Purchase,PHP,2025-08-03 12:00:00,0
+870.00,750.00,Boston,New York,Online Transfer,USD,2025-09-09 09:45:00,0
+15800.00,12000.00,San Francisco,Dubai,International Transfer,USD,2025-10-14 18:20:00,1
+95.00,80.00,Munich,Hamburg,Card Payment,EUR,2025-11-02 13:35:00,0
+3400.00,2600.00,Zurich,Vienna,Wire Transfer,CHF,2025-12-06 10:25:00,1
+50.00,45.00,Kuala Lumpur,Kuala Lumpur,POS Purchase,MYR,2025-01-29 11:40:00,0
+1020.00,900.00,Miami,Orlando,Online Transfer,USD,2025-02-18 15:55:00,0
+16800.00,14000.00,London,Singapore,International Transfer,GBP,2025-03-26 21:10:00,1
+62.00,55.00,Cairo,Cairo,POS Purchase,EGP,2025-04-17 14:05:00,0
+2300.00,1900.00,Rome,Athens,Online Transfer,EUR,2025-05-08 10:30:00,1
+88.00,70.00,Oslo,Stockholm,Card Payment,NOK,2025-06-21 12:20:00,0
+710.00,600.00,Perth,Melbourne,Internal Transfer,AUD,2025-07-30 09:10:00,0
+9800.00,8500.00,Montreal,Paris,Wire Transfer,CAD,2025-08-25 16:40:00,1
+42.00,35.00,Nairobi,Nairobi,POS Purchase,KES,2025-09-13 11:25:00,0
+1350.00,1100.00,Portland,San Jose,Online Transfer,USD,2025-10-05 13:05:00,0
+17200.00,15000.00,Berlin,Dubai,International Transfer,EUR,2025-11-19 19:15:00,1
+78.00,65.00,Prague,Budapest,Card Payment,CZK,2025-12-11 10:55:00,0
+110.00,95.00,San Jose,Los Angeles,Card Payment,USD,2025-02-05 12:10:00,0
+4800.00,3500.00,Chicago,Mexico City,Wire Transfer,USD,2025-03-14 09:25:00,1
+35.00,30.00,Lima,Lima,POS Purchase,PEN,2025-01-18 14:50:00,0
+920.00,800.00,Vancouver,Calgary,Online Transfer,CAD,2025-04-08 11:05:00,0
+14000.00,11000.00,Riyadh,Dubai,International Transfer,SAR,2025-05-12 20:40:00,1
+75.00,65.00,Copenhagen,Stockholm,Card Payment,DKK,2025-06-21 10:15:00,0
+2600.00,2100.00,Hong Kong,Taipei,Wire Transfer,HKD,2025-07-03 13:55:00,1
+28.00,25.00,Manila,Manila,POS Purchase,PHP,2025-08-16 15:20:00,0
+870.00,750.00,Denver,Phoenix,Online Transfer,USD,2025-09-11 10:30:00,0
+12500.00,10000.00,Seattle,Tokyo,International Transfer,USD,2025-10-07 17:45:00,1
+68.00,60.00,Oslo,Helsinki,Card Payment,NOK,2025-11-09 12:25:00,0
+3300.00,2700.00,Zurich,Munich,Wire Transfer,CHF,2025-12-03 09:10:00,1
+52.00,45.00,Kuala Lumpur,Kuala Lumpur,POS Purchase,MYR,2025-01-29 11:40:00,0
+1020.00,900.00,Dallas,Miami,Online Transfer,USD,2025-02-17 14:55:00,0
+16500.00,14000.00,London,Singapore,International Transfer,GBP,2025-03-25 21:15:00,1
+58.00,50.00,Cairo,Cairo,POS Purchase,EGP,2025-04-19 13:05:00,0
+2100.00,1800.00,Barcelona,Rome,Online Transfer,EUR,2025-05-27 10:35:00,1
+92.00,80.00,Vienna,Prague,Card Payment,EUR,2025-06-06 11:50:00,0
+710.00,600.00,Brisbane,Perth,Internal Transfer,AUD,2025-07-18 09:20:00,0
+9800.00,8200.00,Montreal,New York,Wire Transfer,CAD,2025-08-23 16:10:00,1
+42.00,35.00,Hanoi,Hanoi,POS Purchase,VND,2025-09-04 12:45:00,0
+1350.00,1100.00,San Antonio,Austin,Online Transfer,USD,2025-10-15 13:25:00,0
+15500.00,13000.00,Berlin,Dubai,International Transfer,EUR,2025-11-20 18:50:00,1
+88.00,75.00,Budapest,Warsaw,Card Payment,HUF,2025-12-08 10:05:00,0
+130.00,110.00,San Jose,San Diego,Card Payment,USD,2025-01-08 12:25:00,0
+4100.00,2200.00,Atlanta,Toronto,Wire Transfer,USD,2025-02-12 10:35:00,1
+22.00,20.00,Bogota,Bogota,POS Purchase,COP,2025-03-03 14:10:00,0
+980.00,850.00,Edmonton,Ottawa,Online Transfer,CAD,2025-04-22 11:45:00,0
+12500.00,9500.00,Abu Dhabi,Mumbai,International Transfer,AED,2025-05-18 21:20:00,1
+82.00,70.00,Lisbon,Porto,Card Payment,EUR,2025-06-02 09:55:00,0
+2750.00,2000.00,Shanghai,Singapore,Wire Transfer,CNY,2025-07-14 15:05:00,1
+18.00,15.00,Hanoi,Hanoi,POS Purchase,VND,2025-08-07 12:40:00,0
+910.00,780.00,Philadelphia,Boston,Online Transfer,USD,2025-09-01 10:10:00,0
+14900.00,12000.00,Seattle,Dubai,International Transfer,USD,2025-10-09 18:50:00,1
+88.00,75.00,Cologne,Dusseldorf,Card Payment,EUR,2025-11-06 13:15:00,0
+3600.00,2800.00,Geneva,Milan,Wire Transfer,CHF,2025-12-02 10:05:00,1
+47.00,40.00,Taipei,Taipei,POS Purchase,TWD,2025-01-26 11:30:00,0
+1120.00,950.00,Dallas,Austin,Online Transfer,USD,2025-02-20 16:00:00,0
+16200.00,13500.00,Chicago,Singapore,International Transfer,USD,2025-03-29 22:15:00,1
+58.00,50.00,Karachi,Karachi,POS Purchase,PKR,2025-04-25 13:50:00,0
+2450.00,2100.00,Barcelona,Zurich,Online Transfer,EUR,2025-05-30 10:15:00,1
+92.00,80.00,Helsinki,Stockholm,Card Payment,EUR,2025-06-18 12:05:00,0
+740.00,650.00,Brisbane,Adelaide,Internal Transfer,AUD,2025-07-27 09:35:00,0
+10100.00,8800.00,Ottawa,Paris,Wire Transfer,CAD,2025-08-19 17:00:00,1
+33.00,28.00,Addis Ababa,Addis Ababa,POS Purchase,ETB,2025-09-11 11:55:00,0
+1420.00,1200.00,Las Vegas,San Francisco,Online Transfer,USD,2025-10-02 13:25:00,0
+18500.00,16000.00,Madrid,Dubai,International Transfer,EUR,2025-11-15 19:40:00,1
+84.00,70.00,Bucharest,Sofia,Card Payment,RON,2025-12-08 10:20:00,0
+6914.8,6204.76,Cambodia,Paraguay,Online Transfer,MXN,2025-01-01 00:00:00,1
+
+12837.3,7671.81,Turkmenistan,Saint Kitts and Nevis,Debit Card Payment,USD,2025-01-01 00:00:00,1
+
+10994.46,6657.19,Swaziland,Kosovo,Mortgage Payment,THB,2025-01-01 00:00:00,1
+
+2541.66,2242.2,Korea, South,Somalia,P2P Transfer,CNY,2025-01-01 00:00:00,1
+
+3871.94,3107.76,Liberia,Croatia,Salary Payment,INR,2025-01-01 00:00:00,1
+
+15769.37,7640.97,Tunisia,Norway,Prepaid Card Load,INR,2025-01-01 00:00:00,1
+
+4505.47,3042.3,Philippines,Georgia,Wire Transfer,CAD,2025-01-01 00:00:00,1
+
+6106.83,3808.72,Cameroon,Kenya,Online Transfer,TWD,2025-01-01 00:00:00,1
+
+19836.71,8648.19,Bosnia and Herzegovina,Slovenia,Loan Payment,SGD,2025-01-01 00:00:00,1
+
+893.63,533.68,Italy,Brazil,Batch Payment,RUB,2025-01-01 00:00:00,0
+
+11588.1,9487.35,Croatia,Pakistan,Standing Order,ILS,2025-01-01 00:00:00,1
+
+1751.23,1477.57,China,Liberia,Foreign Remittance,MXN,2025-01-01 00:00:00,0
+
+10492.73,8556.59,Cameroon,Cyprus,Subscription Payment,DKK,2025-01-01 00:00:00,1
+
+17151.22,14076.33,Romania,United Arab Emirates,Interest Credit,INR,2025-01-01 00:00:00,1
+
+19843.58,16946.47,Kosovo,Nigeria,P2P Transfer,BRL,2025-01-01 00:00:00,1
+
+11797.03,5193.03,Canada,Barbados,Withdrawal,SEK,2025-01-01 00:00:00,1
+
+18421.51,7949.76,Tunisia,Australia,Bill Payment,AED,2025-01-01 00:00:00,1
+
+6261.07,2701.09,Belarus,Swaziland,Top-up,NZD,2025-01-01 00:00:00,1
+
+8677.17,6763.05,Cyprus,Montenegro,Batch Payment,GBP,2025-01-01 00:00:00,1
+
+4672.81,2428.1,Malta,Albania,Merchant Settlement,PHP,2025-01-01 00:00:00,1
+
+13201.09,6062.14,Mozambique,Uruguay,Credit Card Payment,HUF,2025-01-01 00:00:00,1
+
+6482.37,5592.44,Barbados,Bhutan,ATM Withdrawal,RUB,2025-01-01 00:00:00,1
+
+9229.52,6083.21,Belgium,Taiwan,Salary Payment,SGD,2025-01-01 00:00:00,1
+
+6809.32,3599.67,Saudi Arabia,Ghana,Debit Card Payment,RON,2025-01-01 00:00:00,1
+
+19046.89,10827.85,San Marino,Nicaragua,Mortgage Payment,KRW,2025-01-01 00:00:00,1
+
+19637.56,13190.17,Guyana,Jordan,Gift Card Purchase,USD,2025-01-01 00:00:00,1
+
+14387.33,11461.88,Thailand,Burundi,Fee Charge,MYR,2025-01-01 00:00:00,1
+
+15454.98,12285.91,Sudan,Angola,Refund,SGD,2025-01-01 00:00:00,1
+
+3782.41,2221.11,Solomon Islands,Slovenia,Point of Sale (POS) Purchase,MYR,2025-01-01 00:00:00,1
+
+17913.75,11808.55,Bulgaria,Saint Kitts and Nevis,Credit Card Payment,INR,2025-01-01 00:00:00,1
+
+3621.73,3092.34,Saudi Arabia,Azerbaijan,Cash Advance,AED,2025-01-01 00:00:00,1
+
+12362.25,6881.35,United Kingdom,Tonga,Online Transfer,KRW,2025-01-01 00:00:00,1
+
+12565.56,7312.71,Bolivia,Canada,Standing Order,THB,2025-01-01 00:00:00,1
+
+12311.77,6875.08,Madagascar,Albania,Gift Card Purchase,IDR,2025-01-01 00:00:00,1
+
+15981.23,10050.96,Marshall Islands,Swaziland,Credit Card Payment,KRW,2025-01-01 00:00:00,1
+
+16325.93,9670.96,Saint Lucia,Spain,Direct Debit,AED,2025-01-01 00:00:00,1
+
+11634.28,5825.11,Yemen,Czech Republic,Top-up,MYR,2025-01-01 00:00:00,1
+
+702.05,541.47,Burundi,Sao Tome and Principe,Point of Sale (POS) Purchase,SGD,2025-01-01 00:00:00,0
+
+1834.41,970.46,Yemen,Sri Lanka,ATM Withdrawal,RON,2025-01-01 00:00:00,0
+
+423.85,172.97,Namibia,Nicaragua,Loan Payment,CAD,2025-01-01 00:00:00,0
+
+16467.33,7949.51,Belize,Saint Kitts and Nevis,Foreign Remittance,DKK,2025-01-01 00:00:00,1
+
+2109.54,993.95,Benin,Argentina,Deposit,KRW,2025-01-01 00:00:00,1
+
+17601.74,13310.06,China,Seychelles,Check Withdrawal,SGD,2025-01-01 00:00:00,1
+
+16820.76,7746.42,Paraguay,Congo, Democratic Republic of the,ATM Deposit,THB,2025-01-01 00:00:00,1
+
+17166.36,7970.42,United States of America,Brazil,Insurance Payment,RUB,2025-01-01 00:00:00,1
+
+7865.97,3662.85,Palau,Ukraine,Salary Payment,CNY,2025-01-01 00:00:00,1
+
+2511.33,1773.18,Uganda,Costa Rica,Mobile Payment,DKK,2025-01-01 00:00:00,1
+
+14004.91,9949.06,Ghana,Papua New Guinea,Reversal,USD,2025-01-01 00:00:00,1
+
+12605.36,7840.79,San Marino,Afghanistan,Insurance Payment,RON,2025-01-01 00:00:00,1
+
+6042.38,5045.65,The Bahamas,Oman,Withdrawal,HKD,2025-01-01 00:00:00,1
+
+5551.11,3929.87,Morocco,Burkina Faso,Bill Payment,JPY,2025-01-01 00:00:00,1
+
+17519.03,13113.97,Paraguay,Mongolia,International Transfer,AED,2025-01-01 00:00:00,1
+
+5758.19,5091.64,Cambodia,Israel,Online Transfer,ILS,2025-01-01 00:00:00,1
+
+9657.01,7521.01,Zimbabwe,Algeria,Insurance Payment,MYR,2025-01-01 00:00:00,1
+
+15392.12,9302.3,Japan,Uruguay,Bill Payment,PHP,2025-01-01 00:00:00,1
+
+4569.0,2834.69,Tonga,France,Foreign Currency Exchange,SGD,2025-01-01 00:00:00,1
+
+10897.82,9150.2,Eritrea,Vietnam,Debit Card Payment,COP,2025-01-01 00:00:00,1
+
+5018.22,2524.6,Kenya,Moldova,P2P Transfer,CHF,2025-01-01 00:00:00,1
+
+18805.14,7947.91,Cameroon,Lithuania,Interest Credit,CNY,2025-01-01 00:00:00,1
+
+700.0,367.62,Jordan,Turkey,Batch Payment,IDR,2025-01-01 00:00:00,0
+
+10746.58,7314.73,Egypt,Vietnam,Withdrawal,SEK,2025-01-01 00:00:00,1
+
+15788.72,9650.22,Sudan,Vatican City (Holy See),ATM Deposit,COP,2025-01-01 00:00:00,1
+
+11939.86,8712.52,United Arab Emirates,Romania,Interest Credit,EUR,2025-01-01 00:00:00,1
+
+17545.35,12370.35,Morocco,Albania,Foreign Remittance,TWD,2025-01-01 00:00:00,1
+
+6129.79,3021.19,United Kingdom,Germany,Mortgage Payment,SAR,2025-01-01 00:00:00,1
+
+8221.21,5504.08,Montenegro,Suriname,Merchant Settlement,GBP,2025-01-01 00:00:00,1
+
+270.28,145.95,Burkina Faso,Tonga,Merchant Settlement,HKD,2025-01-01 00:00:00,0
+
+5598.61,4369.39,Vanuatu,Uzbekistan,Interest Debit,CZK,2025-01-01 00:00:00,1
+
+9163.71,4073.09,Guinea-Bissau,Nicaragua,Standing Order,HKD,2025-01-01 00:00:00,1
+
+11883.79,6947.78,Latvia,Malta,Insurance Payment,PHP,2025-01-01 00:00:00,1
+
+13341.75,6958.9,Canada,Kyrgyzstan,Cash Advance,IDR,2025-01-01 00:00:00,1
+
+17309.21,10707.53,Jordan,Lesotho,Subscription Payment,KRW,2025-01-01 00:00:00,1
+
+8344.76,5664.41,Laos,United States of America,Interest Debit,RON,2025-01-01 00:00:00,1
+
+2111.85,1065.02,Senegal,Sri Lanka,Deposit,JPY,2025-01-01 00:00:00,1
+
+8959.34,5309.35,Iceland,Bosnia and Herzegovina,Cash Advance,PLN,2025-01-01 00:00:00,1
+
+1997.19,1698.79,China,Dominican Republic,Internal Transfer,NOK,2025-01-01 00:00:00,0
+
+3580.1,3153.85,Georgia,Lithuania,International Transfer,CLP,2025-01-01 00:00:00,1
+
+7163.05,6321.96,Cameroon,Kazakhstan,Fee Charge,BRL,2025-01-01 00:00:00,1
+
+3035.77,2679.79,Sierra Leone,Greece,Cash Advance,GBP,2025-01-01 00:00:00,1
+
+16024.29,6898.05,Micronesia, Federated States of,Rwanda,Foreign Remittance,AUD,2025-01-01 00:00:00,1
+
+11002.61,4515.63,Somalia,Kiribati,Subscription Payment,COP,2025-01-01 00:00:00,1
+
+10621.7,9476.7,Slovenia,Kosovo,Check Deposit,SGD,2025-01-01 00:00:00,1
+
+15287.79,10632.12,Grenada,Saint Lucia,Mobile Payment,TWD,2025-01-01 00:00:00,1
+
+420.78,208.1,Trinidad and Tobago,Sudan,ATM Withdrawal,JPY,2025-01-01 00:00:00,0
+
+10037.83,7655.08,Uruguay,Chad,Direct Debit,SAR,2025-01-01 00:00:00,1
+
+11865.85,9800.46,Ireland,Argentina,Prepaid Card Load,PHP,2025-01-01 00:00:00,1
+
+9558.06,4434.94,Cote d'Ivoire,Burkina Faso,Interest Credit,NZD,2025-01-01 00:00:00,1
+
+5176.54,3093.08,Tonga,Sri Lanka,Insurance Payment,EUR,2025-01-01 00:00:00,1
+
+14549.12,7351.38,Saudi Arabia,Norway,Withdrawal,ILS,2025-01-01 00:00:00,1
+
+17823.11,13357.84,Korea, South,Seychelles,Check Withdrawal,ILS,2025-01-01 00:00:00,1
+
+8783.48,5166.76,Costa Rica,Luxembourg,Cash Advance,TWD,2025-01-01 00:00:00,1
+
+4425.36,2272.96,Libya,Cameroon,Gift Card Purchase,COP,2025-01-01 00:00:00,1
+
+8825.01,7465.96,Portugal,Mongolia,Foreign Remittance,MXN,2025-01-01 00:00:00,1
+
+19297.32,14097.19,Montenegro,Equatorial Guinea,Foreign Currency Exchange,RUB,2025-01-01 00:00:00,1
+
+3081.94,2286.56,The Gambia,Belarus,ATM Deposit,PLN,2025-01-01 00:00:00,1
+
+3275.88,2185.33,Hungary,Macedonia,Online Transfer,JPY,2025-01-01 00:00:00,1
+
+17065.75,7220.94,Mauritius,Israel,External Transfer,KRW,2025-01-01 00:00:00,1
+
+6315.35,5462.55,Greece,Canada,ATM Withdrawal,JPY,2025-01-01 00:00:00,1
+
+11384.06,9035.09,New Zealand,Mongolia,Gift Card Purchase,CHF,2025-01-01 00:00:00,1
+
+11829.4,9462.92,Saudi Arabia,Croatia,ATM Deposit,HKD,2025-01-01 00:00:00,1
+4996.21,4398.81,Mauritania,Chad,Interest Debit,HUF,2025-01-01 00:00:00,1
+
+13101.2,9666.56,Colombia,Ukraine,Card Payment,COP,2025-01-01 00:00:00,1
+
+18513.75,9115.11,Georgia,Cape Verde,Check Deposit,BRL,2025-01-01 00:00:00,1
+
+9762.61,4216.08,Sierra Leone,Antigua and Barbuda,Refund,CAD,2025-01-01 00:00:00,1
+
+9285.56,4999.45,Botswana,Korea, North,Interest Debit,AED,2025-01-01 00:00:00,1
+
+19602.06,11703.28,Syria,Chile,Direct Debit,AED,2025-01-01 00:00:00,1
+
+1902.18,1370.97,Angola,Qatar,Direct Debit,CNY,2025-01-01 00:00:00,0
+
+16172.6,9125.24,Guinea-Bissau,Barbados,Credit Card Payment,TRY,2025-01-01 00:00:00,1
+
+18153.25,10371.07,Chad,Samoa,ATM Withdrawal,SGD,2025-01-01 00:00:00,1
+
+6131.77,4304.64,Tunisia,Seychelles,Withdrawal,CHF,2025-01-01 00:00:00,1
+
+11318.11,9178.43,Russia,United Arab Emirates,Foreign Currency Exchange,CLP,2025-01-01 00:00:00,1
+
+18864.25,15238.23,Slovenia,Samoa,Top-up,THB,2025-01-01 00:00:00,1
+
+6382.14,4914.11,Cyprus,Kiribati,International Transfer,KRW,2025-01-01 00:00:00,1
+
+2297.31,1474.42,Czech Republic,Sao Tome and Principe,Interest Credit,PHP,2025-01-01 00:00:00,1
+
+19899.1,16411.03,Singapore,Palau,Bill Payment,INR,2025-01-01 00:00:00,1
+
+18838.26,12117.39,Antigua and Barbuda,Mauritania,Loan Payment,CHF,2025-01-01 00:00:00,1
+
+17286.19,12626.49,Vatican City (Holy See),Russia,P2P Transfer,USD,2025-01-01 00:00:00,1
+
+14945.01,8014.58,Tonga,Somalia,Top-up,BRL,2025-01-01 00:00:00,1
+
+1548.9,877.33,Jamaica,Uganda,Mobile Payment,AUD,2025-01-01 00:00:00,0
+
+8455.45,4779.02,Jamaica,United Kingdom,Mobile Payment,SEK,2025-01-01 00:00:00,1
+
+3126.71,2370.77,The Gambia,Cuba,Direct Debit,SGD,2025-01-01 00:00:00,1
+
+15751.01,13891.12,Netherlands,Thailand,External Transfer,GBP,2025-01-01 00:00:00,1
+
+1791.29,1392.57,Venezuela,Liberia,Insurance Payment,DKK,2025-01-01 00:00:00,0
+
+451.72,391.1,Saint Lucia,Dominican Republic,Reversal,CHF,2025-01-01 00:00:00,0
+
+11925.5,5318.25,Albania,Cape Verde,Credit Card Payment,BRL,2025-01-01 00:00:00,1
+
+10449.5,9045.26,Sierra Leone,Nicaragua,Card Payment,CZK,2025-01-01 00:00:00,1
+
+9488.83,5980.55,Oman,Costa Rica,Foreign Currency Exchange,SGD,2025-01-01 00:00:00,1
+
+730.78,657.47,Central African Republic,Kosovo,Mortgage Payment,SGD,2025-01-01 00:00:00,0
+
+13534.03,7312.12,Antigua and Barbuda,Spain,ATM Withdrawal,CLP,2025-01-01 00:00:00,1
+
+6372.98,4860.86,Australia,Turkmenistan,Withdrawal,INR,2025-01-01 00:00:00,1
+
+4098.83,3145.02,Burkina Faso,Pakistan,Check Withdrawal,USD,2025-01-01 00:00:00,1
+
+3477.65,2549.22,Kosovo,France,ATM Withdrawal,TRY,2025-01-01 00:00:00,1
+
+2205.47,1549.1,Slovakia,France,Foreign Currency Exchange,CLP,2025-01-01 00:00:00,1
+
+17055.21,13550.03,Marshall Islands,Korea, North,External Transfer,CNY,2025-01-01 00:00:00,1
+
+14913.54,8705.99,Tuvalu,Korea, North,Refund,NZD,2025-01-01 00:00:00,1
+
+11984.27,7199.49,Central African Republic,Saint Kitts and Nevis,Deposit,CLP,2025-01-01 00:00:00,1
+
+7341.17,4902.93,Korea, North,Congo, Republic of the,Direct Debit,PHP,2025-01-01 00:00:00,1
+
+14573.26,11297.2,Poland,Ethiopia,Check Deposit,RON,2025-01-01 00:00:00,1
+
+10815.41,9218.69,Azerbaijan,Guinea-Bissau,Check Deposit,CNY,2025-01-01 00:00:00,1
+
+13108.23,8737.56,Korea, North,Bahrain,Interest Credit,GBP,2025-01-01 00:00:00,1
+
+1300.89,1014.01,Brazil,Germany,Reversal,RON,2025-01-01 00:00:00,0
+
+8612.69,6844.87,Estonia,Sri Lanka,Standing Order,CNY,2025-01-01 00:00:00,1
+
+19732.88,8193.2,Djibouti,Madagascar,Refund,GBP,2025-01-01 00:00:00,1
+
+17560.79,11714.98,Sweden,Bosnia and Herzegovina,Batch Payment,CHF,2025-01-01 00:00:00,1
+
+116.6,51.0,Solomon Islands,Mexico,Interest Debit,ILS,2025-01-01 00:00:00,0
+
+10212.3,6153.37,Togo,East Timor (Timor-Leste),Gift Card Purchase,KRW,2025-01-01 00:00:00,1
+
+15871.99,12799.91,Zimbabwe,Uzbekistan,Online Transfer,EUR,2025-01-01 00:00:00,1
+
+9889.9,4664.99,Colombia,Solomon Islands,Point of Sale (POS) Purchase,CNY,2025-01-01 00:00:00,1
+
+14608.03,8330.64,Colombia,Ghana,Fee Charge,ILS,2025-01-01 00:00:00,1
+
+14633.94,11863.77,Spain,Guinea,Point of Sale (POS) Purchase,INR,2025-01-01 00:00:00,1
+
+14581.7,7832.57,Macedonia,Burkina Faso,Salary Payment,CZK,2025-01-01 00:00:00,1
+
+2503.8,1068.16,Ecuador,Serbia,Reversal,RON,2025-01-01 00:00:00,1
+
+7762.86,6421.53,Armenia,Serbia,External Transfer,THB,2025-01-01 00:00:00,1
+
+9779.88,5215.8,Norway,Greece,Interest Debit,IDR,2025-01-01 00:00:00,1
+
+10162.01,5493.33,Uruguay,Egypt,Interest Credit,AUD,2025-01-01 00:00:00,1
+
+15672.53,12567.64,Korea, North,Angola,Foreign Remittance,THB,2025-01-01 00:00:00,1
+
+9691.49,4239.26,Slovenia,Solomon Islands,Wire Transfer,AUD,2025-01-01 00:00:00,1
+
+12453.09,11013.36,Thailand,Micronesia, Federated States of,Reversal,CLP,2025-01-01 00:00:00,1
+
+11060.8,7826.6,Burkina Faso,Saint Lucia,Card Payment,THB,2025-01-01 00:00:00,1
+
+13279.1,5629.84,Guyana,Saint Kitts and Nevis,International Transfer,INR,2025-01-01 00:00:00,1
+
+775.52,625.53,Poland,Ukraine,Interest Credit,AUD,2025-01-01 00:00:00,0
+
+6080.59,4083.5,Macedonia,Liberia,Deposit,THB,2025-01-01 00:00:00,1
+
+13253.09,6072.4,Ukraine,Burkina Faso,Bill Payment,NZD,2025-01-01 00:00:00,1
+
+2765.14,1413.93,Azerbaijan,Bangladesh,Internal Transfer,NZD,2025-01-01 00:00:00,1
+
+17130.95,8494.6,France,Samoa,Gift Card Purchase,SGD,2025-01-01 00:00:00,1
+
+165.17,86.95,Netherlands,Bulgaria,Internal Transfer,NOK,2025-01-01 00:00:00,0
+
+15.17,11.84,Somalia,Kiribati,Credit Card Payment,NOK,2025-01-01 00:00:00,0
+
+7191.28,5056.37,Uzbekistan,Rwanda,Fee Charge,KRW,2025-01-01 00:00:00,1
+
+17158.22,8932.37,Samoa,Mauritania,Gift Card Purchase,CAD,2025-01-01 00:00:00,1
+
+13301.44,10831.26,Gabon,Bulgaria,Merchant Settlement,MYR,2025-01-01 00:00:00,1
+
+18648.42,14144.95,El Salvador,Saint Vincent and the Grenadines,Foreign Remittance,NOK,2025-01-01 00:00:00,1
+
+11603.26,8460.49,Kazakhstan,Italy,Debit Card Payment,PHP,2025-01-01 00:00:00,1
+
+10929.06,4913.65,Indonesia,Kuwait,Reversal,NOK,2025-01-01 00:00:00,1
+
+19688.94,13941.67,Australia,Iran,Credit Card Payment,ZAR,2025-01-01 00:00:00,1
+
+14424.14,7792.51,Qatar,Turkey,Gift Card Purchase,BRL,2025-01-01 00:00:00,1
+
+3625.82,2598.09,Peru,Malta,ATM Withdrawal,TWD,2025-01-01 00:00:00,1
+
+409.47,353.61,Somalia,Oman,Check Deposit,SAR,2025-01-01 00:00:00,0
+
+2883.53,2541.68,Bulgaria,Iceland,Loan Payment,RUB,2025-01-01 00:00:00,1
+
+15864.03,7114.34,Russia,Congo, Democratic Republic of the,Check Withdrawal,CLP,2025-01-01 00:00:00,1
+
+11049.85,9860.59,Swaziland,Saint Lucia,Online Transfer,AUD,2025-01-01 00:00:00,1
+
+12764.25,10257.42,Georgia,Guinea,Credit Card Payment,NZD,2025-01-01 00:00:00,1
+
+6565.98,2750.93,Armenia,Malawi,Credit Card Payment,CZK,2025-01-01 00:00:00,1
+
+16758.18,7804.68,Kosovo,Vanuatu,ATM Withdrawal,CZK,2025-01-01 00:00:00,1
+
+9939.82,6497.98,New Zealand,Germany,ATM Withdrawal,SEK,2025-01-01 00:00:00,1
+
+7915.32,3585.6,Mozambique,Egypt,Wire Transfer,IDR,2025-01-01 00:00:00,1
+
+15652.58,9263.11,El Salvador,Burkina Faso,Gift Card Purchase,SEK,2025-01-01 00:00:00,1
+
+3897.72,2980.98,Kiribati,Kyrgyzstan,Loan Payment,RON,2025-01-01 00:00:00,1
+
+15862.67,7546.48,Sudan,Somalia,Direct Debit,MXN,2025-01-01 00:00:00,1
+
+18291.27,15042.45,Cambodia,India,ATM Withdrawal,USD,2025-01-01 00:00:00,1
+
+7634.95,5789.1,Honduras,Nepal,Fee Charge,NOK,2025-01-01 00:00:00,1
+
+2441.33,1848.99,Switzerland,Moldova,Standing Order,CHF,2025-01-01 00:00:00,1
+
+2249.2,1592.47,Vanuatu,Cape Verde,Foreign Currency Exchange,GBP,2025-01-01 00:00:00,1
+
+17915.87,9415.18,Iraq,South Sudan,External Transfer,PLN,2025-01-01 00:00:00,1
+
+15463.23,13270.07,Russia,Sweden,Cash Advance,THB,2025-01-01 00:00:00,1
+
+17837.68,12850.38,Nepal,Cape Verde,Reversal,HKD,2025-01-01 00:00:00,1
+
+14548.64,10007.17,Sri Lanka,Germany,Mobile Payment,NZD,2025-01-01 00:00:00,1
+
+8005.26,3655.26,Nepal,Cyprus,Standing Order,DKK,2025-01-01 00:00:00,1
+
+1246.93,1114.76,El Salvador,Bosnia and Herzegovina,Salary Payment,THB,2025-01-01 00:00:00,0
+
+1196.07,617.14,Cape Verde,Namibia,Deposit,ZAR,2025-01-01 00:00:00,0
+
+4982.63,3381.21,Iceland,Benin,Interest Debit,TRY,2025-01-01 00:00:00,1
+13865.76,9151.59,Korea, South,Djibouti,Batch Payment,INR,2025-01-01 00:00:00,1
+
+7907.64,3814.07,Ecuador,Mauritania,Withdrawal,IDR,2025-01-01 00:00:00,1
+
+7261.08,3025.55,Brazil,Lithuania,Subscription Payment,CAD,2025-01-01 00:00:00,1
+
+7485.18,3776.04,Kiribati,Kiribati,Deposit,HKD,2025-01-01 00:00:00,0
+
+2729.77,1505.37,Switzerland,Kenya,Mortgage Payment,CLP,2025-01-01 00:00:00,1
+
+7384.41,5682.09,Brazil,Philippines,Mortgage Payment,CHF,2025-01-01 00:00:00,1
+
+14116.11,5711.92,Armenia,Sri Lanka,Bill Payment,INR,2025-01-01 00:00:00,1
+
+18041.6,14551.21,Rwanda,Rwanda,Standing Order,AED,2025-01-01 00:00:00,0
+
+2460.07,1646.93,Jamaica,Papua New Guinea,ATM Deposit,TRY,2025-01-01 00:00:00,1
+
+3191.84,2372.33,Botswana,Ireland,ATM Withdrawal,MXN,2025-01-01 00:00:00,1
+
+3017.71,2085.86,Gabon,Tunisia,Gift Card Purchase,IDR,2025-01-01 00:00:00,1
+
+18549.82,16347.71,Germany,Suriname,Internal Transfer,CHF,2025-01-01 00:00:00,1
+
+16550.85,12195.55,Palau,Mozambique,Cash Advance,THB,2025-01-01 00:00:00,1
+
+17754.36,13364.94,Somalia,Togo,Deposit,IDR,2025-01-01 00:00:00,1
+
+9810.24,7843.94,Syria,Liechtenstein,Card Payment,ILS,2025-01-01 00:00:00,1
+
+2343.34,1393.5,Comoros,Korea, North,Subscription Payment,RON,2025-01-01 00:00:00,1
+
+3146.44,1330.9,Czech Republic,The Bahamas,Foreign Currency Exchange,NZD,2025-01-01 00:00:00,1
+
+15315.76,8402.82,Fiji,Honduras,Foreign Remittance,RUB,2025-01-01 00:00:00,1
+
+17478.09,7864.29,Bhutan,Norway,Card Payment,CLP,2025-01-01 00:00:00,1
+
+10427.83,6260.3,Guatemala,Morocco,Insurance Payment,SEK,2025-01-01 00:00:00,1
+
+10604.59,8821.22,Ecuador,Guatemala,Check Withdrawal,CLP,2025-01-01 00:00:00,1
+
+16693.44,8479.1,Panama,Venezuela,Salary Payment,TRY,2025-01-01 00:00:00,1
+
+1821.32,1459.57,Bolivia,Sri Lanka,Online Transfer,DKK,2025-01-01 00:00:00,0
+
+13273.19,9642.46,Mongolia,Armenia,Credit Card Payment,USD,2025-01-01 00:00:00,1
+
+11965.94,9809.61,Sri Lanka,Azerbaijan,Mortgage Payment,NZD,2025-01-01 00:00:00,1
+
+18410.31,9882.45,Uganda,Madagascar,P2P Transfer,INR,2025-01-01 00:00:00,1
+
+15206.24,10490.67,Kiribati,Lithuania,Reversal,JPY,2025-01-01 00:00:00,1
+
+7125.94,3369.43,Senegal,Mauritius,Bill Payment,HUF,2025-01-01 00:00:00,1
+
+796.36,598.28,Malta,Uzbekistan,Bill Payment,MYR,2025-01-01 00:00:00,0
+
+16880.41,8547.83,Luxembourg,Ecuador,Interest Debit,RON,2025-01-01 00:00:00,1
+
+7803.78,3353.43,Zimbabwe,United Kingdom,ATM Withdrawal,AUD,2025-01-01 00:00:00,1
+
+19037.5,16074.56,Qatar,India,Direct Debit,NOK,2025-01-01 00:00:00,1
+
+17152.67,10834.8,Greece,Dominica,P2P Transfer,THB,2025-01-01 00:00:00,1
+
+10304.98,7610.01,Central African Republic,South Sudan,Insurance Payment,USD,2025-01-01 00:00:00,1
+
+19900.41,16219.12,Kosovo,Thailand,Salary Payment,MXN,2025-01-01 00:00:00,1
+
+18703.99,14484.27,Marshall Islands,Mauritania,Foreign Remittance,DKK,2025-01-01 00:00:00,1
+
+12754.13,8014.13,Kazakhstan,Egypt,Standing Order,INR,2025-01-01 00:00:00,1
+
+5078.43,2269.93,Bangladesh,Mauritania,Wire Transfer,HUF,2025-01-01 00:00:00,1
+
+8302.75,5939.24,Liberia,Montenegro,Bill Payment,THB,2025-01-01 00:00:00,1
+
+3740.4,2692.14,Vietnam,Nigeria,Card Payment,HUF,2025-01-01 00:00:00,1
+
+10069.06,4894.4,Switzerland,Nepal,ATM Withdrawal,SAR,2025-01-01 00:00:00,1
+
+8353.21,3489.57,Indonesia,Nepal,ATM Deposit,HKD,2025-01-01 00:00:00,1
+
+4721.72,3379.08,Malta,Cuba,Debit Card Payment,EUR,2025-01-01 00:00:00,1
+
+10205.43,5876.85,Jamaica,United States of America,Interest Debit,SGD,2025-01-01 00:00:00,1
+
+1643.11,904.62,Central African Republic,Macedonia,Mortgage Payment,DKK,2025-01-01 00:00:00,0
+
+14056.29,10688.36,Zambia,San Marino,Debit Card Payment,SGD,2025-01-01 00:00:00,1
+
+8034.77,5497.78,Thailand,Ukraine,Debit Card Payment,PHP,2025-01-01 00:00:00,1
+
+18896.77,16034.41,Moldova,Liberia,Batch Payment,ILS,2025-01-01 00:00:00,1
+
+14162.22,8242.15,Kiribati,Saint Lucia,Wire Transfer,MXN,2025-01-01 00:00:00,1
+
+1476.72,682.48,Ireland,Qatar,Reversal,BRL,2025-01-01 00:00:00,0
+
+14290.26,6555.22,Mexico,Sweden,Gift Card Purchase,CNY,2025-01-01 00:00:00,1
+
+15520.75,9074.9,Cape Verde,Burundi,Subscription Payment,COP,2025-01-01 00:00:00,1
+
+14738.9,9880.13,Peru,Grenada,Debit Card Payment,TRY,2025-01-01 00:00:00,1
+
+5196.19,2963.05,Vanuatu,Somalia,Fee Charge,NZD,2025-01-01 00:00:00,1
+
+2516.51,1749.03,Monaco,Sudan,Foreign Remittance,SEK,2025-01-01 00:00:00,1
+
+16132.73,11123.43,San Marino,Tunisia,Fee Charge,PLN,2025-01-01 00:00:00,1
+
+9048.97,4248.23,Botswana,Italy,ATM Withdrawal,NZD,2025-01-01 00:00:00,1
+
+4209.02,3316.98,Maldives,Lebanon,Top-up,NZD,2025-01-01 00:00:00,1
+
+546.08,386.59,United Kingdom,Vanuatu,Top-up,SGD,2025-01-01 00:00:00,0
+
+14635.48,7575.24,Comoros,Angola,Standing Order,IDR,2025-01-01 00:00:00,1
+
+11920.73,6558.28,Guyana,Singapore,Standing Order,USD,2025-01-01 00:00:00,1
+
+13769.44,10263.47,Mexico,Macedonia,P2P Transfer,KRW,2025-01-01 00:00:00,1
+
+2319.94,1553.04,Haiti,Andorra,Online Transfer,KRW,2025-01-01 00:00:00,1
+
+1963.71,1536.59,Denmark,Ethiopia,External Transfer,TWD,2025-01-01 00:00:00,0
+
+19697.84,16531.91,Fiji,Madagascar,Deposit,INR,2025-01-01 00:00:00,1
+
+16172.75,10503.81,Jordan,Guinea-Bissau,Cash Advance,SEK,2025-01-01 00:00:00,1
+
+16154.62,12556.94,Fiji,Iceland,Debit Card Payment,CLP,2025-01-01 00:00:00,1
+
+10212.58,6652.13,Saudi Arabia,Malta,Standing Order,SAR,2025-01-01 00:00:00,1
+
+332.1,209.4,Chad,Liechtenstein,Fee Charge,CHF,2025-01-01 00:00:00,0
+
+15382.52,7117.3,Burundi,The Bahamas,Fee Charge,AUD,2025-01-01 00:00:00,1
+
+16563.55,9755.9,Iceland,Samoa,Batch Payment,SAR,2025-01-01 00:00:00,1
+
+6181.37,4081.72,Antigua and Barbuda,Tanzania,Interest Credit,CAD,2025-01-01 00:00:00,1
+
+2345.01,1141.59,Mozambique,Seychelles,Foreign Remittance,SAR,2025-01-01 00:00:00,1
+
+15089.01,11063.9,Nigeria,Zimbabwe,Prepaid Card Load,TWD,2025-01-01 00:00:00,1
+
+18525.53,14649.91,Nepal,Togo,Internal Transfer,AED,2025-01-01 00:00:00,1
+
+11046.86,7048.83,Azerbaijan,Djibouti,Cash Advance,GBP,2025-01-01 00:00:00,1
+
+4063.67,2666.18,Czech Republic,Italy,Card Payment,SEK,2025-01-01 00:00:00,1
+
+16607.36,8716.64,Finland,Senegal,Mobile Payment,USD,2025-01-01 00:00:00,1
+
+3253.93,2348.81,Mauritania,Peru,Insurance Payment,PHP,2025-01-01 00:00:00,1
+
+17049.57,6902.94,Korea, South,Congo, Republic of the,Mobile Payment,AED,2025-01-01 00:00:00,1
+
+12976.9,9455.0,Chile,Vanuatu,Foreign Remittance,HUF,2025-01-01 00:00:00,1
+
+7778.14,3213.6,Burkina Faso,Marshall Islands,Batch Payment,RUB,2025-01-01 00:00:00,1
+
+12270.6,5501.51,Slovenia,Kuwait,ATM Withdrawal,ZAR,2025-01-01 00:00:00,1
+
+19538.04,15230.31,Philippines,Georgia,Mortgage Payment,INR,2025-01-01 00:00:00,1
+
+19215.6,9368.3,Brunei,Bahrain,Reversal,CZK,2025-01-01 00:00:00,1
+
+13008.23,11074.04,Chile,Kyrgyzstan,Subscription Payment,AED,2025-01-01 00:00:00,1
+
+5278.45,4534.97,Taiwan,Turkey,Point of Sale (POS) Purchase,PLN,2025-01-01 00:00:00,1
+
+2967.73,2562.79,Luxembourg,Liberia,Cash Advance,TWD,2025-01-01 00:00:00,1
+
+11950.94,9349.07,The Gambia,Lithuania,Prepaid Card Load,IDR,2025-01-01 00:00:00,1
+
+14317.42,6586.17,Vanuatu,Panama,Top-up,CNY,2025-01-01 00:00:00,1
+
+12838.73,6043.63,Korea, South,Burkina Faso,Wire Transfer,EUR,2025-01-01 00:00:00,1
+
+9345.39,6323.88,Niger,Argentina,Check Withdrawal,SAR,2025-01-01 00:00:00,1
+
+15875.97,13481.4,Cambodia,Benin,Batch Payment,TWD,2025-01-01 00:00:00,1
+
+8486.9,5529.11,Sri Lanka,Hungary,International Transfer,ILS,2025-01-01 00:00:00,1
+
+13516.78,6669.45,Sri Lanka,Equatorial Guinea,Wire Transfer,HKD,2025-01-01 00:00:00,1
+
+15442.12,10890.67,Pakistan,Syria,Subscription Payment,DKK,2025-01-01 00:00:00,1
+
+11083.56,7202.31,Swaziland,Paraguay,Fee Charge,RON,2025-01-01 00:00:00,1
+
+2937.26,2528.84,United Kingdom,Honduras,Gift Card Purchase,TRY,2025-01-01 00:00:00,1
+
+16308.38,10022.2,Guyana,Portugal,Interest Credit,CLP,2025-01-01 00:00:00,1
+
+1908.64,1711.03,Congo, Republic of the,Paraguay,Check Deposit,PHP,2025-01-01 00:00:00,0
+11814.72,9374.7,Burkina Faso,Solomon Islands,Withdrawal,JPY,2025-01-01 00:00:00,1
+
+19970.1,14911.3,Botswana,Maldives,External Transfer,CAD,2025-01-01 00:00:00,1
+
+3900.85,3413.39,Bulgaria,Netherlands,Standing Order,SAR,2025-01-01 00:00:00,1
+
+12770.39,10569.46,Macedonia,Tuvalu,Point of Sale (POS) Purchase,BRL,2025-01-01 00:00:00,1
+
+15839.03,7947.38,Mexico,Albania,Cash Advance,INR,2025-01-01 00:00:00,1
+
+10971.52,5527.13,Qatar,Colombia,Batch Payment,GBP,2025-01-01 00:00:00,1
+
+8414.43,6092.08,Latvia,Tuvalu,Foreign Currency Exchange,CLP,2025-01-01 00:00:00,1
+
+4158.34,3667.23,Grenada,Libya,Reversal,EUR,2025-01-01 00:00:00,1
+
+2626.16,2218.57,Slovakia,San Marino,Merchant Settlement,ILS,2025-01-01 00:00:00,1
+
+6049.97,2617.3,Latvia,Georgia,Interest Debit,GBP,2025-01-01 00:00:00,1
+
+1880.68,1690.46,Samoa,Gabon,Foreign Remittance,CNY,2025-01-01 00:00:00,0
+
+13496.61,11258.36,Iraq,Qatar,Standing Order,CAD,2025-01-01 00:00:00,1
+
+13581.35,11112.92,Haiti,Saint Kitts and Nevis,Merchant Settlement,SGD,2025-01-01 00:00:00,1
+
+4856.88,3287.03,Tunisia,Ghana,Withdrawal,PLN,2025-01-01 00:00:00,1
+
+9760.48,6071.66,Qatar,Vatican City (Holy See),Deposit,NZD,2025-01-01 00:00:00,1
+
+1400.85,589.71,Swaziland,Cambodia,Fee Charge,THB,2025-01-01 00:00:00,0
+
+7559.54,5007.22,Costa Rica,Zambia,Loan Payment,EUR,2025-01-01 00:00:00,1
+
+7771.77,5989.57,Finland,Cambodia,Bill Payment,CAD,2025-01-01 00:00:00,1
+
+19301.02,9387.34,Madagascar,Russia,Withdrawal,TRY,2025-01-01 00:00:00,1
+
+10182.56,9015.71,Zambia,Egypt,Batch Payment,THB,2025-01-01 00:00:00,1
+
+18374.3,10221.12,Dominican Republic,Kosovo,Direct Debit,TWD,2025-01-01 00:00:00,1
+
+5391.74,3887.85,Tonga,Croatia,Refund,MYR,2025-01-01 00:00:00,1
+
+15382.96,13486.86,Equatorial Guinea,Latvia,Fee Charge,RON,2025-01-01 00:00:00,1
+
+104.18,52.3,Suriname,Bhutan,Point of Sale (POS) Purchase,CHF,2025-01-01 00:00:00,0
+
+4872.64,3751.47,Finland,Philippines,Wire Transfer,HKD,2025-01-01 00:00:00,1
+
+19806.97,8690.15,Uruguay,Korea, North,Salary Payment,MXN,2025-01-01 00:00:00,1
+
+15800.2,8011.13,Uganda,Monaco,Interest Debit,INR,2025-01-01 00:00:00,1
+
+8767.24,4290.69,Australia,Bolivia,Foreign Remittance,COP,2025-01-01 00:00:00,1
+
+5675.39,4977.77,Azerbaijan,Philippines,Interest Credit,TWD,2025-01-01 00:00:00,1
+
+5233.61,2285.09,Montenegro,Latvia,External Transfer,RUB,2025-01-01 00:00:00,1
+
+15344.68,11384.13,Korea, North,Uganda,Loan Payment,NOK,2025-01-01 00:00:00,1
+
+7005.89,4441.58,Liechtenstein,Niger,International Transfer,BRL,2025-01-01 00:00:00,1
+
+8422.07,5767.47,Saudi Arabia,Brazil,International Transfer,NZD,2025-01-01 00:00:00,1
+
+10818.31,7105.28,Lithuania,Malawi,ATM Deposit,THB,2025-01-01 00:00:00,1
+
+1851.27,1504.06,Iceland,Benin,External Transfer,KRW,2025-01-01 00:00:00,0
+
+7359.85,3963.41,Lesotho,Canada,Loan Payment,CLP,2025-01-01 00:00:00,1
+
+15547.56,11134.52,Estonia,Malawi,External Transfer,CAD,2025-01-01 00:00:00,1
+
+18237.6,8282.54,Australia,Namibia,Bill Payment,SEK,2025-01-01 00:00:00,1
+
+19193.52,11305.57,Iraq,Laos,Mobile Payment,EUR,2025-01-01 00:00:00,1
+
+12409.6,8059.25,United Kingdom,Croatia,Cash Advance,CHF,2025-01-01 00:00:00,1
+
+15196.27,7430.15,Morocco,Nepal,Direct Debit,EUR,2025-01-01 00:00:00,1
+
+12623.08,5959.33,Qatar,Burkina Faso,Credit Card Payment,RUB,2025-01-01 00:00:00,1
+
+264.13,195.55,Japan,Vanuatu,Credit Card Payment,ZAR,2025-01-01 00:00:00,0
+
+5040.4,3010.17,Moldova,Peru,Foreign Remittance,CLP,2025-01-01 00:00:00,1
+
+11233.08,9343.99,Romania,Ukraine,Cash Advance,SAR,2025-01-01 00:00:00,1
+
+1089.38,808.09,Switzerland,Guinea-Bissau,International Transfer,NZD,2025-01-01 00:00:00,0
+
+16779.56,6909.46,Monaco,Ukraine,External Transfer,SGD,2025-01-01 00:00:00,1
+
+6834.27,4117.93,Solomon Islands,Moldova,Check Deposit,GBP,2025-01-01 00:00:00,1
+
+5393.74,4086.21,Grenada,Romania,Insurance Payment,PHP,2025-01-01 00:00:00,1
+
+16281.78,13577.64,Ecuador,Samoa,Debit Card Payment,BRL,2025-01-01 00:00:00,1
+
+6907.43,5328.73,Tunisia,Botswana,Insurance Payment,ZAR,2025-01-01 00:00:00,1
+
+7285.96,3470.07,Senegal,United States of America,Bill Payment,BRL,2025-01-01 00:00:00,1
+
+7102.09,3950.81,Mauritania,Sierra Leone,Card Payment,RON,2025-01-01 00:00:00,1
+
+9809.02,5750.72,Uzbekistan,Guyana,Check Deposit,USD,2025-01-01 00:00:00,1
+
+5436.72,4456.65,New Zealand,Switzerland,Foreign Currency Exchange,CHF,2025-01-01 00:00:00,1
+
+16828.17,14598.45,Seychelles,Belgium,Insurance Payment,IDR,2025-01-01 00:00:00,1
+
+10172.57,4175.89,Madagascar,Panama,Foreign Currency Exchange,PLN,2025-01-01 00:00:00,1
+
+16580.97,14553.27,Sudan,Zimbabwe,Online Transfer,AED,2025-01-01 00:00:00,1
+
+16468.24,7558.44,Sweden,Pakistan,Wire Transfer,NZD,2025-01-01 00:00:00,1
+
+13903.0,9512.24,Belarus,Bulgaria,Debit Card Payment,JPY,2025-01-01 00:00:00,1
+
+1627.51,690.78,Germany,Korea, North,Insurance Payment,IDR,2025-01-01 00:00:00,0
+
+9970.27,4780.54,Italy,Germany,Withdrawal,NZD,2025-01-01 00:00:00,1
+
+13922.71,9405.09,Montenegro,Somalia,Wire Transfer,MYR,2025-01-01 00:00:00,1
+
+12782.61,11315.12,Fiji,Benin,P2P Transfer,SGD,2025-01-01 00:00:00,1
+
+17866.15,13550.01,Romania,Haiti,Cash Advance,TRY,2025-01-01 00:00:00,1
+
+13555.72,9019.17,Sri Lanka,Turkey,Subscription Payment,TWD,2025-01-01 00:00:00,1
+
+9042.03,6096.51,Sweden,Ecuador,Debit Card Payment,CHF,2025-01-01 00:00:00,1
+
+19667.06,8873.1,Mauritania,Turkey,Refund,SEK,2025-01-01 00:00:00,1
+
+1216.55,726.76,Barbados,Belarus,Salary Payment,SEK,2025-01-01 00:00:00,0
+
+2178.93,1839.52,Singapore,Norway,Foreign Currency Exchange,MYR,2025-01-01 00:00:00,1
+
+5598.97,4066.86,Finland,Israel,Card Payment,CNY,2025-01-01 00:00:00,1
+
+15829.15,9437.84,Ireland,Burundi,Check Deposit,GBP,2025-01-01 00:00:00,1
+
+11261.34,4777.78,Bolivia,Albania,External Transfer,PHP,2025-01-01 00:00:00,1
+
+12720.54,10261.64,Laos,Saint Vincent and the Grenadines,Interest Debit,HKD,2025-01-01 00:00:00,1
+
+14064.19,7994.96,Libya,Algeria,Direct Debit,ZAR,2025-01-01 00:00:00,1
+
+16193.55,8045.29,Sao Tome and Principe,Slovakia,Foreign Remittance,BRL,2025-01-01 00:00:00,1
+
+15959.81,9997.03,Maldives,Slovakia,Check Deposit,RON,2025-01-01 00:00:00,1
+
+16120.33,10705.79,Kazakhstan,Austria,Bill Payment,TWD,2025-01-01 00:00:00,1
+
+10745.16,5756.06,Monaco,Ireland,Foreign Remittance,PLN,2025-01-01 00:00:00,1
+
+5946.98,4461.01,Zambia,Solomon Islands,Salary Payment,KRW,2025-01-01 00:00:00,1
+
+18625.97,15839.68,Netherlands,Chad,Internal Transfer,AUD,2025-01-01 00:00:00,1
+
+17950.76,9943.84,Somalia,El Salvador,Credit Card Payment,THB,2025-01-01 00:00:00,1
+
+6974.92,5739.35,The Gambia,Grenada,Mobile Payment,NOK,2025-01-01 00:00:00,1
+
+4792.88,2421.12,Bolivia,Israel,Batch Payment,TWD,2025-01-01 00:00:00,1
+
+6156.8,4270.09,Belize,Tunisia,Interest Debit,HUF,2025-01-01 00:00:00,1
+
+2097.19,1755.13,Chad,Benin,Subscription Payment,TWD,2025-01-01 00:00:00,1
+
+17370.76,12744.62,Guinea-Bissau,Saint Kitts and Nevis,Bill Payment,RUB,2025-01-01 00:00:00,1
+
+7883.05,4240.97,Honduras,Vietnam,Online Transfer,TRY,2025-01-01 00:00:00,1
+
+12816.89,6252.16,Hungary,Turkmenistan,Interest Debit,RON,2025-01-01 00:00:00,1
+
+14917.61,10860.15,Tunisia,Denmark,Point of Sale (POS) Purchase,HKD,2025-01-01 00:00:00,1
+
+1517.43,896.22,Lesotho,Namibia,Direct Debit,HUF,2025-01-01 00:00:00,0
+
+13932.69,12534.98,Jamaica,Niger,Check Withdrawal,RON,2025-01-01 00:00:00,1
+
+7035.45,5865.97,Bosnia and Herzegovina,Saudi Arabia,Gift Card Purchase,ILS,2025-01-01 00:00:00,1
+
+16857.08,14201.63,Benin,Vietnam,Interest Credit,CAD,2025-01-01 00:00:00,1
+
+7868.39,5442.95,Mauritius,Sao Tome and Principe,Interest Credit,CZK,2025-01-01 00:00:00,1
+
+16770.99,10625.73,Thailand,Hungary,Wire Transfer,MYR,2025-01-01 00:00:00,1
+
+8144.01,3976.11,Honduras,Swaziland,Bill Payment,SAR,2025-01-01 00:00:00,1
+
+10833.83,9201.11,Italy,Fiji,Debit Card Payment,SAR,2025-01-01 00:00:00,1
+
+12354.51,6656.99,Korea, South,Latvia,Card Payment,MYR,2025-01-01 00:00:00,1
+
+10648.82,9173.31,Finland,Equatorial Guinea,ATM Withdrawal,ZAR,2025-01-01 00:00:00,1
+3055.22,2552.57,Grenada,Greece,Prepaid Card Load,ZAR,2025-01-01 00:00:00,1
+
+5675.03,4900.73,San Marino,Venezuela,Check Withdrawal,CLP,2025-01-01 00:00:00,1
+
+12172.42,8947.53,Hungary,Czech Republic,Mortgage Payment,BRL,2025-01-01 00:00:00,1
+
+14062.03,7880.0,Korea, North,Brazil,Batch Payment,IDR,2025-01-01 00:00:00,1
+
+6039.28,3335.64,Serbia,Congo, Republic of the,Fee Charge,GBP,2025-01-01 00:00:00,1
+
+2616.98,1900.81,Ghana,Togo,Deposit,TRY,2025-01-01 00:00:00,1
+
+10946.54,4618.6,Myanmar (Burma),Dominican Republic,Credit Card Payment,COP,2025-01-01 00:00:00,1
+
+3771.0,3327.18,Suriname,Antigua and Barbuda,Wire Transfer,CZK,2025-01-01 00:00:00,1
+
+15340.91,7655.42,Senegal,Germany,ATM Withdrawal,DKK,2025-01-01 00:00:00,1
+
+934.33,571.81,Guatemala,Argentina,Internal Transfer,GBP,2025-01-01 00:00:00,0
+
+19182.01,9561.59,Norway,Syria,Subscription Payment,ILS,2025-01-01 00:00:00,1
+
+18480.14,14347.14,Togo,China,Wire Transfer,PHP,2025-01-01 00:00:00,1
+
+16009.81,6915.93,Tajikistan,Zimbabwe,Standing Order,CHF,2025-01-01 00:00:00,1
+
+16697.66,13101.25,Japan,Israel,Mobile Payment,SAR,2025-01-01 00:00:00,1
+
+2576.43,1548.41,Malaysia,Saint Kitts and Nevis,Credit Card Payment,CZK,2025-01-01 00:00:00,1
+
+13790.19,6796.84,Mauritius,Suriname,Gift Card Purchase,BRL,2025-01-01 00:00:00,1
+
+15116.48,11021.21,Botswana,Romania,External Transfer,PLN,2025-01-01 00:00:00,1
+
+2765.25,2065.02,Micronesia, Federated States of,Barbados,Point of Sale (POS) Purchase,KRW,2025-01-01 00:00:00,1
+
+16072.69,8027.73,Serbia,Canada,Foreign Currency Exchange,EUR,2025-01-01 00:00:00,1
+
+8031.4,5025.37,Guatemala,Andorra,Online Transfer,MXN,2025-01-01 00:00:00,1
+
+2744.89,1312.14,Botswana,The Bahamas,Subscription Payment,RON,2025-01-01 00:00:00,1
+
+15605.71,11761.37,Morocco,Togo,ATM Withdrawal,USD,2025-01-01 00:00:00,1
+
+7154.45,4041.55,Bhutan,South Sudan,Merchant Settlement,DKK,2025-01-01 00:00:00,1
+
+7313.04,4890.29,Bhutan,Cameroon,Cash Advance,AUD,2025-01-01 00:00:00,1
+
+7800.05,3516.15,Solomon Islands,Cyprus,Standing Order,AUD,2025-01-01 00:00:00,1
+
+19234.11,15372.96,Grenada,India,Check Deposit,BRL,2025-01-01 00:00:00,1
+
+7985.44,5989.44,Croatia,Thailand,International Transfer,NZD,2025-01-01 00:00:00,1
+
+14247.69,6767.32,Chile,Venezuela,Card Payment,CHF,2025-01-01 00:00:00,1
+
+8724.92,5707.7,Germany,Nepal,ATM Withdrawal,THB,2025-01-01 00:00:00,1
+
+18172.52,11114.66,Ethiopia,Uzbekistan,Card Payment,PLN,2025-01-01 00:00:00,1
+
+19000.33,14411.35,Kenya,Samoa,Withdrawal,ILS,2025-01-01 00:00:00,1
+
+8966.17,6313.51,Haiti,Burkina Faso,Foreign Currency Exchange,CHF,2025-01-01 00:00:00,1
+
+12148.36,6035.88,Haiti,Finland,Interest Credit,NOK,2025-01-01 00:00:00,1
+
+627.57,529.26,Sudan,Peru,Mortgage Payment,AED,2025-01-01 00:00:00,0
+
+3690.82,2591.59,Nicaragua,Trinidad and Tobago,Deposit,BRL,2025-01-01 00:00:00,1
+
+14752.63,8681.93,Mozambique,Saudi Arabia,Card Payment,MYR,2025-01-01 00:00:00,1
+
+2795.96,1256.06,Iraq,United Arab Emirates,Gift Card Purchase,HKD,2025-01-01 00:00:00,1
+
+2982.5,2232.19,Saint Kitts and Nevis,Uruguay,Foreign Currency Exchange,HUF,2025-01-01 00:00:00,1
+
+10924.69,9074.08,Paraguay,Belgium,Cash Advance,DKK,2025-01-01 00:00:00,1
+
+16707.57,11660.33,Comoros,China,Subscription Payment,CAD,2025-01-01 00:00:00,1
+
+2165.63,1285.19,Croatia,Thailand,Fee Charge,MYR,2025-01-01 00:00:00,1
+
+19142.69,12220.89,Marshall Islands,Uruguay,ATM Withdrawal,IDR,2025-01-01 00:00:00,1
+
+18763.69,13479.96,Nigeria,Nigeria,Deposit,DKK,2025-01-01 00:00:00,0
+
+4574.49,3855.01,Benin,Palau,Merchant Settlement,USD,2025-01-01 00:00:00,1
+
+11646.64,6062.81,Denmark,Honduras,Merchant Settlement,THB,2025-01-01 00:00:00,1
+
+19920.36,11517.23,Saint Kitts and Nevis,Ecuador,Subscription Payment,GBP,2025-01-01 00:00:00,1
+
+10898.6,6638.8,Ukraine,Antigua and Barbuda,Point of Sale (POS) Purchase,INR,2025-01-01 00:00:00,1
+
+14968.19,12606.11,Zambia,Myanmar (Burma),Fee Charge,NOK,2025-01-01 00:00:00,1
+
+7659.0,4050.42,Malaysia,Poland,Card Payment,USD,2025-01-01 00:00:00,1
+
+15042.01,8990.81,Djibouti,Switzerland,Foreign Currency Exchange,BRL,2025-01-01 00:00:00,1
+
+3374.18,2835.15,Cambodia,Eritrea,Withdrawal,SAR,2025-01-01 00:00:00,1
+
+11164.85,8750.81,Latvia,Barbados,Foreign Remittance,NZD,2025-01-01 00:00:00,1
+
+13587.37,6357.61,Eritrea,Dominica,Withdrawal,ILS,2025-01-01 00:00:00,1
+
+2945.91,2172.35,Korea, North,Poland,Top-up,SGD,2025-01-01 00:00:00,1
+
+6702.63,5236.88,Uzbekistan,Kosovo,Deposit,CLP,2025-01-01 00:00:00,1
+
+4157.64,1719.06,Hungary,Ethiopia,Merchant Settlement,BRL,2025-01-01 00:00:00,1
+
+11631.71,7089.07,Indonesia,Colombia,Check Withdrawal,MYR,2025-01-01 00:00:00,1
+
+7223.02,3502.05,Mali,Equatorial Guinea,External Transfer,BRL,2025-01-01 00:00:00,1
+
+8309.24,6833.02,Liberia,Senegal,Deposit,EUR,2025-01-01 00:00:00,1
+
+19205.13,16736.87,Austria,Guatemala,Fee Charge,THB,2025-01-01 00:00:00,1
+
+17762.11,7696.54,United Arab Emirates,Angola,Prepaid Card Load,KRW,2025-01-01 00:00:00,1
+
+9257.58,7577.54,Niger,Estonia,Merchant Settlement,USD,2025-01-01 00:00:00,1
+
+13612.69,10003.75,Jordan,Guatemala,Cash Advance,BRL,2025-01-01 00:00:00,1
+
+13786.0,6894.26,Brazil,Russia,International Transfer,SEK,2025-01-01 00:00:00,1
+
+5827.04,3970.92,China,Israel,Debit Card Payment,MXN,2025-01-01 00:00:00,1
+
+46.99,29.83,Afghanistan,Nicaragua,Standing Order,COP,2025-01-01 00:00:00,0
+
+13991.52,6533.17,Uganda,Tajikistan,Debit Card Payment,NZD,2025-01-01 00:00:00,1
+
+13556.54,6648.52,Malawi,Palau,Merchant Settlement,RUB,2025-01-01 00:00:00,1
+
+5821.35,3933.53,Djibouti,Somalia,Withdrawal,CAD,2025-01-01 00:00:00,1
+
+1824.02,1091.64,Lesotho,Swaziland,Mobile Payment,CHF,2025-01-01 00:00:00,0
+
+6597.89,5059.23,San Marino,Togo,External Transfer,PLN,2025-01-01 00:00:00,1
+
+4416.62,2035.82,Dominica,Italy,Loan Payment,MXN,2025-01-01 00:00:00,1
+
+14304.62,11124.55,Monaco,United States of America,Prepaid Card Load,ILS,2025-01-01 00:00:00,1
+
+128.02,111.91,South Africa,Venezuela,Bill Payment,PHP,2025-01-01 00:00:00,0
+
+6115.08,5031.75,France,Ghana,Check Deposit,BRL,2025-01-01 00:00:00,1
+
+4494.86,3584.68,Malaysia,Lithuania,Cash Advance,CNY,2025-01-01 00:00:00,1
+
+18416.33,12330.95,Djibouti,Egypt,Direct Debit,USD,2025-01-01 00:00:00,1
+
+14350.23,10616.72,Congo, Democratic Republic of the,Burkina Faso,Direct Debit,RON,2025-01-01 00:00:00,1
+
+19810.51,12165.44,Vanuatu,Taiwan,Loan Payment,IDR,2025-01-01 00:00:00,1
+
+10249.85,7850.08,Morocco,Netherlands,Card Payment,KRW,2025-01-01 00:00:00,1
+
+18237.78,9972.13,Saint Lucia,Saudi Arabia,Standing Order,CZK,2025-01-01 00:00:00,1
+
+2316.95,951.28,Tajikistan,Mauritius,External Transfer,CLP,2025-01-01 00:00:00,1
+
+7402.66,5623.29,Malta,Turkmenistan,Merchant Settlement,PHP,2025-01-01 00:00:00,1
+
+13438.81,11925.41,Vietnam,Jordan,Merchant Settlement,AED,2025-01-01 00:00:00,1
+
+16797.2,12949.4,Belarus,Korea, North,Salary Payment,INR,2025-01-01 00:00:00,1
+
+16667.41,13054.88,Slovakia,Netherlands,Fee Charge,KRW,2025-01-01 00:00:00,1
+
+1130.13,960.2,Brazil,Guatemala,Interest Debit,CZK,2025-01-01 00:00:00,0
+
+2210.72,1791.25,Monaco,Chile,Standing Order,CNY,2025-01-01 00:00:00,1
+
+4700.31,2723.34,Egypt,Australia,Card Payment,SEK,2025-01-01 00:00:00,1
+
+11591.27,6756.21,Malawi,Australia,Mortgage Payment,ILS,2025-01-01 00:00:00,1
+
+16998.31,11630.44,Guinea-Bissau,United States of America,Deposit,SGD,2025-01-01 00:00:00,1
+
+15902.07,13926.97,Nauru,Rwanda,Subscription Payment,MYR,2025-01-01 00:00:00,1
+
+1511.81,1146.39,Papua New Guinea,Haiti,Debit Card Payment,DKK,2025-01-01 00:00:00,0
+
+3165.31,1662.23,Tunisia,Poland,Bill Payment,AUD,2025-01-01 00:00:00,1
+
+17169.07,13532.07,Poland,Tajikistan,ATM Deposit,EUR,2025-01-01 00:00:00,1
+
+5015.64,2332.85,Monaco,Bosnia and Herzegovina,Bill Payment,RON,2025-01-01 00:00:00,1
+
+13693.51,10082.98,Montenegro,Brunei,Fee Charge,CHF,2025-01-01 00:00:00,1
+
+12090.7,6607.68,Macedonia,Canada,Direct Debit,MXN,2025-01-01 00:00:00,1
+
+2178.98,969.56,Albania,Peru,Withdrawal,MYR,2025-01-01 00:00:00,1
+
+5428.95,2347.91,Slovakia,Ireland,P2P Transfer,DKK,2025-01-01 00:00:00,1
+1365.55,1566.53,Tunisia,Bosnia and Herzegovina,Card Payment,SEK,2025-12-26 15:15:17,0
+
+11262.07,6003.23,Singapore,Mexico,P2P Transfer,USD,2025-02-08 06:21:12,1
+
+14437.99,13552.71,Korea, North,Maldives,Reversal,SAR,2025-09-04 04:18:12,1
+
+3876.6,4162.03,Bulgaria,Mauritania,Foreign Remittance,HUF,2025-03-27 13:47:52,1
+
+14010.87,11883.91,Kenya,Mexico,Credit Card Payment,NOK,2025-11-23 11:28:00,1
+
+1397.79,1063.31,Myanmar (Burma),Egypt,Card Payment,MXN,2025-10-03 21:37:57,0
+
+18773.39,9734.22,Uzbekistan,Serbia,Wire Transfer,USD,2025-12-26 18:29:53,1
+
+19328.95,10641.36,Ghana,Croatia,P2P Transfer,IDR,2025-07-06 21:16:36,1
+
+5966.44,3170.11,Moldova,Guinea,Interest Debit,THB,2025-06-30 04:48:54,1
+
+8622.36,9370.33,Saint Vincent and the Grenadines,Botswana,Fee Charge,PHP,2025-11-08 20:52:24,1
+
+1016.97,632.7,Belize,Sweden,Internal Transfer,INR,2025-11-04 02:10:21,0
+
+6246.5,6203.36,Japan,Nauru,Cash Advance,CNY,2025-07-24 12:10:21,1
+
+13396.48,7125.52,Azerbaijan,Barbados,Mobile Payment,AED,2025-12-13 00:28:28,1
+
+8403.13,5500.23,Sri Lanka,United States of America,Debit Card Payment,MXN,2025-04-01 08:43:07,1
+
+7765.17,4835.35,Togo,Portugal,Direct Debit,ILS,2025-02-16 05:17:32,1
+
+4447.83,4605.96,Bosnia and Herzegovina,Cambodia,Interest Debit,BRL,2025-05-27 08:08:14,1
+
+3339.85,3219.56,Moldova,Tanzania,Card Payment,KRW,2025-08-24 12:04:55,1
+
+1679.71,929.59,Cote d'Ivoire,Turkmenistan,Internal Transfer,IDR,2025-05-15 23:41:37,0
+
+7744.3,8032.3,El Salvador,Saint Kitts and Nevis,Withdrawal,AUD,2025-07-28 23:17:04,1
+
+3884.93,3882.36,Taiwan,Mongolia,Check Withdrawal,DKK,2025-03-04 19:45:19,1
+
+19660.9,20596.2,Sao Tome and Principe,Samoa,ATM Withdrawal,HKD,2025-08-09 18:12:17,1
+
+14306.52,8609.21,Barbados,Slovenia,Debit Card Payment,BRL,2025-02-01 03:08:31,1
+
+19348.05,22220.34,Bosnia and Herzegovina,Israel,Bill Payment,PLN,2025-04-28 10:53:55,1
+
+19606.07,21188.87,Belize,Iran,Interest Credit,PHP,2025-02-16 00:17:53,1
+
+1680.7,1246.21,Croatia,Kazakhstan,Credit Card Payment,USD,2025-09-30 18:26:39,0
+
+19305.41,15344.2,Marshall Islands,Sweden,Point of Sale (POS) Purchase,EUR,2025-07-31 17:48:37,1
+
+12617.54,13638.31,Philippines,Malaysia,Subscription Payment,DKK,2025-04-12 23:37:34,1
+
+9904.73,10613.21,Saudi Arabia,Vanuatu,Cash Advance,SEK,2025-11-29 01:28:31,1
+
+15620.05,8431.43,Cape Verde,Somalia,ATM Withdrawal,TRY,2025-04-05 09:27:24,1
+
+4036.66,3637.72,Estonia,Uganda,ATM Deposit,CLP,2025-02-05 12:38:13,1
+
+1618.59,1480.35,Senegal,Chile,Subscription Payment,PLN,2025-02-12 17:09:16,1
+
+10945.79,9911.91,Azerbaijan,Kazakhstan,Foreign Currency Exchange,TRY,2025-10-04 13:07:31,1
+
+16605.65,13000.77,Burkina Faso,Monaco,Interest Debit,MXN,2025-03-10 07:07:10,1
+
+12049.79,8645.08,Malawi,Norway,Foreign Remittance,IDR,2025-07-31 04:53:53,1
+
+12057.9,11643.81,Azerbaijan,Bahrain,Fee Charge,AUD,2025-10-06 23:25:40,1
+
+869.92,650.99,Papua New Guinea,Marshall Islands,Deposit,KRW,2025-12-13 14:09:27,1
+
+11355.88,11058.06,Liechtenstein,Armenia,Loan Payment,CLP,2025-07-11 08:19:46,1
+
+9685.17,6643.27,Cyprus,The Bahamas,Prepaid Card Load,CAD,2025-09-08 18:09:35,1
+
+15967.56,18328.89,Albania,Papua New Guinea,Check Deposit,EUR,2025-03-14 04:09:16,1
+
+16558.35,8458.45,Central African Republic,Cuba,Standing Order,RUB,2025-03-15 18:28:44,1
+
+14204.7,14411.41,The Bahamas,India,Point of Sale (POS) Purchase,CAD,2025-08-20 23:31:58,1
+
+13689.67,12120.35,Cape Verde,Germany,Refund,CNY,2025-01-22 12:20:59,1
+
+18805.59,14545.58,Namibia,Eritrea,Wire Transfer,COP,2025-04-23 07:38:47,1
+
+1843.11,1721.16,Belarus,Sierra Leone,Salary Payment,CHF,2025-09-28 19:17:37,0
+
+6110.83,4007.52,Saint Vincent and the Grenadines,Cameroon,Credit Card Payment,NZD,2025-02-26 05:54:00,1
+
+1740.97,2084.61,Jordan,Monaco,Interest Credit,CHF,2025-03-01 04:47:53,0
+
+12794.11,10529.86,Algeria,Belgium,Direct Debit,DKK,2025-12-29 22:22:45,1
+
+19347.03,21322.86,Lesotho,Pakistan,Point of Sale (POS) Purchase,MYR,2025-08-03 19:30:44,1
+
+17663.23,20329.21,South Sudan,Turkmenistan,Bill Payment,NZD,2025-06-28 01:57:33,1
+
+19214.22,11761.11,Netherlands,Netherlands,Merchant Settlement,HUF,2025-03-22 12:15:53,1
+
+7047.61,5480.95,Saint Kitts and Nevis,New Zealand,Card Payment,CLP,2025-02-08 02:19:33,1
+
+4541.02,5182.94,Lesotho,Saint Vincent and the Grenadines,Foreign Remittance,ZAR,2025-08-05 02:33:07,1
+
+16151.54,19310.14,Cuba,Estonia,Batch Payment,NOK,2025-12-09 05:01:48,1
+
+2682.54,2327.79,Bosnia and Herzegovina,Liechtenstein,Fee Charge,MYR,2025-11-28 11:30:30,1
+
+13968.75,12692.79,Venezuela,Cote d'Ivoire,Salary Payment,CNY,2025-10-04 20:39:53,1
+
+543.45,358.5,Georgia,Brazil,Wire Transfer,NZD,2025-08-10 19:00:35,0
+
+10933.48,7684.44,Somalia,Togo,Merchant Settlement,CLP,2025-02-11 04:33:01,1
+
+8720.5,7658.37,Benin,Taiwan,Direct Debit,HUF,2025-10-06 05:13:42,1
+
+17710.41,10177.75,Sao Tome and Principe,Switzerland,Wire Transfer,GBP,2025-01-18 19:32:30,1
+
+6866.97,7129.73,Niger,Burkina Faso,ATM Withdrawal,TWD,2025-07-24 06:17:10,1
+
+1030.38,629.96,Tajikistan,Benin,Online Transfer,TWD,2025-06-20 11:30:34,0
+
+11078.89,10693.86,Uzbekistan,Norway,Wire Transfer,HKD,2025-08-21 13:49:32,1
+
+5630.25,4956.87,Tonga,Jamaica,Online Transfer,SGD,2025-09-15 20:02:05,1
+
+5575.17,3620.05,Guyana,Canada,Direct Debit,HKD,2025-01-22 00:01:09,1
+
+11856.54,11995.55,Peru,Hungary,Merchant Settlement,HKD,2025-10-20 20:52:13,1
+
+15358.95,17540.41,Uruguay,Afghanistan,Credit Card Payment,RON,2025-05-15 03:55:21,1
+
+7790.67,4583.68,Panama,Saudi Arabia,Insurance Payment,ILS,2025-12-10 20:55:30,1
+
+8366.04,7758.87,Kazakhstan,Brunei,P2P Transfer,TRY,2025-05-15 13:28:28,1
+
+5522.67,3089.09,Malaysia,Israel,Wire Transfer,AED,2025-05-23 03:26:50,1
+
+11754.48,6261.76,Jordan,Guatemala,Mobile Payment,SGD,2025-05-02 15:01:14,1
+
+14397.09,7903.94,Qatar,South Sudan,P2P Transfer,ILS,2025-03-15 12:42:21,1
+
+1426.42,1036.99,Tajikistan,Zimbabwe,Interest Credit,KRW,2025-05-17 14:17:00,1
+
+19852.57,15975.28,Sri Lanka,Brazil,Foreign Currency Exchange,CNY,2025-10-15 10:44:20,1
+
+4748.99,5590.58,Korea, South,Seychelles,Standing Order,USD,2025-09-07 08:32:13,1
+
+14003.9,10463.44,Sierra Leone,Mali,Refund,RON,2025-02-24 09:45:40,1
+
+11510.92,10302.13,Iraq,Jamaica,Debit Card Payment,JPY,2025-05-07 13:50:52,1
+
+17346.67,14743.9,Latvia,Hungary,Insurance Payment,EUR,2025-12-17 23:29:06,1
+
+17844.28,14132.97,Bolivia,Egypt,Subscription Payment,HKD,2025-10-12 10:17:27,1
+
+11622.08,12010.73,Bangladesh,Germany,P2P Transfer,TWD,2025-05-03 02:45:19,1
+
+8546.09,5369.14,Paraguay,Denmark,Gift Card Purchase,DKK,2025-06-27 09:04:36,1
+
+9023.53,6218.99,Uganda,Belgium,Check Deposit,MXN,2025-11-20 07:43:26,1
+
+2818.88,3134.84,Philippines,Switzerland,Mobile Payment,SAR,2025-12-06 18:54:46,1
+
+12360.57,10016.25,Guinea,Bahrain,ATM Deposit,NOK,2025-05-13 09:26:08,1
+
+9647.63,8332.4,Belgium,Honduras,ATM Deposit,ILS,2025-08-16 00:34:45,1
+
+6090.29,5106.25,Brazil,Mali,Check Withdrawal,DKK,2025-01-27 20:10:10,1
+
+19492.89,11329.53,Eritrea,Uruguay,Card Payment,NZD,2025-07-10 18:08:17,1
+
+8491.38,8852.83,Macedonia,Serbia,Check Deposit,CZK,2025-11-15 01:28:40,1
+
+5204.36,4661.01,Zimbabwe,Switzerland,ATM Withdrawal,HKD,2025-09-12 05:30:36,1
+
+7871.76,9183.75,Greece,Kiribati,Interest Debit,COP,2025-09-26 17:26:03,1
+
+17116.37,10148.69,Barbados,South Africa,Salary Payment,CHF,2025-11-26 16:55:27,1
+
+2866.46,3219.82,The Gambia,Costa Rica,Foreign Remittance,CLP,2025-01-03 14:38:25,1
+
+9438.8,6252.6,Brunei,Nepal,Foreign Remittance,IDR,2025-01-26 03:09:10,1
+
+17734.54,16369.39,Morocco,Belize,Insurance Payment,RON,2025-05-06 14:22:28,1
+
+11555.61,13233.59,Ecuador,Mauritania,Debit Card Payment,NOK,2025-06-07 04:57:04,1
+
+8215.26,4230.02,Kosovo,Cote d'Ivoire,Gift Card Purchase,IDR,2025-11-28 06:40:04,1
+
+6691.57,4834.33,Andorra,Sudan,Online Transfer,ILS,2025-11-25 00:37:18,1
+
+17566.03,19306.9,Ethiopia,Brazil,Check Deposit,HUF,2025-05-16 20:29:07,1
+
+19541.14,11932.61,Sri Lanka,Iraq,Reversal,EUR,2025-09-09 10:34:36,1
+
+15432.29,11502.26,Syria,Lesotho,Check Deposit,COP,2025-02-26 14:57:23,1
+
+9878.08,6260.49,Sudan,Malta,Interest Debit,NZD,2025-06-18 11:50:46,1
+
+5233.95,3662.95,Benin,Saudi Arabia,P2P Transfer,CHF,2025-07-01 17:00:14,1
+
+6844.09,8155.63,Central African Republic,Bangladesh,Top-up,COP,2025-09-08 06:42:01,1
+
+4348.88,2886.74,Niger,Sudan,External Transfer,NZD,2025-10-09 08:49:17,1
+
+13754.35,12738.17,Botswana,Uganda,Foreign Currency Exchange,KRW,2025-04-02 04:57:17,1
+
+15919.92,11304.86,Hungary,Congo, Republic of the,Direct Debit,CZK,2025-07-24 17:42:58,1
+
+7159.05,4121.7,East Timor (Timor-Leste),Bhutan,Top-up,MYR,2025-05-24 08:55:27,1
+
+2117.61,1443.71,Andorra,Bhutan,Insurance Payment,DKK,2025-07-17 18:57:35,1
+
+1275.53,1022.26,Australia,Papua New Guinea,Foreign Remittance,MXN,2025-03-21 02:32:14,0
+
+17227.76,13914.37,Senegal,Portugal,Deposit,KRW,2025-01-07 23:20:15,1
+
+13612.86,7175.46,Cuba,Mongolia,Insurance Payment,NZD,2025-12-11 13:08:16,1
+
+14156.07,16177.21,Saint Vincent and the Grenadines,Kuwait,External Transfer,SGD,2025-03-27 17:16:49,1
+
+7234.99,5605.38,Namibia,Vanuatu,Wire Transfer,PLN,2025-05-24 11:18:59,1
+
+3262.52,2911.45,Samoa,Qatar,Merchant Settlement,AED,2025-05-03 14:21:47,1
+
+5915.08,6154.2,Georgia,Bhutan,Loan Payment,TRY,2025-05-30 06:07:10,1
+
+16843.12,16473.52,Tanzania,Nauru,Direct Debit,PLN,2025-08-18 16:53:33,1
+
+7912.95,5664.43,Israel,Kazakhstan,Internal Transfer,NZD,2025-01-24 12:52:05,1
+
+277.87,298.97,Bahrain,Libya,Check Withdrawal,CAD,2025-05-04 07:03:05,1
+
+16179.41,18444.04,Pakistan,Cape Verde,Bill Payment,RUB,2025-09-14 20:14:51,1
+
+5039.03,4177.54,Uganda,Venezuela,Bill Payment,RUB,2025-05-09 22:24:34,1
+
+2742.22,2332.74,Liechtenstein,Ethiopia,Deposit,MYR,2025-01-20 23:01:19,1
+
+10025.66,6902.86,United States of America,Montenegro,Deposit,TWD,2025-04-24 16:59:19,1
+
+14113.28,10155.25,Tunisia,Cape Verde,Insurance Payment,HKD,2025-01-10 18:10:50,1
+
+8346.28,7030.17,Kyrgyzstan,Korea, South,Foreign Remittance,CLP,2025-02-19 02:05:55,1
+
+9010.42,4594.51,Philippines,Poland,Bill Payment,TRY,2025-12-17 08:35:15,1
+
+2290.11,2690.97,Yemen,Peru,Check Withdrawal,BRL,2025-06-21 19:39:21,1
+
+3810.26,2969.51,Georgia,Malaysia,Foreign Currency Exchange,MYR,2025-08-28 13:13:47,1
+
+11591.08,13259.67,Ireland,Cameroon,Check Withdrawal,AED,2025-01-23 15:30:54,1
+
+14316.92,11001.85,Liechtenstein,Moldova,Reversal,EUR,2025-09-18 05:02:00,1
+
+15659.02,13571.81,Vatican City (Holy See),East Timor (Timor-Leste),Point of Sale (POS) Purchase,SGD,2025-01-03 04:00:29,1
+
+3618.58,1944.42,Netherlands,Guinea-Bissau,Subscription Payment,ILS,2025-03-11 18:31:24,1
+
+13375.26,14310.0,Slovenia,Guinea,Wire Transfer,HKD,2025-11-07 17:12:14,1
+
+10513.83,6648.46,The Gambia,Equatorial Guinea,Bill Payment,CLP,2025-06-15 06:18:53,1
+
+5751.41,5943.56,Colombia,Mozambique,Wire Transfer,ILS,2025-03-27 17:27:33,1
+
+716.76,695.63,Sierra Leone,Korea, South,Credit Card Payment,IDR,2025-12-24 20:58:16,0
+
+1445.2,1640.76,Syria,Cote d'Ivoire,Foreign Currency Exchange,ZAR,2025-01-27 03:22:25,0
+
+3182.91,3526.87,Belarus,Yemen,Interest Debit,HKD,2025-07-06 01:41:39,1
+
+16757.43,15667.04,Oman,Saint Lucia,Cash Advance,USD,2025-03-29 15:01:49,1
+
+8069.45,5725.52,Sao Tome and Principe,Mongolia,ATM Withdrawal,CHF,2025-05-28 05:43:54,1
+
+4517.75,3384.53,Hungary,Argentina,Point of Sale (POS) Purchase,EUR,2025-08-08 04:52:21,1
+
+15126.65,10037.99,Germany,Seychelles,Subscription Payment,NOK,2025-05-09 19:53:38,1
+
+200.42,207.78,East Timor (Timor-Leste),Belarus,P2P Transfer,SGD,2025-08-14 18:40:45,0
+
+19490.52,17769.46,Cuba,Liberia,Bill Payment,BRL,2025-10-31 08:41:55,1
+
+9041.77,10280.33,Somalia,Kuwait,External Transfer,AUD,2025-12-20 12:38:33,1
+
+5903.19,5087.84,Serbia,Slovakia,Direct Debit,COP,2025-08-23 01:15:54,1
+
+17123.34,11056.51,Zimbabwe,Belarus,Prepaid Card Load,THB,2025-10-19 22:55:25,1
+
+13730.25,7815.42,Fiji,Portugal,Foreign Remittance,HUF,2025-10-14 20:58:04,1
+
+17225.03,17625.09,Tuvalu,Bulgaria,Mobile Payment,CAD,2025-08-27 20:26:31,1
+
+18205.75,17450.29,Serbia,Denmark,Online Transfer,USD,2025-10-04 20:37:25,1
+
+18572.3,10000.82,Mexico,Dominican Republic,ATM Deposit,THB,2025-09-02 03:52:49,1
+
+12535.68,12490.25,Brazil,United Kingdom,Credit Card Payment,NZD,2025-11-11 22:22:15,1
+
+11576.8,6418.69,Suriname,Vietnam,Salary Payment,INR,2025-03-04 09:40:47,1
+
+10470.62,9454.43,Togo,Romania,External Transfer,CAD,2025-11-30 21:12:46,1
+
+15343.82,9136.92,Macedonia,The Bahamas,Merchant Settlement,IDR,2025-03-13 09:25:43,1
+
+2883.66,2326.78,Uzbekistan,Nicaragua,P2P Transfer,PLN,2025-01-06 23:51:47,1
+
+7780.96,6244.56,Solomon Islands,Korea, North,Check Withdrawal,JPY,2025-07-12 05:30:27,1
+
+86.75,96.86,Saint Vincent and the Grenadines,Monaco,Loan Payment,HUF,2025-03-04 13:50:47,0
+
+453.07,483.63,Jamaica,Trinidad and Tobago,Deposit,GBP,2025-06-17 10:27:54,0
+
+14910.78,10998.63,Marshall Islands,El Salvador,Internal Transfer,THB,2025-07-02 00:04:02,1
+
+2326.38,1594.46,Ecuador,Qatar,Credit Card Payment,SEK,2025-09-29 13:48:31,1
+
+11348.47,12894.8,Solomon Islands,Jamaica,Deposit,JPY,2025-09-06 06:42:56,1
+
+1778.82,1829.44,Montenegro,Botswana,ATM Withdrawal,GBP,2025-08-23 11:56:50,1
+
+10894.62,12806.65,Guinea-Bissau,The Bahamas,International Transfer,GBP,2025-05-18 20:46:54,1
+
+17428.38,15737.01,Zimbabwe,Samoa,Interest Debit,HUF,2025-06-18 07:15:46,1
+
+11555.58,9142.7,China,Algeria,Standing Order,GBP,2025-12-05 20:40:27,1
+
+6928.14,6482.32,Georgia,Costa Rica,Check Withdrawal,CAD,2025-05-13 20:51:32,1
+
+4170.11,2703.88,Monaco,Zimbabwe,Prepaid Card Load,CLP,2025-08-21 22:18:32,1
+
+6662.1,4681.97,France,Honduras,Foreign Currency Exchange,SGD,2025-03-30 00:18:04,1
+
+1401.59,1076.22,Trinidad and Tobago,Tajikistan,P2P Transfer,EUR,2025-10-23 17:37:59,1
+
+6422.41,7486.03,Mauritania,Norway,Interest Credit,PLN,2025-04-26 16:07:58,1
+
+11213.61,7091.24,Spain,Togo,Subscription Payment,CAD,2025-10-30 23:56:34,1
+
+19985.63,16980.65,Israel,East Timor (Timor-Leste),Online Transfer,PHP,2025-03-26 14:42:04,1
+
+6977.39,5556.54,Netherlands,Albania,Refund,SGD,2025-06-01 00:25:27,1
+
+195.01,199.78,Kiribati,Denmark,Card Payment,PLN,2025-11-09 04:22:36,0
+
+17941.44,20288.39,Mauritania,Iran,Salary Payment,MYR,2025-09-12 03:29:06,1
+
+6941.22,5185.78,Norway,Australia,ATM Withdrawal,AUD,2025-04-05 19:26:07,1
+
+4220.17,2987.95,Andorra,Saudi Arabia,Check Deposit,AUD,2025-03-05 01:27:33,1
+
+19101.02,15657.81,Marshall Islands,India,Reversal,TWD,2025-07-20 22:45:55,1
+
+19100.63,13256.66,Korea, North,The Gambia,Subscription Payment,KRW,2025-08-13 00:19:21,1
+
+9763.87,9887.05,Kyrgyzstan,Qatar,Foreign Currency Exchange,DKK,2025-12-29 07:19:12,1
+
+11088.36,12047.19,Bangladesh,Poland,Cash Advance,IDR,2025-03-27 09:06:52,1
+
+18343.06,14338.74,Korea, South,Qatar,Interest Credit,MXN,2025-12-20 20:15:07,1
+
+1827.19,1167.79,Taiwan,Czech Republic,Card Payment,USD,2025-03-20 18:49:01,1
+
+7058.62,5354.04,Laos,Namibia,Point of Sale (POS) Purchase,SEK,2025-08-07 18:51:04,1
+
+10107.57,10767.76,Congo, Democratic Republic of the,Libya,Gift Card Purchase,AED,2025-04-28 01:52:21,1
+
+13508.17,12523.74,Bangladesh,Italy,ATM Withdrawal,RUB,2025-10-16 05:30:39,1
+
+9803.13,5438.93,Sao Tome and Principe,Belgium,ATM Deposit,COP,2025-11-19 11:41:20,1
+
+5420.69,3914.56,Jordan,Micronesia, Federated States of,Mobile Payment,RUB,2025-04-22 08:39:13,1
+
+2903.29,3215.77,Italy,Lesotho,Subscription Payment,ILS,2025-05-09 00:34:06,1
+
+9774.53,7347.32,Guyana,Sudan,Batch Payment,RON,2025-04-22 21:53:13,1
+
+17919.92,11766.93,Kazakhstan,Nauru,Cash Advance,THB,2025-10-24 01:20:43,1
+
+7732.39,8209.62,Brazil,Venezuela,Merchant Settlement,BRL,2025-08-13 21:22:58,1
+
+5131.68,4538.44,Iran,Norway,Withdrawal,HUF,2025-12-28 10:49:16,1
+
+8464.81,7255.73,Belize,Equatorial Guinea,Mobile Payment,RUB,2025-05-14 03:16:23,1
+
+5210.21,3483.31,San Marino,Kiribati,Insurance Payment,TRY,2025-11-21 18:36:16,1
+
+15643.95,14708.43,Gabon,Grenada,Point of Sale (POS) Purchase,CAD,2025-02-11 13:19:49,1
+
+16798.33,9859.14,Tajikistan,Uganda,Merchant Settlement,RON,2025-04-11 22:13:45,1
+
+12384.41,9931.45,Trinidad and Tobago,Lithuania,Subscription Payment,RUB,2025-01-18 05:41:19,1
+
+14607.93,10114.23,Indonesia,Georgia,Check Withdrawal,TRY,2025-01-03 07:54:11,1
+
+2497.49,2971.93,Palau,Oman,Online Transfer,ZAR,2025-09-02 19:57:02,1
+
+11244.93,6302.64,Venezuela,Guinea,Fee Charge,HUF,2025-02-07 19:58:36,1
+
+14215.16,16158.87,Liechtenstein,Singapore,Withdrawal,KRW,2025-04-26 19:29:29,1
+
+1487.5,1747.16,Lithuania,Argentina,ATM Withdrawal,SEK,2025-06-20 00:10:17,0
+
+15967.3,13446.5,Bulgaria,Australia,P2P Transfer,ILS,2025-04-26 19:53:47,1
+
+6231.18,6266.94,Israel,Spain,Wire Transfer,AED,2025-03-14 03:27:45,1
+
+14267.16,8740.42,Dominica,Bosnia and Herzegovina,Check Deposit,TWD,2025-09-10 19:47:02,1
+
+19744.49,15789.28,The Bahamas,Suriname,Cash Advance,USD,2025-11-14 08:59:41,1
+
+7295.89,5654.69,Georgia,Nepal,Foreign Currency Exchange,HUF,2025-01-10 16:56:59,1
+
+1960.76,1033.34,Chile,Turkey,Check Deposit,CHF,2025-02-24 07:04:57,0
+
+8598.81,9924.01,Czech Republic,Romania,Internal Transfer,COP,2025-02-25 01:04:16,1
+
+12287.97,8535.62,Zambia,Sri Lanka,Insurance Payment,BRL,2025-12-22 03:18:16,1
+
+6298.42,6828.16,Colombia,Paraguay,Internal Transfer,HKD,2025-04-23 20:29:10,1
+
+984.79,599.16,Libya,Gabon,Batch Payment,TRY,2025-08-04 08:19:34,0
+
+18790.8,15104.97,Yemen,South Sudan,Loan Payment,AUD,2025-07-18 21:19:02,1
+
+6320.0,3448.12,Germany,Indonesia,Subscription Payment,INR,2025-03-23 12:15:59,1
+
+1892.79,2199.23,Lebanon,Egypt,Subscription Payment,EUR,2025-05-09 17:58:43,0
+
+433.05,291.04,Taiwan,Croatia,Internal Transfer,CNY,2025-05-13 08:02:45,1
+
+934.55,493.17,Uzbekistan,Croatia,Batch Payment,DKK,2025-07-29 09:46:56,0
+
+17458.47,13860.67,Honduras,Saudi Arabia,External Transfer,INR,2025-01-10 04:48:36,1
+
+8362.96,5813.9,Morocco,Togo,Top-up,RON,2025-06-20 15:11:33,1
+
+16341.33,18789.85,Iceland,Guinea-Bissau,Refund,SGD,2025-12-05 03:40:38,1
+
+8567.77,4356.25,Grenada,Korea, South,Fee Charge,JPY,2025-05-01 22:12:15,1
+
+18262.73,13730.01,El Salvador,Kosovo,Mobile Payment,NZD,2025-08-12 06:32:55,1
+
+9341.34,6311.88,Guyana,El Salvador,Internal Transfer,SEK,2025-09-16 16:53:25,1
+
+16168.06,14781.82,Zimbabwe,Nepal,Check Deposit,CAD,2025-12-30 20:21:45,1
+
+8331.86,6121.45,Iraq,Honduras,Card Payment,AED,2025-04-10 19:12:58,1
+
+2828.11,2253.33,Botswana,Equatorial Guinea,Card Payment,ZAR,2025-11-08 14:25:04,1
+
+2017.14,1601.72,Papua New Guinea,Albania,Wire Transfer,DKK,2025-04-16 18:27:59,1
+
+2204.75,2472.21,Lesotho,Botswana,Cash Advance,CHF,2025-05-24 21:19:57,1
+
+18905.63,10059.59,Yemen,Norway,External Transfer,MYR,2025-02-24 10:24:20,1
+
+6443.45,5424.99,Denmark,Bosnia and Herzegovina,Interest Debit,DKK,2025-10-19 16:53:29,1
+
+655.75,374.27,El Salvador,Swaziland,Merchant Settlement,NOK,2025-01-09 18:09:45,0
+
+1815.84,1461.24,East Timor (Timor-Leste),Luxembourg,Mortgage Payment,USD,2025-01-27 07:03:01,0
+
+17422.88,11877.64,Nauru,Mexico,Interest Debit,HKD,2025-07-05 11:52:56,1
+
+15513.23,17810.38,Kiribati,Kenya,P2P Transfer,PHP,2025-08-06 19:28:53,1
+
+7942.22,7457.39,Costa Rica,Angola,Loan Payment,INR,2025-08-20 08:20:09,1
+
+9250.0,5804.81,Thailand,Moldova,Loan Payment,TRY,2025-07-12 18:02:29,1
+
+9668.45,4961.32,Trinidad and Tobago,Haiti,P2P Transfer,CNY,2025-01-05 00:35:37,1
+
+4580.19,5011.84,Panama,Cote d'Ivoire,Online Transfer,KRW,2025-03-31 10:19:52,1
+
+18285.74,16872.54,Denmark,Rwanda,Foreign Remittance,TRY,2025-02-18 07:27:34,1
+
+19860.56,23745.34,Sierra Leone,Thailand,Mobile Payment,ZAR,2025-11-10 00:13:18,1
+
+6088.48,3496.84,Niger,Romania,Reversal,RUB,2025-09-04 21:53:20,1
+
+8835.77,7164.94,Marshall Islands,Sweden,Point of Sale (POS) Purchase,AUD,2025-07-19 08:40:11,1
+
+17822.3,16415.01,Paraguay,Saint Lucia,Prepaid Card Load,SGD,2025-05-24 02:28:28,1
+
+14787.58,12317.35,Sudan,San Marino,Withdrawal,MYR,2025-03-17 14:34:49,1
+
+6151.47,7121.79,Armenia,Indonesia,Prepaid Card Load,HKD,2025-12-03 18:16:21,1
+
+17271.39,16518.16,Nepal,Sri Lanka,Standing Order,BRL,2025-08-29 09:17:10,1
+
+5827.77,3640.52,El Salvador,Brunei,Gift Card Purchase,HKD,2025-02-22 21:35:39,1
+
+15061.13,14655.58,Congo, Republic of the,Cape Verde,Point of Sale (POS) Purchase,CZK,2025-02-13 07:44:38,1
+
+15119.03,15845.94,Central African Republic,Sudan,Point of Sale (POS) Purchase,THB,2025-06-28 06:41:27,1
+
+6069.36,6543.6,Madagascar,Taiwan,Salary Payment,CNY,2025-02-10 14:38:15,1
+
+172.75,91.13,Kuwait,Lithuania,ATM Withdrawal,AUD,2025-09-15 20:10:52,0
+
+8011.41,9494.6,Guinea-Bissau,Ireland,Foreign Currency Exchange,EUR,2025-12-06 22:45:08,1
+
+8483.48,6784.64,Cambodia,Lebanon,Foreign Currency Exchange,CNY,2025-08-24 10:15:13,1
+
+6181.02,4572.16,Czech Republic,Niger,Cash Advance,USD,2025-12-03 02:01:02,1
+
+1152.77,1371.93,South Sudan,Azerbaijan,Online Transfer,PLN,2025-09-04 10:07:23,1
+
+3976.19,2457.56,South Sudan,Myanmar (Burma),Direct Debit,TRY,2025-12-03 17:27:12,1
+
+7492.56,7587.81,Algeria,India,P2P Transfer,BRL,2025-07-13 07:34:38,1
+
+16908.76,18431.5,Belgium,Sao Tome and Principe,Internal Transfer,NZD,2025-08-18 11:00:53,1
+
+13344.05,14195.69,Senegal,Gabon,Loan Payment,ZAR,2025-04-22 07:05:54,1
+
+18819.88,13662.97,Botswana,Kenya,Deposit,TRY,2025-12-24 20:44:54,1
+
+3431.27,3121.52,Bhutan,Canada,Point of Sale (POS) Purchase,EUR,2025-04-03 08:25:32,1
+
+11694.22,5865.62,Panama,Malawi,Withdrawal,INR,2025-11-19 04:58:18,1
+
+7746.27,6122.18,Saint Vincent and the Grenadines,Canada,Wire Transfer,IDR,2025-04-09 14:14:31,1
+
+13450.87,8269.36,Haiti,China,Gift Card Purchase,AED,2025-09-04 07:17:06,1
+
+4535.53,3678.18,Greece,Papua New Guinea,Loan Payment,HUF,2025-09-08 20:49:46,1
+
+14589.24,17086.56,Colombia,Iceland,Gift Card Purchase,HUF,2025-03-27 01:37:35,1
+
+1378.96,1389.68,Algeria,Bulgaria,Point of Sale (POS) Purchase,RON,2025-08-30 09:40:26,0
+
+11476.89,10846.03,China,Indonesia,Insurance Payment,NOK,2025-04-23 13:59:56,1
+
+4542.62,4699.56,Cyprus,Samoa,Check Withdrawal,AUD,2025-05-30 12:36:16,1
+
+306.72,332.23,Comoros,Mali,ATM Deposit,ZAR,2025-10-08 18:44:51,1
+
+208.47,120.36,Botswana,Dominica,Point of Sale (POS) Purchase,DKK,2025-11-26 02:27:47,0
+
+10641.06,9302.8,Niger,Dominican Republic,Mobile Payment,CAD,2025-01-17 16:54:31,1
+
+4550.59,5009.41,Nauru,Guinea,Interest Debit,TWD,2025-02-06 09:59:30,1
+
+8028.5,8875.44,Algeria,Korea, South,Loan Payment,DKK,2025-02-23 00:18:34,1
+
+8411.28,4588.34,New Zealand,Japan,Deposit,PHP,2025-10-08 21:23:59,1
+
+15443.65,17217.98,Estonia,India,Bill Payment,MYR,2025-08-08 20:50:40,1
+
+17197.61,18257.28,Bolivia,Canada,Reversal,NOK,2025-01-13 14:23:39,1
+
+16475.18,18204.55,Benin,Italy,Prepaid Card Load,CAD,2025-01-20 07:00:17,1
+
+1068.08,1230.45,Nauru,Finland,Withdrawal,CNY,2025-04-22 06:41:46,0
+
+6421.41,3565.04,Lesotho,Netherlands,Internal Transfer,COP,2025-06-24 09:10:28,1
+
+15677.32,12410.2,Mongolia,Antigua and Barbuda,Debit Card Payment,CHF,2025-07-11 17:29:12,1
+
+8785.37,10098.93,Suriname,Jordan,Subscription Payment,COP,2025-06-06 10:54:56,1
+
+10316.97,6889.18,Syria,Cape Verde,Batch Payment,HUF,2025-06-10 08:35:53,1
+
+4913.88,3782.25,Solomon Islands,Ethiopia,Batch Payment,MYR,2025-03-25 07:13:47,1
+
+9696.31,10076.46,Papua New Guinea,Guinea,External Transfer,TWD,2025-07-20 16:26:07,1
+
+3307.87,3836.29,Mozambique,Venezuela,Refund,PHP,2025-09-25 15:07:42,1
+
+16165.81,10000.1,Jamaica,Bolivia,P2P Transfer,INR,2025-12-16 13:31:37,1
+
+12241.87,10902.1,Guyana,Ghana,External Transfer,KRW,2025-08-09 01:27:08,1
+
+18939.77,18842.49,Guinea,Micronesia, Federated States of,Online Transfer,RUB,2025-01-18 00:20:33,1
+
+4889.52,3253.5,Liberia,Malta,ATM Withdrawal,RON,2025-06-11 13:10:09,1
+
+11360.91,12755.09,Kuwait,Latvia,Internal Transfer,SGD,2025-12-03 10:58:09,1
+
+15275.26,17437.22,Yemen,Kiribati,Online Transfer,SGD,2025-06-03 05:19:28,1
+
+12719.17,8381.31,Qatar,Latvia,Card Payment,ZAR,2025-05-23 19:55:01,1
+
+13143.11,14015.25,Saint Lucia,Singapore,Internal Transfer,INR,2025-01-07 05:27:19,1
+
+2655.91,3105.07,Panama,Yemen,Reversal,MYR,2025-08-13 15:00:31,1
+
+11479.48,11648.33,Comoros,Tuvalu,Mobile Payment,CNY,2025-07-14 03:06:37,1
+
+8345.62,9213.25,Thailand,Vatican City (Holy See),Deposit,CAD,2025-03-17 17:01:12,1
+
+9317.93,5337.98,Thailand,Micronesia, Federated States of,Point of Sale (POS) Purchase,CZK,2025-03-31 00:34:19,1
+
+3271.36,3026.45,Greece,Belize,Salary Payment,KRW,2025-09-30 10:30:05,1
+
+4525.98,3146.17,Grenada,Macedonia,Merchant Settlement,CHF,2025-08-05 15:19:20,1
+8500.00,7200.00,New York,London,Wire Transfer,USD,2026-03-20 10:00:00,0
+12400.50,11000.00,Paris,Dubai,International Transfer,EUR,2026-03-20 10:05:00,0
+5200.00,4800.00,Tokyo,Singapore,Wire Transfer,JPY,2026-03-20 10:10:00,0
+15000.00,14500.00,London,Sydney,International Transfer,GBP,2026-03-20 10:15:00,0
+3200.75,3100.00,Berlin,New York,Wire Transfer,EUR,2026-03-20 10:20:00,0
+9800.00,9000.00,Dubai,London,Online Transfer,USD,2026-03-20 10:25:00,0
+7400.25,6800.00,Sydney,Osaka,Wire Transfer,AUD,2026-03-20 10:30:00,0
+12.50,105.00,New York,Lagos,Card Payment,USD,2026-03-20 11:00:00,1
+5.99,65.00,London,Moscow,Online Transfer,GBP,2026-03-20 11:05:00,1
+45.00,120.00,Paris,Unknown,Card Payment,EUR,2026-03-20 11:10:00,1
+1.00,50.00,Tokyo,Eastern Europe,Card Payment,JPY,2026-03-20 11:15:00,1
+78.20,200.00,Berlin,Kyiv,Online Transfer,EUR,2026-03-20 11:20:00,1
+19.99,85.00,Sydney,Panama,Card Payment,AUD,2026-03-20 11:25:00,1
+32.50,150.00,Dubai,Cayman Islands,Online Transfer,USD,2026-03-20 11:30:00,1
+4609,4762,South Africa,London,refund,CNY,2026-03-18 01:46:21,1
+727,2104,Brazil,Brazil,withdrawal,AUD,2025-07-01 17:18:27,0
+4186,4620,Germany,Rio de Janeiro,deposit,AUD,2025-11-03 09:05:50,0
+23,1515,France,USA,deposit,GBP,2026-01-11 02:33:38,1
+3998,103,Berlin,Rio de Janeiro,purchase,EUR,2025-08-24 04:11:43,0
+291,2622,France,New York,transfer,JPY,2025-11-11 17:45:35,1
+3754,3388,Dubai,Sydney,refund,GBP,2026-02-02 06:41:12,1
+3584,2179,Germany,London,refund,EUR,2026-03-01 17:13:59,0
+1107,2900,Berlin,Dubai,withdrawal,CAD,2025-05-09 01:11:59,0
+3544,1908,Paris,Berlin,withdrawal,GBP,2025-04-01 00:01:06,0
+1372,4277,Toronto,Dubai,deposit,JPY,2025-10-24 04:27:55,0
+4637,3080,Canada,Tokyo,refund,CAD,2025-04-02 04:22:38,0
+4278,2890,Brazil,Japan,withdrawal,GBP,2025-05-20 12:44:48,0
+4106,2134,London,Japan,purchase,AUD,2025-08-04 09:29:35,1
+3197,4522,Sydney,New York,refund,AUD,2025-05-06 06:08:55,1
+4322,556,USA,Brazil,refund,EUR,2025-05-31 08:56:47,1
+3821,4617,France,Moscow,withdrawal,EUR,2025-08-19 16:16:34,1
+2685,2081,UK,Germany,transfer,USD,2025-08-19 03:08:31,1
+1493,2630,UK,UK,transfer,EUR,2025-04-26 13:35:30,0
+3281,1532,Cape Town,Russia,purchase,CAD,2025-10-21 00:24:14,1
+3771,4357,New York,Moscow,refund,CNY,2026-03-04 12:36:25,0
+770,245,UAE,Rio de Janeiro,withdrawal,INR,2025-05-22 07:47:32,0
+1625,4378,Australia,Tokyo,purchase,CNY,2025-07-17 02:21:57,0
+2870,143,Sydney,Australia,purchase,CAD,2025-07-18 19:04:05,1
+2004,3587,South Africa,UK,refund,RUB,2026-02-22 17:58:24,1
+3034,1946,Japan,UAE,purchase,RUB,2025-08-31 17:15:13,1
+4966,525,Dubai,New York,withdrawal,EUR,2025-06-08 06:35:31,0
+1227,2617,UAE,New York,withdrawal,GBP,2025-11-26 13:50:07,0
+974,1111,Dubai,Moscow,transfer,CHF,2025-10-11 14:31:49,0
+3462,3371,Japan,London,refund,INR,2025-07-16 14:59:59,1
+3796,2253,Toronto,France,deposit,EUR,2025-09-25 06:01:33,0
+83,4477,Paris,Sydney,withdrawal,RUB,2025-07-14 23:23:42,0
+1237,360,South Africa,Rio de Janeiro,deposit,USD,2025-04-24 04:23:52,0
+2810,1514,Berlin,London,transfer,CAD,2026-02-05 07:53:31,1
+1587,3099,Rio de Janeiro,New York,withdrawal,USD,2025-09-16 11:02:01,1
+1605,3199,Berlin,France,deposit,RUB,2025-05-28 14:01:11,1
+1820,655,Paris,Brazil,withdrawal,EUR,2025-06-09 19:53:21,1
+1043,706,Sydney,Paris,deposit,RUB,2026-02-22 20:01:23,1
+949,3565,Australia,Paris,purchase,EUR,2025-06-05 17:30:25,1
+4942,1959,Cape Town,Sydney,deposit,RUB,2026-01-28 05:04:30,0
+3390,4355,France,Sydney,purchase,CAD,2025-05-06 05:35:55,0
+1244,854,Australia,Paris,withdrawal,EUR,2025-03-29 22:22:04,1
+2082,4353,Brazil,London,withdrawal,CAD,2025-10-02 07:06:23,0
+1726,1719,UK,France,purchase,INR,2025-03-27 07:39:13,0
+4772,2140,France,UK,purchase,RUB,2025-09-27 17:22:23,0
+2464,227,Toronto,Paris,transfer,CNY,2026-03-10 06:00:32,1
+4850,442,Paris,Russia,deposit,INR,2026-03-20 15:05:50,0
+4753,3537,Rio de Janeiro,Paris,deposit,GBP,2025-09-15 23:00:17,0
+1895,3474,Cape Town,Germany,withdrawal,CHF,2025-05-16 09:58:29,0
+3388,4765,London,Tokyo,purchase,RUB,2025-06-07 12:36:50,0
+2158,2250,Berlin,Berlin,deposit,EUR,2025-06-11 04:26:24,1
+1618,1538,Australia,New York,deposit,AUD,2025-10-30 15:19:40,0
+4017,1062,Tokyo,Toronto,withdrawal,JPY,2025-08-25 23:42:17,1
+3257,4867,Australia,France,purchase,INR,2025-07-29 16:48:44,0
+2673,3230,Toronto,Canada,refund,CAD,2025-04-20 05:55:08,1
+4913,4213,Tokyo,Germany,deposit,INR,2025-12-04 17:47:43,0
+3273,4702,Dubai,Australia,transfer,AUD,2025-05-21 06:03:28,0
+2242,3029,UK,UK,purchase,RUB,2025-09-01 14:00:49,1
+2725,500,Paris,Dubai,purchase,CNY,2025-10-01 18:50:36,0
+1696,3709,New York,Toronto,deposit,USD,2025-04-19 15:36:14,0
+60,1559,France,Toronto,refund,GBP,2025-05-21 23:24:54,1
+1416,4594,London,Canada,refund,INR,2025-06-01 00:07:16,1
+2368,2527,Toronto,UK,withdrawal,RUB,2025-12-25 08:17:28,1
+2855,3693,Toronto,Toronto,withdrawal,GBP,2025-12-22 17:17:33,0
+3815,2270,London,Sydney,refund,JPY,2025-11-17 06:53:54,1
+322,3692,Paris,USA,withdrawal,AUD,2025-04-26 16:20:32,1
+1135,264,France,Rio de Janeiro,purchase,CHF,2026-01-02 08:48:49,0
+4221,200,Cape Town,Japan,transfer,CHF,2025-08-10 01:17:42,1
+375,541,Dubai,Russia,withdrawal,GBP,2025-07-05 19:33:33,1
+1112,1208,Australia,Brazil,refund,INR,2025-10-26 17:29:41,0
+4239,3058,Brazil,Berlin,refund,CHF,2025-12-22 15:43:53,1
+645,4661,UAE,Germany,refund,EUR,2025-12-06 10:18:11,1
+3337,2242,Germany,Tokyo,deposit,CHF,2025-08-18 06:41:53,0
+2926,4359,France,Tokyo,purchase,CAD,2025-12-19 19:05:26,1
+1487,4460,Brazil,Dubai,transfer,RUB,2025-05-22 00:15:04,1
+2439,1923,Japan,Germany,deposit,GBP,2025-08-16 00:08:29,0
+4227,4752,New York,Australia,refund,JPY,2025-10-16 08:46:30,0
+4527,764,Dubai,USA,transfer,CAD,2025-06-28 13:48:58,0
+3703,4517,Brazil,France,purchase,INR,2026-02-05 01:49:07,1
+4673,3220,France,Sydney,withdrawal,CHF,2026-02-06 00:38:44,1
+2914,2898,Tokyo,Berlin,deposit,CAD,2026-01-14 09:28:49,1
+945,1724,Japan,Paris,refund,JPY,2025-04-21 23:31:25,0
+3488,954,Tokyo,Sydney,deposit,EUR,2025-12-24 22:18:32,0
+3816,1738,Tokyo,Rio de Janeiro,purchase,CAD,2026-02-19 15:32:52,1
+4077,2409,Japan,France,withdrawal,USD,2025-05-24 17:47:06,0
+565,4177,Sydney,Sydney,transfer,EUR,2025-12-05 11:27:54,0
+4600,4266,Rio de Janeiro,Australia,refund,JPY,2026-01-05 13:55:18,0
+1758,2678,France,Australia,withdrawal,INR,2025-05-31 21:56:14,0
+3512,502,South Africa,UK,transfer,AUD,2025-05-24 08:41:38,0
+2853,667,Cape Town,Australia,transfer,CAD,2025-09-07 00:23:07,0
+666,3703,Rio de Janeiro,Tokyo,deposit,JPY,2026-01-04 01:53:45,1
+3014,2413,USA,Paris,refund,EUR,2025-04-19 02:26:01,0
+3923,4149,Brazil,Berlin,deposit,INR,2025-06-02 14:49:12,1
+444,111,Tokyo,Sydney,deposit,AUD,2025-11-19 12:43:55,0
+2051,712,Canada,Tokyo,deposit,RUB,2025-09-17 18:54:23,0
+706,196,Toronto,USA,transfer,CHF,2026-02-11 23:52:29,1
+3443,2492,Berlin,Sydney,transfer,JPY,2025-12-19 18:54:29,1
+2833,1747,Germany,London,transfer,AUD,2025-04-17 15:35:44,1
+1487,3277,UAE,USA,withdrawal,CHF,2025-04-28 16:56:20,1
+1921,4092,Brazil,Toronto,refund,AUD,2025-08-24 06:39:12,1
+1230,4699,Toronto,Germany,deposit,CNY,2025-10-29 13:23:50,0
+4536,2398,Paris,Tokyo,deposit,RUB,2025-10-06 14:53:10,0
+431,441,UAE,London,withdrawal,GBP,2025-08-12 04:50:50,1
+369,4127,UAE,Rio de Janeiro,purchase,JPY,2025-09-12 02:02:10,0
+1125,4533,Toronto,UAE,purchase,JPY,2026-01-20 20:37:22,0
+1273,3746,London,Germany,transfer,USD,2025-08-20 22:51:59,0
+3950,3177,Canada,Paris,transfer,RUB,2026-03-12 15:53:54,0
+3662,95,France,New York,transfer,CHF,2025-09-30 22:15:46,1
+1544,807,Japan,Berlin,transfer,AUD,2025-06-17 15:51:22,1
+3923,2215,UAE,Russia,purchase,CNY,2026-01-19 07:21:26,1
+2852,3813,UK,London,withdrawal,AUD,2026-01-31 21:22:41,1
+1639,3909,South Africa,Brazil,purchase,USD,2025-07-23 09:28:11,0
+889,3900,Paris,USA,withdrawal,CNY,2025-08-18 07:36:10,0
+592,3718,France,UAE,deposit,RUB,2025-05-12 10:29:48,1
+366,1286,France,UAE,purchase,CHF,2025-05-26 19:39:35,0
+616,2550,USA,Brazil,deposit,USD,2025-07-13 21:18:02,1
+2566,2274,Tokyo,Japan,transfer,JPY,2026-03-04 08:46:54,1
+3000,3292,UAE,Sydney,refund,INR,2025-09-02 05:52:01,0
+2689,406,Canada,Brazil,withdrawal,CNY,2026-02-22 10:40:58,0
+1392,476,Japan,New York,withdrawal,CAD,2025-07-02 04:10:47,0
+1677,4113,Japan,Russia,transfer,RUB,2025-06-03 03:18:52,0
+3193,2245,UK,Moscow,purchase,INR,2025-06-09 23:48:01,1
+4376,4119,Germany,USA,deposit,CNY,2025-11-26 16:38:00,1
+1900,725,Brazil,London,withdrawal,USD,2025-04-26 08:19:55,0
+1425,3346,USA,Moscow,deposit,CHF,2025-11-16 22:00:17,1
+1745,3831,Australia,UK,purchase,GBP,2025-10-11 15:13:03,0
+17,2796,UK,Paris,refund,CNY,2026-03-20 13:48:19,0
+2544,3991,Germany,Australia,refund,RUB,2025-11-23 22:13:42,1
+440,3624,UK,Sydney,transfer,EUR,2025-04-17 18:13:01,0
+1561,1080,Rio de Janeiro,USA,withdrawal,AUD,2025-07-04 16:51:19,0
+4714,87,Australia,Sydney,deposit,INR,2026-03-10 05:24:16,1
+3203,1095,Brazil,Berlin,deposit,RUB,2025-10-01 02:42:37,0
+4296,820,Japan,Japan,purchase,AUD,2025-11-06 05:58:26,1
+2792,817,London,Germany,withdrawal,CAD,2025-08-01 13:10:49,0
+491,1445,Germany,Sydney,withdrawal,JPY,2025-09-20 08:02:29,1
+4714,126,Australia,USA,transfer,RUB,2025-11-21 11:01:44,0
+1202,4602,Dubai,Rio de Janeiro,deposit,USD,2026-03-14 09:59:36,0
+603,3496,Paris,France,withdrawal,CNY,2026-02-11 20:23:41,1
+385,4920,Sydney,USA,withdrawal,JPY,2026-03-13 07:40:20,1
+2302,805,Tokyo,Germany,transfer,USD,2025-12-08 01:03:50,0
+2816,93,Sydney,Brazil,withdrawal,JPY,2025-12-25 03:04:19,1
+2545,2889,South Africa,UAE,transfer,JPY,2025-03-31 14:48:59,0
+3633,2115,Canada,London,deposit,RUB,2026-01-25 01:01:45,0
+331,2321,Sydney,UK,purchase,GBP,2025-04-08 05:57:58,0
+2103,536,Japan,Japan,purchase,CAD,2025-07-08 03:39:53,1
+960,1037,UAE,Toronto,refund,RUB,2025-06-06 10:40:26,1
+3885,1733,Australia,Sydney,refund,CAD,2025-12-05 10:16:24,0
+3533,4524,Toronto,Toronto,withdrawal,JPY,2025-04-24 18:23:40,0
+2212,838,London,France,transfer,EUR,2025-07-12 20:28:45,0
+483,148,France,Tokyo,transfer,CNY,2025-07-19 07:44:50,1
+1564,2009,Sydney,Sydney,purchase,CNY,2026-02-02 01:54:30,0
+2627,4173,USA,New York,purchase,USD,2025-07-18 14:45:19,0
+903,4097,Paris,Brazil,deposit,JPY,2025-04-12 19:19:18,0
+1146,390,Tokyo,Tokyo,withdrawal,RUB,2025-06-08 07:35:17,1
+2764,1417,Germany,Berlin,refund,EUR,2026-02-20 09:25:34,0
+3982,2373,Tokyo,New York,refund,AUD,2025-05-26 02:02:47,0
+177,3191,South Africa,Paris,withdrawal,JPY,2026-02-23 00:12:33,0
+4434,1990,Sydney,Australia,transfer,RUB,2026-02-20 04:56:20,1
+3590,535,Canada,Tokyo,refund,INR,2025-09-09 18:55:35,1
+1857,1195,South Africa,Rio de Janeiro,purchase,EUR,2026-01-30 22:13:16,0
+3521,2169,Canada,Tokyo,refund,AUD,2026-01-14 14:13:36,1
+744,2782,UK,Paris,withdrawal,GBP,2025-07-21 12:03:23,1
+2475,174,UK,Moscow,withdrawal,EUR,2025-07-07 22:12:37,1
+100,3338,Australia,Berlin,refund,CAD,2026-03-16 14:31:00,0
+4264,3983,Germany,Dubai,withdrawal,GBP,2025-08-10 15:37:25,1
+578,463,Berlin,Tokyo,refund,CAD,2025-05-17 07:46:56,1
+971,3557,UAE,Paris,refund,GBP,2025-12-21 04:45:37,1
+1670,2237,Canada,Russia,purchase,GBP,2025-12-19 12:31:03,0
+1227,2075,Paris,Rio de Janeiro,transfer,USD,2025-04-11 03:49:09,1
+696,2897,Germany,USA,purchase,EUR,2025-12-18 17:09:16,0
+4316,2100,Cape Town,USA,refund,JPY,2025-07-22 22:17:37,0
+1979,4645,Paris,France,purchase,USD,2025-06-11 02:15:11,1
+1292,3672,Australia,France,purchase,AUD,2025-04-03 11:01:54,0
+3316,2007,New York,Canada,transfer,JPY,2025-12-25 12:22:40,0
+1209,3806,UAE,Toronto,deposit,RUB,2025-12-12 09:17:01,0
+4981,3656,New York,Tokyo,purchase,JPY,2025-10-31 18:00:39,0
+2848,3134,New York,Toronto,purchase,CHF,2025-08-06 14:42:59,0
+559,367,Australia,Canada,deposit,JPY,2025-09-29 03:05:49,1
+1538,4226,Germany,New York,deposit,USD,2025-03-26 20:01:13,0
+4627,2306,Dubai,London,purchase,RUB,2025-07-09 11:07:26,1
+1880,4601,Rio de Janeiro,Sydney,transfer,RUB,2025-11-02 14:26:09,1
+747,553,London,Australia,purchase,USD,2025-09-23 22:56:22,0
+570,1667,USA,Australia,purchase,INR,2025-08-25 19:58:57,1
+4181,555,New York,Tokyo,transfer,CHF,2026-02-10 13:54:29,0
+535,2317,Tokyo,Moscow,transfer,RUB,2025-05-05 00:23:06,1
+429,2684,London,London,refund,CAD,2025-06-24 01:49:34,0
+876,1153,Toronto,USA,purchase,CNY,2025-06-27 15:02:27,1
+2150,15,Brazil,Dubai,purchase,JPY,2025-06-08 05:01:33,1
+29,943,Canada,London,deposit,CHF,2025-08-11 16:55:12,0
+2786,1695,Brazil,Russia,transfer,EUR,2025-05-30 07:41:56,0
+3312,3958,London,Toronto,refund,AUD,2025-07-20 01:46:10,1
+3551,2499,UAE,Japan,transfer,CNY,2025-11-26 23:39:04,1
+2291,585,UAE,Sydney,refund,GBP,2025-06-24 11:56:33,1
+2270,4776,Germany,Canada,deposit,INR,2025-11-25 17:06:38,0
+4435,3397,Dubai,UK,transfer,GBP,2025-05-05 23:02:31,0
+4846,2617,USA,London,deposit,INR,2025-10-11 14:42:44,0
+3940,3966,Sydney,UAE,deposit,CNY,2025-10-27 20:32:07,1
+702,3097,Tokyo,UAE,deposit,CNY,2026-03-01 02:26:58,0
+4607,3624,France,Tokyo,withdrawal,AUD,2025-04-12 10:54:49,1
+1364,66,Brazil,Australia,purchase,JPY,2025-05-09 22:01:37,0
+4991,3948,Berlin,Rio de Janeiro,deposit,GBP,2025-09-15 11:31:42,1
+3203,1810,Cape Town,Russia,purchase,RUB,2025-10-04 02:15:45,0
+4991,959,Berlin,Russia,refund,CNY,2025-10-07 12:59:53,0
+1108,4304,Japan,Sydney,transfer,AUD,2025-05-13 21:52:04,1
+2738,4682,Rio de Janeiro,France,withdrawal,CAD,2025-12-04 14:01:13,0
+191,99,France,Australia,purchase,CNY,2025-07-06 17:23:56,0
+351,3375,New York,Paris,deposit,CAD,2026-03-02 16:34:04,1
+3282,167,Toronto,Germany,withdrawal,EUR,2025-08-07 09:12:22,1
+2331,362,Germany,USA,withdrawal,JPY,2025-10-02 07:03:56,0
+4586,50,South Africa,Rio de Janeiro,refund,AUD,2025-03-26 06:37:18,0
+1024,1633,New York,Russia,withdrawal,RUB,2025-08-06 12:34:35,1
+3548,3882,Brazil,Berlin,deposit,USD,2025-12-07 00:35:59,0
+3701,3972,Toronto,Moscow,transfer,CHF,2025-08-13 06:13:33,1
+2779,4394,Cape Town,Russia,withdrawal,INR,2025-05-08 03:56:56,1
+4328,1728,Tokyo,Rio de Janeiro,withdrawal,AUD,2025-10-21 09:55:03,1
+959,1498,UAE,Japan,withdrawal,INR,2025-09-08 04:40:03,1
+2105,4266,Canada,London,refund,USD,2026-03-11 18:17:48,1
+17,3563,Canada,Australia,purchase,EUR,2026-02-25 02:33:20,1
+2118,407,USA,Brazil,deposit,EUR,2025-05-21 07:05:00,1
+372,2766,Berlin,Moscow,deposit,CHF,2025-08-08 04:31:00,1
+791,4809,France,Rio de Janeiro,refund,USD,2025-08-13 07:51:16,1
+2098,585,Germany,Brazil,refund,CAD,2025-10-14 07:39:02,1
+1037,1542,Canada,Paris,purchase,AUD,2025-06-30 20:34:02,1
+331,1340,New York,Sydney,transfer,USD,2025-12-14 00:54:04,0
+461,3389,Paris,Paris,purchase,EUR,2025-11-19 06:33:05,0
+44,3272,Dubai,Dubai,transfer,CNY,2025-10-24 09:46:07,1
+4517,261,Canada,Germany,purchase,AUD,2026-01-29 18:34:40,0
+1935,4637,UAE,Paris,purchase,CNY,2025-05-03 22:02:28,1
+3273,3876,UK,Japan,deposit,AUD,2025-06-17 02:56:26,1
+3693,4616,Australia,UAE,refund,AUD,2026-01-21 19:12:06,1
+4608,1898,Sydney,Moscow,transfer,AUD,2025-11-18 17:39:08,0
+3293,1236,Cape Town,London,deposit,RUB,2025-06-30 16:40:07,1
+464,4076,New York,Australia,purchase,AUD,2025-11-11 00:20:57,1
+3841,3800,Sydney,Tokyo,withdrawal,JPY,2025-04-23 23:13:10,0
+96,183,South Africa,Australia,refund,RUB,2025-08-22 14:15:30,1
+248,3950,South Africa,Toronto,deposit,EUR,2025-04-28 23:53:30,0
+1669,1722,Rio de Janeiro,France,deposit,EUR,2026-03-08 00:26:09,1
+3940,4358,Toronto,Dubai,deposit,CNY,2025-09-01 06:55:37,1
+118,507,Toronto,Moscow,withdrawal,JPY,2025-12-19 11:00:59,1
+3140,2202,Paris,Sydney,purchase,CHF,2026-03-08 08:45:55,0
+3688,2335,Paris,USA,refund,CHF,2026-02-18 05:32:06,1
+2305,3155,Cape Town,Dubai,transfer,CAD,2025-09-03 03:24:41,0
+3654,4052,Sydney,London,refund,RUB,2025-07-02 17:57:50,1
+1109,3339,Toronto,New York,refund,EUR,2025-10-31 07:16:36,0
+1002,811,USA,Moscow,refund,CHF,2025-12-24 16:40:14,1
+3313,1185,Germany,Sydney,transfer,INR,2025-04-05 12:49:33,1
+4988,314,Dubai,Canada,refund,USD,2025-12-08 08:34:04,1
+4932,3157,Tokyo,UK,deposit,GBP,2025-06-07 14:50:23,0
+4536,1739,Dubai,Germany,withdrawal,CAD,2025-12-08 15:38:48,0
+4198,1289,France,Toronto,deposit,AUD,2025-09-07 00:56:43,0
+4650,931,France,Paris,refund,GBP,2025-12-21 17:40:18,1
+2483,4270,Canada,France,deposit,EUR,2026-02-06 18:02:09,1
+616,1988,Rio de Janeiro,Sydney,withdrawal,CNY,2025-06-28 07:57:20,1
+3090,2911,Japan,Russia,purchase,EUR,2025-06-30 21:45:01,0
+4163,3761,UAE,Australia,purchase,AUD,2025-06-25 04:51:13,0
+46,721,New York,UK,transfer,RUB,2025-11-16 19:14:26,1
+1007,2527,Australia,New York,deposit,INR,2025-08-10 13:33:00,0
+1792,2423,London,Russia,withdrawal,USD,2025-07-04 17:42:54,1
+2153,484,Rio de Janeiro,Sydney,transfer,JPY,2025-04-18 11:04:49,1
+744,1734,New York,Canada,deposit,CNY,2026-02-27 12:57:52,0
+4522,3788,Tokyo,New York,deposit,JPY,2025-08-18 15:37:33,0
+3969,1951,UAE,Sydney,deposit,CNY,2025-10-17 08:30:57,1
+1158,1543,Germany,UAE,purchase,JPY,2025-12-11 13:28:36,1
+812,3599,Canada,London,withdrawal,INR,2025-05-12 02:19:45,1
+3510,3972,Dubai,USA,refund,CNY,2025-08-29 04:34:04,0
+1085,3114,Australia,London,refund,USD,2025-04-11 09:14:53,1
+1380,146,South Africa,Germany,transfer,CNY,2025-06-19 17:30:35,1
+364,3488,South Africa,Berlin,transfer,JPY,2025-11-15 01:44:03,0
+3838,4258,Berlin,Paris,purchase,RUB,2025-09-27 05:04:54,0
+99,1338,Canada,UK,withdrawal,RUB,2025-04-02 21:06:26,1
+1638,897,Germany,New York,refund,CAD,2025-12-01 00:59:10,1
+4698,3663,Dubai,France,withdrawal,USD,2025-11-12 16:53:06,1
+2036,4071,Brazil,USA,refund,USD,2025-03-26 07:15:00,0
+2046,3347,USA,UAE,refund,CNY,2025-06-22 03:39:42,0
+2042,933,New York,Russia,purchase,CAD,2026-01-06 20:36:09,1
+4074,4220,Australia,Rio de Janeiro,withdrawal,AUD,2026-02-06 15:21:09,1
+4156,2956,Canada,UAE,transfer,CNY,2026-02-18 14:59:53,0
+329,4288,Toronto,Brazil,transfer,CHF,2025-10-31 05:08:44,1
+4354,463,Tokyo,Russia,purchase,CHF,2025-07-19 03:55:31,0
+268,3971,Brazil,Brazil,transfer,JPY,2025-07-21 00:09:32,1
+1598,2938,UAE,Berlin,purchase,GBP,2025-11-02 09:12:22,1
+1306,422,Toronto,Toronto,deposit,AUD,2026-02-08 09:09:52,1
+975,2633,London,France,refund,INR,2025-09-19 15:30:21,1
+3963,3902,Cape Town,UAE,refund,CAD,2025-08-06 23:37:31,1
+3241,716,Toronto,UAE,withdrawal,CHF,2025-11-20 10:19:47,0
+3064,2906,South Africa,Dubai,deposit,INR,2025-07-07 18:04:49,0
+2710,3081,UAE,Dubai,transfer,GBP,2025-06-06 12:32:00,0
+4057,4380,Paris,Rio de Janeiro,purchase,JPY,2025-08-09 02:02:12,1
+1013,4350,UK,Germany,transfer,JPY,2025-10-29 17:19:05,0
+4682,1751,Sydney,Tokyo,deposit,AUD,2025-10-02 07:15:03,0
+3309,1419,Dubai,Germany,transfer,EUR,2025-05-04 19:20:17,0
+804,2954,Brazil,Paris,transfer,INR,2025-08-15 00:09:09,0
+478,34,Japan,London,refund,CNY,2025-09-16 05:27:37,0
+3686,3475,Paris,USA,refund,AUD,2025-07-18 04:33:26,0
+1900,1188,Japan,UAE,withdrawal,CAD,2025-04-13 21:59:58,0
+2119,3705,UAE,Canada,deposit,INR,2025-12-18 21:29:40,1
+1620,4527,UAE,Berlin,deposit,CHF,2025-11-19 12:26:00,0
+3070,4258,Japan,Toronto,deposit,EUR,2025-08-12 20:11:37,1
+2465,3897,USA,Toronto,purchase,EUR,2026-01-31 03:23:01,0
+2852,3031,Berlin,France,refund,EUR,2025-11-13 20:27:03,0
+1107,3956,London,Tokyo,withdrawal,JPY,2026-01-04 13:04:50,0
+2548,3089,France,Sydney,refund,GBP,2026-01-23 07:58:14,1
+492,930,UK,Paris,deposit,CHF,2025-04-06 12:47:57,1
+2998,289,Japan,France,purchase,CAD,2025-04-12 04:30:55,0
+647,3615,Rio de Janeiro,USA,purchase,GBP,2025-10-28 22:52:02,0
+3371,2596,Paris,USA,purchase,CNY,2025-07-19 14:38:56,1
+3768,1453,Berlin,Toronto,refund,AUD,2025-09-21 05:53:24,1
+23,2587,Japan,Brazil,purchase,USD,2026-02-17 10:02:22,1
+4319,902,New York,Toronto,refund,EUR,2025-04-07 23:21:45,0
+4650,4053,Paris,New York,transfer,CAD,2025-09-25 19:36:28,1
+1335,4409,Berlin,France,transfer,USD,2026-02-09 11:54:58,0
+1664,2913,France,Paris,purchase,GBP,2025-05-13 18:18:27,1
+2004,4587,Germany,Tokyo,purchase,AUD,2025-03-27 05:30:19,1
+2400,4566,New York,Rio de Janeiro,withdrawal,EUR,2026-01-30 06:02:45,1
+848,4055,South Africa,Australia,deposit,GBP,2025-07-14 08:54:02,1
+3736,4822,Berlin,London,transfer,AUD,2026-02-25 01:22:12,1
+1132,3891,Sydney,New York,transfer,EUR,2025-04-06 16:56:23,0
+419,3531,London,Toronto,purchase,INR,2025-05-28 18:52:55,0
+3369,4617,France,New York,withdrawal,RUB,2026-03-01 22:24:37,1
+193,2686,Canada,Sydney,withdrawal,CAD,2025-11-13 07:44:37,1
+3587,2794,London,Tokyo,refund,GBP,2026-02-13 05:25:13,0
+1855,3325,Berlin,Tokyo,purchase,AUD,2025-09-10 07:22:31,1
+4814,4831,Brazil,London,deposit,EUR,2025-10-21 17:13:07,1
+2882,1773,USA,Germany,purchase,GBP,2025-08-24 19:31:26,1
+3926,497,Sydney,Japan,purchase,CNY,2025-07-28 23:30:49,0
+1497,1614,Japan,Dubai,refund,GBP,2025-03-26 14:13:47,0
+176,2727,Rio de Janeiro,USA,deposit,CAD,2025-04-24 22:45:46,0
+3082,3658,Germany,Germany,purchase,AUD,2025-08-17 18:02:26,0
+3312,4017,Australia,London,refund,GBP,2025-10-10 03:40:38,1
+4962,3765,Dubai,Sydney,refund,RUB,2025-08-29 00:44:44,0
+2156,3198,Japan,Sydney,deposit,AUD,2026-03-20 17:27:43,1
+1970,986,Cape Town,Canada,withdrawal,CNY,2025-09-21 22:53:39,0
+1113,4230,Australia,Berlin,transfer,JPY,2025-05-27 22:50:09,1
+4874,596,Japan,Tokyo,deposit,JPY,2025-05-28 03:58:26,1
+2126,1848,South Africa,Australia,withdrawal,INR,2025-12-24 11:40:55,0
+1242,66,UAE,UAE,withdrawal,CAD,2026-02-26 19:46:49,1
+3309,1501,Canada,USA,deposit,JPY,2026-01-22 01:39:32,1
+417,1788,Brazil,Moscow,refund,INR,2025-06-21 06:15:08,1
+877,4485,France,Toronto,deposit,CHF,2025-08-31 08:43:12,1
+2709,1890,Rio de Janeiro,Dubai,purchase,JPY,2025-09-09 23:57:03,0
+680,881,Canada,Berlin,transfer,AUD,2025-04-12 19:53:30,0
+506,1924,Paris,Moscow,deposit,CAD,2025-11-10 03:20:23,0
+1099,1552,London,New York,withdrawal,CAD,2025-04-13 10:13:38,0
+1834,482,Australia,Canada,refund,CHF,2025-07-26 07:36:40,1
+4172,4730,UK,Berlin,transfer,USD,2025-05-02 05:58:44,1
+2518,2255,London,Japan,transfer,JPY,2026-03-15 01:11:17,1
+3760,3623,UK,Russia,withdrawal,CHF,2025-05-24 23:51:30,1
+4297,1835,South Africa,Sydney,transfer,INR,2025-08-20 17:46:49,1
+394,1092,Sydney,Germany,refund,JPY,2025-12-19 09:30:25,0
+3227,561,France,New York,transfer,INR,2025-09-11 22:17:13,1
+1755,966,Brazil,Germany,purchase,CNY,2025-11-07 19:59:47,1
+281,2408,Tokyo,New York,deposit,JPY,2025-08-14 19:42:13,0
+1098,3704,Brazil,Moscow,transfer,USD,2025-07-12 19:56:00,1
+2869,4073,New York,Russia,purchase,EUR,2026-02-28 05:40:56,0
+3896,4834,Dubai,Tokyo,withdrawal,CHF,2026-03-05 22:49:04,0
+817,3005,Toronto,UAE,purchase,EUR,2025-12-03 15:06:33,1
+408,54,Sydney,Japan,withdrawal,RUB,2025-12-27 15:09:17,0
+3887,3076,Toronto,Sydney,transfer,CAD,2025-12-29 22:27:37,1
+3920,3034,London,New York,transfer,INR,2025-06-24 03:24:41,1
+3757,2215,Dubai,Canada,transfer,CAD,2025-04-12 11:06:01,0
+1658,2700,UK,USA,purchase,RUB,2025-05-10 01:32:26,1
+4712,3815,Paris,Sydney,withdrawal,JPY,2025-10-16 13:28:06,0
+4689,3835,Paris,France,refund,CHF,2025-11-13 05:16:44,1
+3585,3987,Toronto,Canada,refund,USD,2025-06-22 22:20:30,1
+566,2158,UK,Dubai,deposit,EUR,2025-11-16 21:16:42,0
+4238,253,Cape Town,Japan,deposit,GBP,2025-06-27 01:40:50,0
+3230,2921,USA,USA,deposit,GBP,2025-06-23 19:31:08,0
+1369,1411,France,Russia,withdrawal,RUB,2025-09-01 15:33:15,1
+1527,4571,Tokyo,New York,withdrawal,RUB,2025-04-05 19:56:54,1
+2144,500,Japan,Tokyo,withdrawal,USD,2025-05-24 22:01:38,0
+1349,2645,Sydney,New York,deposit,CAD,2025-08-23 05:36:15,1
+3316,1520,Australia,Russia,transfer,CAD,2025-04-22 03:06:05,1
+1891,626,Berlin,France,withdrawal,RUB,2025-06-24 14:51:36,0
+38,1815,Paris,UK,transfer,CAD,2025-04-18 05:29:12,0
+4194,3207,Germany,Paris,deposit,JPY,2026-03-06 20:24:26,0
+711,4902,Germany,Brazil,refund,AUD,2026-03-16 18:33:40,1
+2295,82,London,Dubai,transfer,JPY,2025-08-19 12:58:29,0
+3570,3430,Dubai,France,transfer,EUR,2026-01-19 00:11:16,0
+3315,3852,Australia,Dubai,refund,CAD,2025-04-11 09:43:07,1
+4732,1233,Tokyo,USA,transfer,USD,2026-01-14 10:18:22,1
+2025,2326,Dubai,Canada,withdrawal,RUB,2025-05-17 10:45:55,0
+2100,1002,Japan,Russia,purchase,GBP,2026-03-09 13:41:58,0
+365,315,Germany,UAE,purchase,CNY,2026-03-06 07:03:26,0
+3837,4331,UK,Brazil,transfer,INR,2025-11-25 15:27:21,1
+4862,3368,UK,Paris,transfer,USD,2025-04-25 07:51:29,0
+267,476,Australia,Berlin,withdrawal,JPY,2025-09-21 06:22:56,0
+4963,2791,South Africa,Tokyo,deposit,CNY,2025-09-02 17:21:15,0
+1139,1811,Germany,Dubai,withdrawal,EUR,2026-03-19 08:58:33,1
+4033,1215,Tokyo,UK,withdrawal,EUR,2026-02-11 20:32:32,0
+2363,4538,Australia,Toronto,purchase,AUD,2025-09-26 13:44:43,1
+4011,1263,Paris,Japan,refund,JPY,2026-01-20 20:02:11,1
+4064,2110,Toronto,UAE,withdrawal,RUB,2025-05-25 14:26:17,0
+4987,785,Brazil,Tokyo,withdrawal,INR,2026-01-08 11:03:11,1
+2630,3766,Canada,Japan,refund,CAD,2026-01-29 06:28:58,0
+3139,196,UK,Brazil,purchase,JPY,2025-04-29 14:42:20,0
+1011,4850,Sydney,Tokyo,withdrawal,USD,2025-12-29 11:53:26,0
+1381,746,USA,Dubai,withdrawal,EUR,2025-05-20 20:58:14,1
+1855,3583,Dubai,London,withdrawal,CHF,2025-08-25 00:25:29,1
+3319,467,Cape Town,Moscow,purchase,INR,2025-11-09 13:30:10,1
+1999,1771,Tokyo,Russia,transfer,USD,2025-12-28 10:04:32,0
+2378,1723,UAE,Berlin,transfer,GBP,2025-07-20 06:38:24,0
+34,914,Tokyo,France,transfer,GBP,2025-07-02 14:20:36,0
+2230,2495,London,Canada,refund,CNY,2026-01-13 03:20:01,0
+3723,1234,Paris,Berlin,deposit,EUR,2025-03-30 09:29:35,0
+1214,1133,Canada,Berlin,deposit,GBP,2025-06-21 12:53:18,0
+2672,2205,Tokyo,New York,withdrawal,EUR,2025-10-03 15:40:42,1
+1383,222,London,Moscow,deposit,CHF,2025-10-23 20:15:05,0
+4295,2285,Toronto,Paris,purchase,INR,2026-02-20 18:15:59,1
+306,4376,Toronto,Russia,refund,AUD,2026-03-25 16:11:09,1
+3565,1988,Japan,Australia,refund,JPY,2026-03-20 20:06:22,0
+4869,3264,USA,Brazil,transfer,AUD,2025-11-24 21:37:45,0
+4568,81,Rio de Janeiro,Paris,purchase,INR,2026-03-17 02:10:56,1
+2676,149,Australia,Paris,refund,EUR,2025-09-29 04:32:39,0
+846,957,USA,UK,refund,GBP,2025-11-02 12:43:08,1
+1737,3062,Brazil,Paris,deposit,AUD,2025-07-21 02:26:32,0
+4736,4331,Rio de Janeiro,Germany,purchase,JPY,2025-05-24 04:58:45,1
+2882,4851,Canada,Toronto,withdrawal,RUB,2025-05-16 20:59:46,0
+4680,2805,South Africa,Moscow,transfer,RUB,2025-12-04 20:55:54,0
+477,3134,France,Brazil,purchase,RUB,2026-02-26 12:08:15,1
+325,2559,UAE,UAE,transfer,INR,2025-08-22 11:17:31,0
+397,4163,USA,USA,refund,CNY,2025-11-29 10:45:20,1
+2267,4873,Japan,Canada,refund,USD,2025-11-28 20:46:52,0
+825,576,UK,Paris,deposit,CHF,2025-05-30 22:15:01,0
+2481,833,Cape Town,UAE,purchase,USD,2025-11-10 20:55:42,0
+433,3026,Canada,France,deposit,CAD,2026-01-02 05:18:35,0
+3925,1778,Berlin,Moscow,deposit,JPY,2025-06-18 22:29:46,1
+4645,3083,UK,Sydney,refund,CNY,2026-03-11 07:02:02,1
+701,1616,UK,Dubai,deposit,JPY,2025-07-06 11:28:50,0
+611,1634,Berlin,Berlin,withdrawal,JPY,2026-03-21 23:21:28,1
+1747,2356,Rio de Janeiro,Canada,withdrawal,USD,2025-10-07 16:20:58,1
+4047,1143,USA,Japan,transfer,AUD,2025-12-28 01:20:27,0
+4738,3293,Canada,Canada,withdrawal,RUB,2025-12-25 08:33:24,1
+831,3856,Toronto,Tokyo,refund,CHF,2026-02-06 08:53:58,1
+1011,221,USA,Dubai,purchase,INR,2025-07-26 17:15:06,0
+610,2250,USA,Tokyo,transfer,USD,2026-03-05 23:44:13,1
+3107,4965,USA,Japan,deposit,JPY,2025-03-26 09:49:34,0
+2791,4194,Rio de Janeiro,Brazil,transfer,CNY,2025-12-24 04:01:21,1
+1405,2552,Canada,Tokyo,purchase,CNY,2025-03-26 04:09:24,0
+4332,4867,London,Toronto,withdrawal,RUB,2025-04-02 19:53:03,1
+3968,2697,South Africa,UK,purchase,JPY,2025-08-11 14:28:38,0
+1763,659,Cape Town,Tokyo,deposit,INR,2025-04-12 07:40:29,1
+2320,1767,Berlin,Toronto,deposit,EUR,2026-03-17 14:24:01,0
+11,3670,South Africa,Russia,deposit,GBP,2026-01-04 01:02:36,0
+640,1842,UK,Toronto,deposit,EUR,2025-06-19 00:37:36,0
+2211,4798,London,Australia,refund,CNY,2025-09-08 16:38:21,1
+3077,2180,London,UAE,deposit,GBP,2025-04-06 20:16:59,1
+2553,4209,Dubai,UK,transfer,GBP,2025-10-17 08:46:25,1
+2900,1273,Toronto,Sydney,refund,CAD,2025-03-29 07:10:52,0
+3724,361,USA,Rio de Janeiro,deposit,JPY,2025-10-22 12:18:44,1
+3601,3945,Brazil,London,purchase,CAD,2025-12-27 21:06:45,0
+4157,3984,Toronto,Russia,purchase,EUR,2026-03-17 09:00:44,1
+3652,4245,France,Rio de Janeiro,purchase,INR,2025-12-28 03:21:02,0
+1228,1978,Sydney,Moscow,deposit,CNY,2025-05-26 09:59:54,0
+1280,3769,Brazil,Moscow,withdrawal,CAD,2025-07-19 16:15:31,1
+4236,3181,Sydney,Canada,withdrawal,INR,2026-02-06 19:42:46,1
+1010,3689,Japan,Australia,refund,USD,2025-11-25 08:38:05,1
+1280,1233,Canada,Japan,refund,CNY,2025-10-15 22:23:16,0
+2375,4958,Canada,Dubai,deposit,GBP,2025-05-21 10:55:45,0
+131,1838,Dubai,Rio de Janeiro,transfer,USD,2026-01-18 14:51:52,1
+205,1926,UAE,USA,purchase,EUR,2025-07-20 21:31:40,1
+1653,133,Brazil,Sydney,refund,JPY,2026-02-06 20:26:46,1
+1104,3895,Cape Town,Moscow,purchase,AUD,2026-01-28 08:30:33,1
+2510,2178,London,London,purchase,RUB,2026-03-22 10:05:00,1
+4332,3169,Cape Town,London,withdrawal,USD,2026-02-15 10:01:51,0
+4213,2530,South Africa,Australia,purchase,USD,2025-05-07 01:48:56,0
+125,2299,London,Rio de Janeiro,refund,INR,2026-02-06 03:03:01,1
+1982,1893,Tokyo,Paris,transfer,JPY,2025-08-26 14:09:09,0
+3880,3311,UK,New York,refund,RUB,2025-12-18 13:55:35,0
+1523,1142,Canada,Japan,deposit,USD,2025-04-18 03:43:30,1
+3704,3176,Japan,Japan,transfer,USD,2025-06-20 07:45:53,1
+2571,2440,South Africa,Toronto,refund,CHF,2025-06-08 20:30:59,0
+2520,4192,Australia,USA,withdrawal,INR,2025-07-19 15:59:34,0
+1824,4849,Dubai,UK,purchase,AUD,2026-01-27 12:52:09,1
+3679,159,Japan,France,refund,JPY,2026-01-14 04:43:54,1
+3787,1716,USA,Dubai,withdrawal,USD,2025-05-06 22:55:27,1
+2587,1891,New York,France,withdrawal,USD,2025-11-21 20:39:26,1
+1581,2525,UK,Paris,transfer,CHF,2025-08-02 03:40:30,1
+1365,681,Japan,France,refund,CNY,2025-08-04 19:05:49,0
+4242,4799,Toronto,Dubai,withdrawal,CAD,2025-09-30 16:02:14,1
+4878,4132,Cape Town,Brazil,transfer,CHF,2025-11-18 04:11:46,0
+757,3734,Berlin,Canada,purchase,CAD,2025-06-23 03:05:49,0
+897,2114,New York,Germany,withdrawal,RUB,2025-05-11 01:59:12,1
+458,4394,Cape Town,Sydney,deposit,CHF,2025-04-14 22:41:13,1
+3997,3665,Tokyo,Moscow,transfer,INR,2025-05-22 08:44:47,0
+384,2224,Dubai,UK,withdrawal,USD,2025-04-22 01:09:46,1
+2030,4778,Sydney,UK,purchase,EUR,2026-01-24 01:57:46,1
+4266,3982,Paris,UK,withdrawal,USD,2026-02-10 20:55:58,1
+3532,600,France,Tokyo,deposit,AUD,2026-01-04 07:33:39,1
+2526,1917,Cape Town,Russia,refund,USD,2026-03-02 06:51:30,0
+4767,745,UK,Toronto,refund,USD,2025-06-27 02:19:11,0
+2628,3769,Canada,Sydney,transfer,CNY,2025-04-01 09:37:20,1
+2650,737,London,UK,deposit,USD,2025-07-26 10:52:29,1
+2645,3643,Dubai,Canada,deposit,GBP,2025-05-24 03:38:46,0
+4852,4751,Berlin,Paris,purchase,AUD,2025-07-04 07:22:10,1
+4532,348,Cape Town,Tokyo,deposit,RUB,2025-10-19 18:35:03,1
+3401,696,Tokyo,Canada,deposit,JPY,2025-08-31 01:31:48,0
+3610,3522,Berlin,New York,transfer,CNY,2025-08-01 04:23:14,0
+1880,2160,Germany,Berlin,transfer,USD,2026-02-28 07:19:00,1
+2249,70,Brazil,London,deposit,EUR,2025-12-13 18:44:53,0
+3780,3821,France,Moscow,withdrawal,CAD,2025-12-28 03:55:22,0
+4535,3474,UK,Sydney,refund,INR,2025-11-26 06:54:32,1
+2929,2576,France,Canada,transfer,GBP,2026-02-22 06:57:13,1
+2233,4068,Toronto,USA,deposit,GBP,2025-08-07 04:17:47,0
+3160,4545,London,Sydney,withdrawal,AUD,2025-08-24 04:51:05,1
+900,1364,France,UK,transfer,JPY,2025-11-17 10:30:40,0
+1223,1087,Brazil,UAE,refund,RUB,2025-04-22 20:56:48,0
+1411,3322,Dubai,Germany,withdrawal,AUD,2025-04-06 04:17:38,1
+377,114,UAE,Tokyo,withdrawal,RUB,2026-01-08 18:32:18,0
+199,660,Paris,UAE,withdrawal,EUR,2025-08-19 04:53:43,0
+357,4093,Berlin,Australia,refund,JPY,2025-10-07 02:29:41,0
+1067,4876,Australia,Paris,deposit,CAD,2025-10-12 12:49:02,0
+4636,700,Japan,Tokyo,transfer,CNY,2025-10-12 20:00:55,0
+473,232,New York,New York,refund,CAD,2025-04-22 06:16:06,0
+1071,2708,UAE,UAE,withdrawal,CAD,2025-08-05 02:06:57,1
+3102,985,Sydney,Toronto,purchase,JPY,2026-01-25 19:22:33,0
+3145,1476,Cape Town,USA,purchase,CHF,2025-10-15 02:53:02,1
+4530,3679,Brazil,New York,deposit,JPY,2025-08-17 22:28:04,0
+182,2965,Rio de Janeiro,Toronto,refund,CNY,2025-07-12 16:43:23,1
+4550,4943,Germany,UAE,transfer,RUB,2026-01-03 18:14:33,1
+1120,559,Japan,Russia,deposit,USD,2025-07-26 11:23:47,1
+265,3365,Toronto,Berlin,withdrawal,USD,2026-03-07 09:19:14,0
+1923,4696,Dubai,Germany,withdrawal,RUB,2025-09-02 20:08:37,1
+4023,1689,Australia,Australia,purchase,INR,2025-06-23 11:41:52,1
+1271,2099,London,USA,transfer,CNY,2026-02-25 19:58:41,0
+1175,3467,Japan,USA,withdrawal,RUB,2025-05-03 14:22:31,1
+2872,71,Rio de Janeiro,France,purchase,CAD,2025-04-20 01:31:15,0
+5000,4976,Berlin,Paris,withdrawal,RUB,2025-10-31 15:20:48,0
+4958,2732,UAE,Australia,purchase,USD,2025-12-23 22:25:13,1
+1238,4341,UK,Berlin,transfer,CHF,2025-08-13 05:55:07,1
+4338,1828,UK,Berlin,refund,AUD,2025-11-13 17:33:50,1
+3766,4765,Canada,UK,refund,CNY,2025-05-01 19:02:46,1
+3118,2161,Sydney,New York,purchase,EUR,2025-12-27 01:24:33,1
+3635,538,USA,Australia,deposit,USD,2025-09-28 06:58:09,1
+602,2647,New York,UK,refund,EUR,2025-07-30 06:42:43,1
+1096,4368,South Africa,Canada,purchase,CAD,2025-07-16 21:07:41,1
+1357,2430,Japan,Russia,purchase,RUB,2026-01-29 03:22:43,0
+4225,3281,New York,Canada,deposit,AUD,2025-04-30 08:29:33,1
+2056,854,Japan,Rio de Janeiro,purchase,INR,2026-01-14 20:50:45,0
+3796,560,Brazil,London,transfer,CHF,2025-12-15 09:12:41,0
+3192,4101,UAE,Brazil,deposit,CHF,2025-09-29 06:35:07,1
+2265,2937,Paris,Rio de Janeiro,refund,CNY,2026-01-11 12:31:37,1
+3098,3176,New York,Paris,refund,RUB,2025-06-07 01:50:51,0
+4483,1322,Canada,France,transfer,CHF,2025-06-05 10:47:13,1
+1704,1107,Rio de Janeiro,USA,deposit,USD,2025-08-26 06:02:30,1
+489,2307,USA,Toronto,transfer,AUD,2026-03-06 20:06:32,0
+2075,264,Cape Town,Rio de Janeiro,deposit,CNY,2025-05-15 17:09:14,0
+357,3309,Japan,Moscow,deposit,AUD,2025-04-21 11:19:21,0
+2410,4605,Paris,Berlin,refund,CHF,2025-04-13 21:08:14,0
+448,597,Japan,Rio de Janeiro,purchase,CAD,2025-08-09 08:39:04,1
+2288,4103,Toronto,Moscow,transfer,CNY,2026-03-15 06:16:39,1
+4778,4070,Germany,Australia,purchase,CHF,2025-04-17 00:08:12,0
+3291,2110,UAE,Moscow,transfer,JPY,2025-07-28 19:30:57,0
+838,2134,Toronto,Toronto,deposit,INR,2025-08-23 21:41:07,0
+478,2943,Germany,Australia,refund,INR,2025-12-13 01:43:17,1
+1490,638,Paris,Tokyo,deposit,AUD,2025-12-03 03:12:21,0
+1189,1449,Brazil,Russia,purchase,INR,2026-03-01 12:01:04,0
+1851,4646,Canada,UAE,withdrawal,CHF,2025-07-12 21:49:39,1
+1197,4072,Sydney,Australia,deposit,AUD,2025-03-29 02:13:26,0
+4919,4535,Berlin,Canada,transfer,AUD,2025-09-11 23:02:07,0
+1501,1162,France,London,withdrawal,JPY,2025-04-11 19:50:47,0
+1544,3425,Germany,Moscow,transfer,INR,2025-09-28 14:15:14,1
+396,4834,Germany,Canada,transfer,RUB,2026-02-10 13:54:16,0
+4841,1076,UAE,Dubai,deposit,GBP,2025-10-14 04:35:28,0
+3318,3084,London,Dubai,refund,AUD,2025-08-31 05:52:44,1
+4979,4970,Canada,Rio de Janeiro,deposit,JPY,2025-05-27 11:25:38,0
+2149,4010,London,Germany,withdrawal,EUR,2025-12-26 20:15:22,0
+2469,2795,Brazil,Brazil,withdrawal,AUD,2025-09-10 15:05:50,1
+4300,3265,Sydney,Toronto,refund,GBP,2026-01-14 07:10:05,0
+459,797,Japan,Japan,refund,CHF,2025-06-28 23:48:41,0
+2537,1489,USA,London,withdrawal,INR,2025-12-21 00:42:32,0
+986,1264,South Africa,France,transfer,INR,2025-09-29 13:40:41,1
+2409,3679,UK,Tokyo,withdrawal,CHF,2025-06-19 05:03:34,0
+4273,3925,Cape Town,Dubai,purchase,EUR,2025-05-12 10:48:04,0
+2763,4131,France,Paris,purchase,CAD,2025-08-08 16:52:30,1
+3667,816,France,France,transfer,GBP,2025-07-30 02:01:00,1
+3745,3323,South Africa,France,refund,CAD,2025-12-20 18:39:29,0
+3458,2604,Toronto,Dubai,withdrawal,RUB,2025-08-31 03:29:49,0
+1833,1113,Tokyo,Japan,transfer,CHF,2025-11-28 14:35:06,1
+1957,133,USA,Japan,deposit,CHF,2025-05-14 04:00:21,1
+2757,3519,Brazil,USA,refund,USD,2025-08-08 21:30:30,0
+723,2288,Australia,Brazil,refund,CNY,2025-11-17 08:59:32,0
+3112,1511,France,Paris,transfer,USD,2025-08-15 14:12:08,0
+3980,4509,Rio de Janeiro,London,refund,GBP,2026-03-20 21:50:59,0
+4214,4112,New York,Russia,deposit,CNY,2025-11-05 07:20:27,0
+1183,2481,Japan,Paris,deposit,CAD,2025-05-20 04:16:30,1
+4395,4779,New York,USA,refund,RUB,2026-02-12 03:34:33,1
+4589,363,Australia,Germany,transfer,CAD,2026-01-07 09:55:31,1
+4790,1319,Australia,Australia,purchase,USD,2026-01-23 08:33:36,0
+3455,4069,Sydney,Australia,transfer,INR,2025-08-13 09:36:53,1
+3351,1467,Rio de Janeiro,Australia,refund,CNY,2025-09-24 21:12:59,0
+2456,1908,Paris,UK,refund,CHF,2025-09-25 17:31:59,0
+19,3285,UAE,Canada,refund,USD,2025-09-17 11:01:04,1
+4979,4522,Canada,Australia,deposit,AUD,2025-09-17 12:50:15,0
+562,1608,New York,Berlin,purchase,INR,2025-08-03 21:05:24,0
+4407,3876,UK,UK,deposit,EUR,2025-03-26 15:08:42,1
+4779,1659,Toronto,Tokyo,deposit,EUR,2025-12-14 01:09:33,1
+4711,3608,Japan,Japan,withdrawal,AUD,2025-05-01 03:56:58,1
+361,185,USA,Canada,transfer,USD,2025-12-16 23:59:36,0
+4955,3677,London,Sydney,purchase,AUD,2026-02-25 13:13:21,0
+2565,4039,UK,Moscow,withdrawal,USD,2025-11-11 10:06:16,0
+4540,4324,Australia,Russia,refund,RUB,2025-04-02 00:27:38,1
+1770,4253,Canada,Paris,withdrawal,RUB,2025-05-29 17:02:38,1
+3960,644,New York,Canada,withdrawal,USD,2025-05-20 05:44:16,0
+1794,3753,Paris,Australia,transfer,JPY,2025-05-17 06:10:30,1
+2332,3956,Germany,Germany,deposit,JPY,2025-07-12 04:39:25,1
+3157,3747,Toronto,Dubai,deposit,USD,2025-10-08 12:39:17,1
+3715,1789,Toronto,Sydney,deposit,CNY,2026-01-08 18:56:33,1
+2731,586,Australia,Berlin,withdrawal,EUR,2026-01-18 17:15:59,0
+3551,1756,Brazil,Russia,withdrawal,USD,2026-01-01 01:18:01,0
+2493,4018,Germany,Russia,purchase,CAD,2025-07-29 18:49:45,1
+4739,312,South Africa,Japan,deposit,CNY,2026-01-01 10:36:53,0
+2767,3322,Toronto,London,withdrawal,CAD,2025-06-30 02:23:49,0
+4099,4861,Canada,Tokyo,transfer,CAD,2025-08-07 00:17:01,0
+2137,193,Tokyo,UAE,deposit,INR,2025-09-10 10:23:32,1
+480,1808,Toronto,UK,purchase,RUB,2025-07-09 14:16:34,0
+261,4027,Dubai,Russia,transfer,CNY,2025-06-05 08:43:57,1
+1813,1072,Toronto,UK,refund,CAD,2025-09-30 09:19:01,0
+546,2796,Sydney,New York,deposit,CNY,2026-03-10 02:16:48,0
+1154,3012,Rio de Janeiro,Moscow,refund,CNY,2026-03-12 12:33:19,1
+2734,1789,Paris,Russia,deposit,GBP,2025-07-06 00:28:39,0
+93,3974,Sydney,New York,withdrawal,GBP,2025-12-27 11:48:43,1
+4490,4898,France,Japan,deposit,INR,2025-07-14 23:03:39,1
+4434,4304,Australia,UK,withdrawal,USD,2026-01-16 03:41:45,0
+2564,3705,Brazil,USA,purchase,CAD,2025-05-05 20:21:26,1
+4630,280,South Africa,Canada,purchase,CHF,2025-07-25 05:48:36,0
+1192,69,UK,Russia,transfer,INR,2025-12-27 01:39:15,1
+1857,3385,Tokyo,Dubai,withdrawal,EUR,2025-05-20 15:12:58,0
+4863,974,Paris,Russia,deposit,EUR,2025-12-16 15:09:48,0
+293,1525,South Africa,Dubai,transfer,JPY,2025-03-31 13:21:35,1
+2385,1675,Toronto,Sydney,purchase,USD,2025-10-18 12:59:11,0
+2725,1720,London,Canada,purchase,EUR,2026-02-10 06:43:25,1
+832,145,New York,New York,deposit,AUD,2025-09-21 17:47:21,0
+487,2819,Sydney,New York,deposit,INR,2025-03-28 06:33:33,1
+1888,1318,Tokyo,Tokyo,deposit,AUD,2026-03-10 20:59:58,1
+4015,1975,London,Berlin,refund,USD,2025-10-31 10:04:32,1
+2824,1416,New York,London,deposit,RUB,2025-06-29 19:53:51,1
+405,4430,Tokyo,Brazil,purchase,CAD,2025-11-09 15:37:30,0
+115,417,Canada,UK,purchase,CHF,2026-03-16 03:11:50,1
+4635,1488,USA,Brazil,deposit,USD,2025-04-22 08:44:14,0
+3094,4773,Cape Town,UAE,transfer,RUB,2025-12-31 10:19:04,0
+3734,3479,Toronto,Rio de Janeiro,transfer,CAD,2025-07-01 04:04:18,1
+1940,910,Japan,Tokyo,purchase,CAD,2025-09-06 18:38:41,0
+2937,173,London,Australia,purchase,CAD,2025-04-05 22:23:10,0
+4835,3541,Dubai,UK,deposit,AUD,2025-04-06 13:53:17,0
+2514,2647,UK,USA,purchase,AUD,2025-07-16 10:04:51,0
+2903,777,Berlin,France,transfer,EUR,2026-03-10 12:42:01,0
+2116,2002,Brazil,Dubai,deposit,JPY,2025-12-27 20:55:47,0
+1546,1833,Canada,Sydney,deposit,JPY,2026-02-02 01:12:42,1
+1509,922,New York,Paris,purchase,JPY,2026-01-01 21:07:32,1
+2019,2927,South Africa,Brazil,withdrawal,GBP,2026-01-31 19:45:11,0
+1975,3214,Canada,Russia,transfer,AUD,2025-07-03 02:21:58,0
+2282,600,UAE,Moscow,withdrawal,CHF,2025-11-03 21:34:58,0
+3550,1010,Rio de Janeiro,UAE,deposit,CAD,2025-06-12 21:03:25,1
+1258,2654,Dubai,London,deposit,AUD,2025-05-29 04:34:02,0
+323,550,Japan,UK,transfer,GBP,2025-11-27 04:18:04,0
+896,1891,Sydney,Berlin,withdrawal,CHF,2025-09-18 19:33:26,1
+2352,1880,Germany,Dubai,deposit,USD,2025-11-03 10:41:08,0
+2628,3564,Dubai,Australia,purchase,RUB,2025-04-24 20:27:26,1
+4857,4591,Brazil,Paris,withdrawal,RUB,2025-12-22 20:10:57,1
+4829,1214,Sydney,Russia,transfer,INR,2025-08-31 06:39:33,0
+2752,4877,Canada,Rio de Janeiro,purchase,RUB,2025-07-24 10:51:42,1
+4662,1632,UK,Germany,refund,CNY,2025-04-25 08:34:42,0
+4128,3493,USA,Rio de Janeiro,purchase,CNY,2025-07-08 09:59:00,1
+4927,587,Japan,Dubai,purchase,AUD,2026-03-18 03:41:01,1
+1125,2178,Rio de Janeiro,Canada,purchase,USD,2025-04-12 17:20:07,0
+1776,3384,Dubai,Moscow,refund,CNY,2025-09-06 22:20:46,0
+4014,2634,South Africa,Moscow,deposit,CHF,2025-10-03 19:55:25,1
+433,704,Berlin,Sydney,purchase,CAD,2025-12-16 06:03:47,1
+2792,624,New York,Berlin,purchase,INR,2025-04-26 05:01:03,1
+3592,3111,USA,Paris,deposit,CAD,2025-08-01 02:16:16,0
+4882,1515,UK,UK,transfer,RUB,2025-12-06 19:50:39,1
+503,13,Canada,Tokyo,deposit,CNY,2025-10-20 09:54:31,0
+3221,4247,Sydney,Moscow,withdrawal,USD,2025-09-29 18:48:52,0
+1671,492,South Africa,Brazil,purchase,EUR,2026-02-12 01:53:23,1
+260,1172,Cape Town,USA,refund,AUD,2026-02-24 18:05:07,1
+2340,2462,Germany,Sydney,purchase,JPY,2025-07-06 06:00:26,0
+520,569,Canada,Toronto,transfer,CNY,2025-09-29 11:22:03,1
+4695,891,UAE,Paris,withdrawal,INR,2025-08-20 18:08:01,0
+1489,4022,USA,UK,refund,INR,2025-12-22 21:45:56,0
+2272,538,Germany,Tokyo,withdrawal,GBP,2025-05-21 11:07:26,1
+1117,4697,Australia,Germany,purchase,GBP,2025-07-20 17:02:44,1
+693,1634,France,Japan,withdrawal,GBP,2025-04-08 11:56:19,1
+218,4163,Canada,Canada,refund,GBP,2025-05-19 08:17:06,1
+1479,2482,Rio de Janeiro,Brazil,refund,INR,2025-10-24 11:51:11,1
+2207,458,Sydney,New York,deposit,JPY,2025-06-25 17:54:26,0
+3583,3385,Brazil,New York,transfer,INR,2026-01-18 19:54:52,0
+1544,178,Germany,Russia,deposit,CNY,2025-11-17 02:32:49,0
+3403,541,France,London,purchase,CHF,2025-06-25 08:16:18,1
+3612,2706,Germany,Germany,deposit,CNY,2026-01-27 14:08:39,0
+1201,1555,Canada,New York,withdrawal,CHF,2025-04-26 03:55:53,0
+4267,4470,Sydney,UK,purchase,CHF,2025-04-23 07:41:14,0
+551,4754,Berlin,Brazil,refund,AUD,2025-05-04 14:15:16,1
+302,2615,Toronto,Germany,transfer,GBP,2025-05-24 23:51:09,0
+791,2790,UAE,Germany,transfer,GBP,2025-04-22 02:29:04,0
+4651,3373,Canada,Paris,withdrawal,INR,2025-10-15 01:47:20,0
+1514,1750,Tokyo,Australia,deposit,INR,2025-05-18 23:36:41,0
+940,3837,South Africa,Paris,refund,GBP,2025-07-02 11:10:09,1
+3160,1932,Germany,Sydney,purchase,CAD,2025-04-04 15:26:10,0
+2407,1962,Berlin,Dubai,refund,CNY,2026-01-26 19:23:43,0
+2094,137,Paris,Paris,deposit,AUD,2025-07-10 06:21:03,1
+799,1106,USA,Japan,refund,EUR,2025-05-16 07:15:46,0
+267,950,USA,London,refund,USD,2025-12-02 23:37:44,1
+2160,1072,Sydney,Russia,purchase,JPY,2026-01-13 14:02:01,0
+4779,2293,Canada,Berlin,refund,CNY,2026-01-30 15:10:21,0
+4017,1251,Berlin,Canada,refund,CHF,2025-11-03 16:48:33,0
+2612,4341,Rio de Janeiro,Dubai,transfer,RUB,2026-01-07 07:40:38,0
+4786,281,Japan,Rio de Janeiro,refund,RUB,2026-03-05 08:48:03,0
+1685,1118,Paris,UK,transfer,CNY,2025-11-02 09:17:21,0
+1165,3656,Japan,UK,transfer,INR,2025-04-26 10:50:50,0
+1791,2896,Dubai,Sydney,deposit,GBP,2025-12-07 19:18:10,1
+2876,3075,Canada,Canada,transfer,CAD,2025-11-16 09:32:57,0
+385,1752,France,Japan,refund,CAD,2025-04-09 12:05:41,0
+3731,4715,Berlin,Australia,purchase,CNY,2026-02-11 02:36:20,0
+386,1387,Berlin,Tokyo,transfer,CHF,2026-02-12 11:41:12,0
+1773,3644,Tokyo,Japan,refund,CNY,2025-12-29 07:10:39,1
+3347,1359,Japan,Brazil,withdrawal,AUD,2026-02-28 14:35:13,0
+643,10,Japan,Australia,refund,CAD,2026-02-07 03:32:20,1
+649,1243,UAE,Berlin,purchase,CAD,2025-06-15 13:38:26,0
+2368,1869,Canada,Sydney,withdrawal,CNY,2026-03-04 05:31:02,1
+1256,3512,Australia,UAE,refund,JPY,2025-05-08 09:37:12,0
+589,3095,Australia,USA,deposit,INR,2025-12-18 09:29:19,1
+1399,3745,Cape Town,Dubai,deposit,CAD,2025-11-02 05:28:05,1
+4016,2057,Paris,New York,withdrawal,INR,2025-09-08 08:45:34,0
+565,2137,France,Moscow,refund,GBP,2025-06-03 02:07:25,0
+566,1377,Tokyo,Moscow,purchase,GBP,2025-12-07 06:22:20,1
+464,4366,UK,Japan,purchase,GBP,2026-03-16 03:06:39,0
+387,3840,Sydney,UAE,deposit,EUR,2025-07-12 03:01:43,0
+4924,3339,France,Canada,transfer,CNY,2025-04-05 13:15:29,1
+112,1174,Rio de Janeiro,Canada,withdrawal,USD,2025-04-03 17:15:56,1
+2342,859,New York,Dubai,refund,GBP,2026-03-22 16:55:00,0
+3211,476,Paris,Sydney,purchase,EUR,2025-06-25 15:52:55,0
+2774,2079,Rio de Janeiro,UAE,purchase,GBP,2025-11-21 04:35:25,0
+2982,2684,France,Moscow,withdrawal,USD,2025-06-20 17:06:08,0
+258,192,London,USA,transfer,AUD,2026-02-13 02:46:08,1
+3599,3639,Australia,New York,deposit,CHF,2025-05-01 17:16:02,1
+665,2476,Paris,Russia,withdrawal,CAD,2025-12-20 12:05:27,1
+2252,2622,Germany,Paris,transfer,CNY,2025-10-21 09:55:57,0
+553,4065,Canada,Canada,transfer,INR,2025-07-11 18:08:41,1
+4117,2062,Cape Town,UK,withdrawal,CAD,2025-10-04 11:51:14,0
+2291,4601,Paris,Rio de Janeiro,deposit,CAD,2025-05-11 00:12:52,0
+4888,3119,London,New York,withdrawal,GBP,2026-02-03 06:02:30,1
+2200,2999,Toronto,Russia,withdrawal,USD,2025-07-02 13:46:55,1
+4141,920,Dubai,Germany,deposit,USD,2025-05-21 20:52:45,1
+1696,4309,London,London,deposit,CHF,2025-07-26 12:42:18,1
+1332,133,Paris,Brazil,deposit,CHF,2025-04-05 05:23:44,1
+2783,997,Tokyo,Tokyo,deposit,USD,2025-06-22 12:02:11,0
+1405,1966,Cape Town,Rio de Janeiro,refund,AUD,2025-08-01 17:05:39,1
+1235,801,South Africa,Germany,deposit,AUD,2026-03-11 08:56:28,0
+533,1013,Berlin,USA,transfer,CNY,2026-01-05 04:49:12,1
+4223,2979,Cape Town,Dubai,withdrawal,INR,2025-04-25 03:07:06,0
+4722,854,Japan,UAE,purchase,USD,2026-01-01 09:15:03,0
+4291,1919,Rio de Janeiro,Moscow,deposit,CNY,2025-09-08 06:44:13,0
+950,4381,Australia,UAE,withdrawal,CAD,2025-12-31 05:03:44,0
+3489,4175,Rio de Janeiro,France,deposit,CAD,2025-08-26 15:27:19,0
+3543,2308,Brazil,New York,purchase,INR,2025-06-05 10:41:38,0
+3820,738,Tokyo,Canada,transfer,EUR,2025-08-14 20:49:55,0
+329,1779,Cape Town,UK,refund,EUR,2025-07-01 14:16:09,0
+1053,671,USA,Rio de Janeiro,refund,USD,2025-07-13 20:52:22,1
+2019,4204,Canada,Brazil,withdrawal,EUR,2026-01-21 14:42:14,0
+4197,1309,Brazil,Toronto,transfer,JPY,2025-06-10 12:17:58,0
+3171,4435,New York,Toronto,purchase,AUD,2025-10-21 08:08:22,1
+2920,1166,USA,Germany,transfer,INR,2025-12-14 07:29:36,0
+655,4489,New York,Russia,purchase,EUR,2025-07-06 06:11:07,0
+2247,2239,Germany,Brazil,refund,RUB,2025-09-16 06:27:18,1
+328,1941,Canada,Germany,purchase,INR,2026-03-11 17:32:46,0
+569,1179,Dubai,USA,purchase,GBP,2025-06-05 13:01:29,1
+4328,628,London,Toronto,withdrawal,USD,2025-07-09 23:57:22,1
+383,215,Paris,Australia,deposit,CAD,2026-03-01 09:19:06,0
+865,4652,France,New York,withdrawal,GBP,2025-08-05 19:07:36,0
+1085,4581,France,Brazil,withdrawal,USD,2025-09-14 00:24:30,1
+2510,2240,Paris,New York,deposit,CHF,2025-12-03 17:19:02,0
+2087,4575,Toronto,Berlin,purchase,AUD,2026-01-26 14:38:47,0
+323,4162,France,UAE,transfer,AUD,2025-07-13 06:54:57,1
+2716,654,Dubai,Moscow,purchase,EUR,2025-05-24 18:04:20,1
+28,224,Germany,Sydney,purchase,CHF,2026-03-16 01:17:20,0
+4465,3604,Dubai,Paris,withdrawal,AUD,2025-04-11 17:47:11,0
+2052,2369,Toronto,Rio de Janeiro,deposit,CHF,2026-03-07 02:04:47,0
+1495,4564,Paris,Australia,deposit,GBP,2025-05-18 15:46:38,1
+1499,3446,Cape Town,Toronto,transfer,JPY,2025-04-12 22:14:32,0
+279,4523,Paris,Dubai,refund,INR,2025-11-03 14:41:24,1
+460,4969,Brazil,USA,purchase,INR,2025-08-10 05:27:59,0
+4988,3772,Japan,Sydney,refund,CAD,2025-07-19 12:10:12,0
+170,3925,Toronto,France,purchase,CHF,2025-12-19 18:37:12,0
+2178,3327,USA,Tokyo,purchase,RUB,2025-07-20 13:09:48,0
+3077,2057,London,Brazil,transfer,AUD,2025-07-11 12:39:30,1
+1896,1077,Berlin,France,refund,CAD,2025-05-31 10:10:54,1
+55,4907,USA,Australia,purchase,CHF,2026-02-09 23:29:55,0
+3617,4522,Berlin,Japan,transfer,RUB,2025-12-11 19:37:03,0
+910,4957,Toronto,Australia,refund,INR,2025-12-09 06:37:03,1
+3712,4657,Berlin,Japan,withdrawal,CHF,2025-06-06 09:22:45,1
+2467,4508,Germany,Australia,withdrawal,GBP,2025-05-30 07:11:22,1
+4691,4063,Germany,Rio de Janeiro,withdrawal,EUR,2025-07-12 10:11:55,1
+3685,2706,Cape Town,Brazil,deposit,RUB,2026-02-24 11:25:52,1
+2596,3707,USA,New York,withdrawal,AUD,2025-06-12 16:50:13,0
+969,1770,USA,Russia,refund,GBP,2025-08-24 08:47:29,0
+3070,1107,Berlin,Germany,refund,EUR,2025-09-16 17:10:14,1
+3031,4001,London,Sydney,refund,INR,2025-11-20 22:01:50,0
+3723,4695,USA,Brazil,withdrawal,CAD,2025-12-06 23:24:43,1
+3649,4861,New York,UK,purchase,RUB,2025-09-27 16:21:56,0
+2511,233,Sydney,UAE,purchase,CNY,2025-11-13 15:21:10,1
+1046,1675,Brazil,Germany,refund,AUD,2025-11-18 03:48:54,1
+2699,562,France,France,purchase,GBP,2025-06-12 15:47:04,1
+2546,2262,Toronto,Paris,withdrawal,CHF,2025-06-11 19:46:28,0
+845,1550,UAE,Toronto,withdrawal,USD,2025-08-14 18:29:02,0
+3148,765,South Africa,Germany,deposit,RUB,2025-08-31 22:07:36,1
+4452,4769,Japan,Germany,transfer,EUR,2025-10-26 10:33:32,0
+2478,2901,UAE,Germany,deposit,EUR,2025-06-01 10:18:47,1
+4667,2353,Germany,France,refund,GBP,2025-04-05 07:56:56,1
+1919,1912,Tokyo,Australia,transfer,CNY,2025-05-30 20:32:37,1
+3873,2207,Berlin,Dubai,purchase,JPY,2025-12-16 10:52:41,1
+4755,1473,UAE,Dubai,withdrawal,EUR,2025-11-11 23:34:58,1
+1284,2299,Australia,Brazil,refund,AUD,2025-06-03 17:26:50,0
+978,3748,Japan,Paris,refund,RUB,2025-10-20 08:39:29,0
+3363,2168,France,New York,deposit,GBP,2025-12-05 07:55:38,1
+216,3802,Tokyo,Russia,withdrawal,CHF,2025-08-28 05:29:21,1
+4152,2379,South Africa,Sydney,withdrawal,GBP,2026-01-24 18:58:28,1
+1157,2460,Rio de Janeiro,London,refund,AUD,2025-07-10 00:53:00,1
+418,2021,New York,Brazil,refund,AUD,2025-09-28 05:51:57,0
+4885,3797,Sydney,USA,transfer,RUB,2026-01-09 18:37:00,0
+3588,3778,Dubai,UAE,withdrawal,EUR,2025-08-13 10:59:08,1
+2506,206,Tokyo,Germany,transfer,RUB,2025-11-16 09:10:51,0
+528,4864,UAE,Paris,refund,RUB,2025-07-03 20:59:02,1
+4655,3031,Australia,Russia,refund,USD,2025-12-15 18:36:19,1
+213,79,New York,Japan,deposit,AUD,2025-08-21 06:07:27,0
+3883,2949,Berlin,France,transfer,USD,2025-05-06 00:01:15,1
+1878,1571,France,Brazil,purchase,CHF,2026-03-05 14:18:27,1
+4947,1028,Germany,Moscow,transfer,INR,2025-06-17 07:13:27,0
+465,2352,France,Brazil,deposit,CHF,2025-07-31 05:16:34,1
+1612,4028,Germany,Japan,withdrawal,USD,2025-10-08 18:00:08,1
+1409,1773,Germany,Berlin,deposit,EUR,2025-12-10 02:27:37,0
+3910,1790,Berlin,London,transfer,USD,2025-10-21 10:03:31,1
+275,536,Cape Town,London,purchase,CHF,2025-10-27 09:22:39,0
+4649,840,Dubai,Moscow,purchase,GBP,2026-02-02 11:41:49,0
+2155,3264,Sydney,London,purchase,RUB,2026-02-16 19:10:35,1
+3773,721,Brazil,Russia,purchase,RUB,2026-03-04 10:14:26,1
+4382,1729,Australia,New York,deposit,CNY,2025-09-13 22:58:17,1
+56,83,Brazil,Dubai,purchase,AUD,2025-08-18 05:53:54,0
+4200,2821,Australia,USA,refund,CHF,2025-05-25 10:20:10,1
+4429,1337,Canada,Paris,deposit,AUD,2025-07-11 01:38:49,1
+3797,2296,UAE,Russia,deposit,EUR,2025-12-01 17:55:16,0
+4933,872,UAE,USA,refund,CHF,2025-06-15 12:36:40,0
+1418,2086,Japan,USA,withdrawal,RUB,2026-01-26 07:03:51,0
+3383,1422,UAE,UAE,purchase,GBP,2025-07-07 21:57:31,1
+88,4691,Japan,France,withdrawal,JPY,2025-05-02 17:18:43,0
+870,347,New York,France,deposit,AUD,2025-10-08 22:32:41,1
+2363,4611,Canada,Berlin,purchase,RUB,2025-12-26 02:20:24,0
+4476,552,Rio de Janeiro,Moscow,deposit,AUD,2025-06-10 19:48:05,1
+1112,2228,Sydney,London,purchase,CAD,2026-01-07 20:03:37,0
+1374,4463,Brazil,Japan,refund,GBP,2025-09-07 09:04:00,0
+4372,940,New York,Japan,transfer,USD,2025-07-16 17:56:32,0
+4431,1847,South Africa,Dubai,purchase,JPY,2025-07-10 22:06:22,1
+4336,4549,Germany,London,withdrawal,EUR,2025-06-13 10:24:37,1
+596,3221,Japan,Russia,transfer,INR,2026-02-23 11:08:17,1
+4241,3684,UK,Germany,transfer,CAD,2025-09-01 03:18:10,1
+2445,2579,Sydney,New York,withdrawal,RUB,2025-04-03 23:22:19,0
+4917,1399,Japan,Canada,refund,CNY,2025-06-02 20:23:46,0
+2758,3200,Toronto,Canada,deposit,INR,2025-10-30 14:32:49,0
+2103,2725,Brazil,France,purchase,GBP,2025-11-13 04:06:58,1
+2614,2501,London,UK,deposit,JPY,2026-02-20 13:01:53,1
+4019,1187,UK,Toronto,withdrawal,CNY,2025-10-08 17:12:53,1
+1442,4779,Sydney,Sydney,deposit,GBP,2025-04-05 23:09:43,1
+3589,4272,Brazil,Canada,purchase,INR,2026-02-28 04:40:19,0
+4719,1611,UK,Sydney,withdrawal,JPY,2025-09-26 12:28:29,0
+2465,554,Paris,Canada,withdrawal,GBP,2025-09-19 11:19:56,0
+238,4730,Dubai,Brazil,deposit,USD,2026-03-23 05:26:28,0
+3300,4189,Canada,London,withdrawal,CNY,2025-11-25 17:44:26,1
+1180,2287,Tokyo,London,purchase,RUB,2025-04-06 20:26:08,0
+2580,2972,Cape Town,Berlin,transfer,CNY,2025-05-12 23:40:34,0
+3601,784,Brazil,Paris,purchase,CAD,2025-03-30 06:21:05,0
+920,1285,Brazil,Paris,withdrawal,EUR,2025-08-31 11:40:02,0
+1644,1581,Canada,Brazil,withdrawal,CAD,2026-02-23 03:41:41,1
+951,2129,Australia,Moscow,withdrawal,INR,2025-10-08 16:30:35,1
+3463,2350,Brazil,Paris,withdrawal,USD,2025-09-30 12:15:20,1
+3933,967,USA,Paris,purchase,CHF,2026-03-04 06:19:14,0
+199,1279,Sydney,Canada,purchase,CAD,2026-02-12 06:37:38,0
+1305,778,Rio de Janeiro,France,deposit,AUD,2025-06-28 16:05:20,1
+2865,2621,USA,Japan,refund,JPY,2025-10-02 21:10:49,0
+3929,2012,Canada,New York,purchase,USD,2025-11-06 13:12:01,0
+1365,1852,Dubai,Berlin,transfer,CAD,2025-10-12 20:45:39,1
+64,1101,Japan,USA,deposit,INR,2025-12-05 16:00:41,0
+3935,1229,UAE,Berlin,deposit,AUD,2025-04-18 08:49:41,1
+2194,3281,Dubai,UK,withdrawal,CAD,2025-12-03 02:26:38,0
+1448,4842,Japan,Dubai,transfer,JPY,2025-06-19 12:29:32,0
+855,4602,Cape Town,USA,purchase,AUD,2025-06-29 21:28:00,0
+1160,1063,London,France,deposit,RUB,2025-12-30 02:01:21,1
+2376,2365,Australia,USA,refund,JPY,2025-09-12 18:51:30,0
+4096,894,Sydney,Japan,transfer,EUR,2025-09-04 01:07:45,0
+1541,3940,Brazil,Rio de Janeiro,transfer,CHF,2025-05-30 16:43:59,0
+814,4419,Germany,Australia,purchase,CNY,2025-10-07 05:59:57,0
+2960,1518,Rio de Janeiro,Moscow,transfer,CHF,2026-01-07 02:33:22,1
+1964,4984,USA,UK,deposit,USD,2025-06-28 23:26:50,1
+2897,726,Rio de Janeiro,UK,purchase,USD,2026-01-24 20:42:22,1
+3388,1233,South Africa,Rio de Janeiro,purchase,RUB,2025-05-18 13:54:54,1
+4613,1211,Dubai,Berlin,withdrawal,EUR,2025-09-02 18:14:25,1
+1405,4513,Rio de Janeiro,Sydney,refund,CAD,2026-03-08 08:20:30,1
+147,2772,UAE,Australia,withdrawal,CAD,2025-10-13 03:30:10,0
+542,4419,Canada,Toronto,withdrawal,JPY,2025-09-17 23:18:44,0
+4364,612,Canada,Sydney,withdrawal,CHF,2026-03-02 11:01:57,0
+3013,823,Japan,USA,purchase,INR,2025-10-21 22:15:24,1
+4107,2348,London,Tokyo,transfer,AUD,2025-04-27 07:45:07,0
+1348,4902,Japan,Moscow,withdrawal,JPY,2025-12-17 05:12:07,1
+4053,3979,France,Australia,transfer,RUB,2025-11-06 12:17:43,0
+1646,2278,Japan,Canada,transfer,RUB,2025-12-26 02:50:02,0
+4595,4998,Australia,Dubai,deposit,EUR,2026-01-16 03:26:58,1
+3658,4252,Brazil,UAE,withdrawal,CAD,2026-01-19 09:40:51,1
+952,1505,Rio de Janeiro,Toronto,transfer,CNY,2025-08-04 14:47:52,1
+704,1181,USA,Sydney,withdrawal,RUB,2025-07-22 04:27:43,0
+4806,1962,UK,Berlin,transfer,GBP,2026-01-03 16:12:17,0
+881,4638,South Africa,Australia,purchase,JPY,2025-08-19 19:16:05,0
+2510,3306,Brazil,Paris,deposit,AUD,2026-03-08 22:17:39,0
+2983,117,Paris,Berlin,deposit,GBP,2025-07-08 23:18:31,1
+2643,1624,Canada,Rio de Janeiro,deposit,JPY,2025-10-31 17:35:38,1
+994,2623,Australia,Canada,purchase,CNY,2025-12-27 08:03:09,0
+2942,414,Canada,UAE,refund,CAD,2025-10-21 12:02:34,1
+3960,3419,New York,Dubai,purchase,JPY,2025-07-20 21:03:47,1
+3109,3732,Cape Town,Moscow,purchase,JPY,2025-12-03 00:57:30,1
+700,128,Paris,Russia,transfer,USD,2025-06-20 03:24:43,1
+2292,153,Dubai,Moscow,transfer,EUR,2026-03-23 03:42:34,0
+4231,4881,South Africa,Dubai,purchase,JPY,2025-10-28 11:50:26,1
+2834,3254,Dubai,France,purchase,CAD,2025-04-18 22:59:08,0
+1560,2942,Brazil,Paris,purchase,EUR,2025-06-27 05:19:09,1
+113,2664,Tokyo,UAE,transfer,GBP,2025-07-30 23:41:16,0
+4249,559,Rio de Janeiro,Rio de Janeiro,transfer,CHF,2025-09-21 13:31:59,0
+1012,3169,Dubai,Brazil,deposit,RUB,2025-03-27 08:33:41,0
+2565,2118,Paris,Germany,deposit,EUR,2025-07-03 05:32:46,1
+1701,1228,Berlin,Tokyo,withdrawal,USD,2025-08-18 10:23:17,0
+4752,71,Brazil,Tokyo,purchase,INR,2025-11-15 03:09:50,1
+4219,503,UAE,Japan,deposit,CHF,2026-02-08 08:16:19,0
+4512,203,South Africa,Germany,withdrawal,CHF,2025-05-06 14:09:35,1
+4054,528,London,Paris,transfer,GBP,2025-04-24 21:20:41,1
+4602,615,Brazil,France,withdrawal,AUD,2025-08-01 21:54:17,1
+141,2791,UK,New York,withdrawal,CHF,2025-07-10 06:55:30,0
+4402,3674,USA,Toronto,refund,RUB,2025-06-03 09:37:01,1
+4063,512,Tokyo,UAE,deposit,GBP,2025-11-13 19:13:22,1
+4302,469,Rio de Janeiro,Sydney,purchase,GBP,2026-02-17 23:10:29,1
+3806,3007,UK,Dubai,purchase,INR,2026-03-20 20:26:55,0
+2712,4560,Dubai,UAE,purchase,CAD,2025-11-16 15:26:38,0
+1014,3326,UAE,France,transfer,CHF,2025-11-24 02:52:49,0
+1248,1141,UAE,UAE,deposit,CAD,2025-10-29 19:40:11,0
+676,1259,France,France,transfer,CAD,2025-10-14 22:06:40,1
+165,1936,France,UK,purchase,RUB,2026-03-24 08:28:02,1
+1040,4153,UK,Dubai,purchase,INR,2025-11-26 12:24:14,1
+432,4907,Brazil,Toronto,deposit,EUR,2025-07-03 06:52:55,1
+3766,4997,Toronto,Brazil,refund,JPY,2025-08-25 23:42:19,0
+2115,3370,UK,Toronto,deposit,JPY,2025-04-26 18:42:24,1
+2753,4134,Canada,Toronto,transfer,CNY,2025-10-02 02:12:07,0
+4305,2087,UAE,London,transfer,CNY,2026-03-16 05:38:30,1
+457,2153,Rio de Janeiro,New York,purchase,EUR,2026-01-28 14:35:13,1
+324,2680,USA,Toronto,withdrawal,CNY,2025-07-20 15:59:56,1
+1015,2259,Sydney,UAE,withdrawal,EUR,2025-08-22 06:20:30,1
+3176,1778,Berlin,New York,refund,RUB,2025-11-07 11:59:12,1
+632,4006,New York,Japan,refund,CHF,2025-07-16 08:14:00,0
+3880,3097,New York,Australia,purchase,JPY,2025-11-25 05:18:58,0
+804,391,Toronto,Canada,purchase,INR,2026-01-15 03:03:45,0
+1245,1544,Dubai,Sydney,refund,CAD,2026-02-15 07:34:14,0
+921,1262,Toronto,Germany,deposit,CAD,2025-06-01 14:41:55,1
+3300,3409,UK,Toronto,purchase,INR,2025-04-12 09:21:37,0
+3011,4959,UK,Sydney,purchase,CNY,2025-04-06 10:11:25,0
+3178,1037,Sydney,Rio de Janeiro,transfer,CNY,2025-12-23 10:47:10,0
+2836,4464,Brazil,Dubai,transfer,GBP,2026-03-19 06:05:46,0
+1139,2659,Rio de Janeiro,USA,transfer,INR,2025-09-02 17:33:44,0
+4266,2822,Toronto,USA,withdrawal,GBP,2025-08-19 11:05:16,1
+4981,2337,France,Tokyo,withdrawal,CHF,2025-07-08 05:33:44,0
+3607,2852,London,UAE,deposit,JPY,2025-12-21 09:08:10,1
+2469,190,Toronto,Canada,deposit,JPY,2025-07-01 23:26:28,1
+3689,4469,UK,Dubai,transfer,GBP,2026-03-04 13:27:05,0
+269,563,Cape Town,Germany,withdrawal,CHF,2025-05-09 14:03:00,1
+2179,3282,Paris,London,transfer,AUD,2025-12-11 23:49:24,1
+568,3390,France,Canada,withdrawal,INR,2026-03-04 01:54:49,0
+1450,905,Paris,Japan,transfer,CNY,2025-09-26 14:51:21,0
+627,3266,Sydney,UAE,refund,CAD,2026-03-01 05:15:33,1
+4422,1385,Australia,Rio de Janeiro,purchase,AUD,2026-01-23 12:25:19,0
+4005,3636,Dubai,Brazil,purchase,JPY,2026-01-04 06:36:41,1
+1641,3659,Canada,New York,withdrawal,CAD,2026-02-11 05:26:57,0
+4374,4131,Canada,London,deposit,CAD,2025-10-30 21:10:43,1
+1580,4829,Toronto,Toronto,refund,CNY,2026-01-15 12:15:15,0
+84,3724,New York,Russia,refund,AUD,2026-01-09 21:49:21,1
+1269,3038,UK,Berlin,refund,CNY,2025-12-14 14:41:11,0
+1568,3613,Germany,USA,deposit,JPY,2025-05-13 01:19:08,1
+2711,4801,UAE,Sydney,deposit,JPY,2025-08-07 21:36:19,1
+811,4771,Paris,Canada,deposit,JPY,2026-02-04 06:52:55,1
+3235,2574,Japan,Paris,purchase,GBP,2025-08-26 04:06:10,0
+1905,4219,Dubai,UK,transfer,JPY,2025-11-19 10:45:05,1
+2300,3811,Berlin,Japan,deposit,GBP,2025-05-15 16:44:08,1
+3506,4304,Brazil,Tokyo,withdrawal,JPY,2025-07-13 13:10:47,0
+302,3145,Cape Town,Paris,refund,CHF,2026-02-18 21:21:44,0
+637,3774,Toronto,New York,deposit,RUB,2025-08-07 15:21:52,0
+4414,1960,Australia,Russia,withdrawal,GBP,2025-12-31 06:45:51,0
+1416,1617,UAE,Berlin,transfer,CAD,2026-03-14 13:45:46,1
+1236,750,Dubai,Canada,refund,CNY,2026-02-19 20:56:37,0
+2258,1143,Paris,Germany,transfer,JPY,2025-07-11 19:17:03,1
+4064,4753,UAE,UAE,deposit,JPY,2026-03-13 11:06:58,0
+894,2708,Toronto,New York,deposit,CNY,2025-08-18 16:04:26,0
+888,3706,London,Brazil,transfer,INR,2025-10-05 16:02:23,1
+1472,3338,UK,New York,purchase,RUB,2026-01-22 12:38:26,1
+54,1176,London,UK,transfer,CHF,2025-09-29 05:12:16,1
+4047,4695,UK,Toronto,withdrawal,CNY,2025-06-03 16:01:59,0
+3072,757,Rio de Janeiro,USA,transfer,CHF,2025-04-25 18:04:30,1
+820,1420,Germany,Rio de Janeiro,refund,INR,2025-04-25 00:40:40,1
+4933,2221,London,Japan,transfer,EUR,2026-02-12 14:23:30,0
