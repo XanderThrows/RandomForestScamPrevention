@@ -20,6 +20,8 @@ namespace ScamModelTrainer
             var randomSeed = new Random().Next();
             var mlContext = new MLContext(seed: randomSeed);  //sometimes gives AUC error??
 
+            Console.WriteLine($"Working Directory: {Environment.CurrentDirectory}");
+
             // Load Data
             var data = mlContext.Data.LoadFromTextFile<TransactionData>(
                 "RandomForestDataSpread.csv",
@@ -96,11 +98,12 @@ namespace ScamModelTrainer
                 Console.WriteLine($"Actual: {p.Label,-5} | Pred: {p.PredictedLabel,-5} | Prob: {p.Probability:P2}");
             }
 
+            // Predict Single New Transaction
             var predictionEngine = mlContext.Model.CreatePredictionEngine<TransactionData, Prediction>(model);
             var newTransaction = new TransactionData
             {
-                TransactionAmount = 20,   
-                AverageTransactionAmount = 500,   
+                TransactionAmount = 20,
+                AverageTransactionAmount = 500,
                 CustomerLocation = "New York",
                 TransactionType = "subscription",
                 CurrencyType = "USD",
@@ -113,26 +116,31 @@ namespace ScamModelTrainer
 
             Console.WriteLine("\n--- Sample Transaction Prediction ---");
             Console.WriteLine($"Predicted Risk: {result.PredictedLabel}");
+            //Console.WriteLine($"Probability:    {finalProb:P2}");
             Console.WriteLine($"Confidence:     {finalMargin:F2}");
 
-            if(result.Score > 0.6)
+            if (result.Score > 0.6)
             {
                 Console.WriteLine("Scam");
             }
-            else if(result.Score < 0.4)
+            else if (result.Score < 0.4)
             {
                 Console.WriteLine("Safe");
+            }
             else
+            {
                 Console.WriteLine("Flag");
             }
+        }
+    }
 
     public class TransactionData
     {
         [LoadColumn(0)]
-        public float TransactionAmount;         
+        public float TransactionAmount;
 
         [LoadColumn(1)]
-        public float AverageTransactionAmount;  
+        public float AverageTransactionAmount;
 
         [LoadColumn(2)]
         public string CustomerLocation;          // categorical -> encode numeric
@@ -149,7 +157,7 @@ namespace ScamModelTrainer
         /*[LoadColumn(6)]
         public string Timestamp;*/      //ignored, too complicated and overfitting
 
-        [LoadColumn(7)]
+        [LoadColumn(6)]
         public bool RiskLabel;
     }
 
@@ -165,7 +173,7 @@ namespace ScamModelTrainer
         [ColumnName("Score")]
         public float Score { get; set; }
 
-        [ColumnName("RiskLabel")]   
-        public bool Label { get; set; } 
+        [ColumnName("RiskLabel")]
+        public bool Label { get; set; }
     }
 }
