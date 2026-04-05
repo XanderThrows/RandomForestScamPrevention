@@ -96,7 +96,6 @@ namespace ScamModelTrainer
                 Console.WriteLine($"Actual: {p.Label,-5} | Pred: {p.PredictedLabel,-5} | Prob: {p.Probability:P2}");
             }
 
-            // Predict Single New Transaction
             var predictionEngine = mlContext.Model.CreatePredictionEngine<TransactionData, Prediction>(model);
             var newTransaction = new TransactionData
             {
@@ -114,7 +113,6 @@ namespace ScamModelTrainer
 
             Console.WriteLine("\n--- Sample Transaction Prediction ---");
             Console.WriteLine($"Predicted Risk: {result.PredictedLabel}");
-            //Console.WriteLine($"Probability:    {finalProb:P2}");
             Console.WriteLine($"Confidence:     {finalMargin:F2}");
 
             if(result.Score > 0.6)
@@ -124,13 +122,9 @@ namespace ScamModelTrainer
             else if(result.Score < 0.4)
             {
                 Console.WriteLine("Safe");
-            }
             else
-            {
                 Console.WriteLine("Flag");
             }
-        }
-    }
 
     public class TransactionData
     {
