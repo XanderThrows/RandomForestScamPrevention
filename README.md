@@ -173,7 +173,7 @@ Personal Note: This is the first time implementing a Random Forest, and it fits 
 ## Dataset
 
 **Where did it come from?**
-- The dataset of over 10,000 lines was synthetically generated using Mockaroo: https://mockaroo.com/
+- The dataset of over 10,000 lines was synthetically generated using my own code in C#, references to it are omitted
 
 ---
 
