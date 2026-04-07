@@ -18,7 +18,7 @@ namespace ScamModelTrainer
         {
 
             var randomSeed = new Random().Next();
-            var mlContext = new MLContext(seed: randomSeed);  //sometimes gives AUC error??
+            var mlContext = new MLContext(seed: 42);  //sometimes gives AUC error??
 
             Console.WriteLine($"Working Directory: {Environment.CurrentDirectory}");
 
@@ -51,10 +51,10 @@ namespace ScamModelTrainer
 
                 LabelColumnName = nameof(TransactionData.RiskLabel),
                 FeatureColumnName = "Features",
-                NumberOfTrees = 200,   //200
+                NumberOfTrees = 100,   //200
                 NumberOfLeaves = 20,   //20
                 MinimumExampleCountPerLeaf = 10,  //10
-                FeatureFraction = 0.8
+                FeatureFraction = 0.7
             });
 
 
@@ -131,6 +131,27 @@ namespace ScamModelTrainer
             {
                 Console.WriteLine("Flag");
             }
+
+            Console.WriteLine("=== MODEL METRICS ===");
+            Console.WriteLine($"Accuracy:  {metrics.Accuracy:P2}");
+            Console.WriteLine($"AUC:       {metrics.AreaUnderRocCurve:P2}");
+            Console.WriteLine($"F1 Score:  {metrics.F1Score:P2}");
+            Console.WriteLine($"Precision: {metrics.PositivePrecision:P2}");
+            Console.WriteLine($"Recall:    {metrics.PositiveRecall:P2}");
+
+            var cm = metrics.ConfusionMatrix;
+
+            Console.WriteLine("=== CONFUSION MATRIX ===");
+            Console.WriteLine($"TP: {cm.Counts[1][1]}");
+            Console.WriteLine($"FP: {cm.Counts[0][1]}");
+            Console.WriteLine($"FN: {cm.Counts[1][0]}");
+            Console.WriteLine($"TN: {cm.Counts[0][0]}");
+
+            var probs = predictedEnumerable.Select(p => p.Probability).ToList();
+
+            Console.WriteLine($"Avg Prob: {probs.Average()}");
+            Console.WriteLine($"Min Prob: {probs.Min()}");
+            Console.WriteLine($"Max Prob: {probs.Max()}");
         }
     }
 
