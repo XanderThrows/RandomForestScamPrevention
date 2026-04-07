@@ -113,7 +113,7 @@ Traditional rule-based approaches in fraud detection are limited and prone to fa
 - Recipient location  
 - Transaction type  
 - Currency type  
-- Timestamp  
+- Timestamp //this was removed from project, all references to it are now false
 
 ---
 
